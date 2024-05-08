@@ -311,6 +311,8 @@ TypeError: can only concatenate tuple (not "int") to tuple
 (1, 2, 3, 4, 5, 1)
 ```
 ## 딕셔너리
+#파이썬 #딕셔너리
+
 - key와 value를 한 쌍으로 가지는 해시 형태의 자료형
 - key와 value 한 쌍을 중괄호로 둘러싸고 있으며 쉼표( , )로 구분
 - key는 숫자와 문자열만 사용 가능하고 value는 데이터의 형태 제한이 없음
@@ -368,3 +370,24 @@ TypeError: can only concatenate tuple (not "int") to tuple
 >>> dict3
 {'a' : 'A', 'b' : 'B', 3: [1, 2, 3], 4: {'name': 'Kei', 'age': 35}}
 ```
+- 딕셔너리에 있는 데이터 쌍을 하나씩 삭제하는 방법과 모든 데이터 쌍을 한번에 
+  삭제하는 방법이 있다
+- 특정 key를 가지는 데이터 쌍을 삭제하기 위해서는 del 사용
+- ※<span style="color:yellow"> 딕셔너리가 갖고있지 않은 key를 이용해 삭제하려 하면 에러 발생</span>
+- 모든 데이터 쌍을 한 번에 삭제하기 위해서는 clear( )함수 사용
+```python
+>>> dek duct3['a']
+>>> dict3
+{'b': 'B', 3: [1, 2, 3], 4: {'name': 'Kei', 'age': 35}}
+>>> del dict3[3]
+>>> dict3
+{'b': 'B', 4: {'name': 'Kei', 'age': 35}}
+>>> dict3.clear()
+{ }
+```
+## 불리언
+#파이썬 #불리언
+- 불리언<sup>boolean</sup>은 참과 거짓을 나타내는 자료형이다
+- 간단하게 불<sup>bool</sup>로 나타내기도 한다
+- 참은 True로, 거짓은 False로 표현한다
+- <
