@@ -545,6 +545,7 @@ i=10
 | %o                                                        | 8진수 출력                                               |
 | %f                                                        | 실수 출력                                                |
 | %s                                                        | 문자열 출력                                               |
+|                                                           |                                                      |
 
 ```python
 >>> while True: #무한루프
@@ -805,3 +806,26 @@ index: 4 / velue: 14
 >>> str.find("i")
 -1
 ```
+### strip( )
+- 문자열 양쪽 끝의 공백을 제거하는 함수
+```python
+>>> str = " I want to be a great programmer. "
+>>> new_str = str.strip()
+>>> new_str
+'I want to be a great programmer.'
+```
+### filter( )
+- 개별 요소를 반복적으로 셀 수 있는 객체<sup>iterable object</sup>를 입력 받아 각 요소를 함수로 수행 한 후 결과가 True인 것만 묶어서 반환 한것
+```python
+>>> def is_even(number):
+... Tab return number % 2 == 0
+... Enter
+>>> numbers = range(1, 21)
+>>> even_list = list(filter(is_even, numbers))
+>>> print(even_list)
+[2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
+```
+>[!note] list생성자는 생략가능한 하나의 인자를 가지며 인자로 들어온데이터(객체)를 리스트로 반환한다
+
+>[!warning] filter( )함수는 filter객체 형태로 반환 하기 때문에 리스트 형태로 사용불가, 사용하려면 list생성자를 사용해야함
+
