@@ -430,3 +430,37 @@ else: #다른 조건이없는 경우 생략 가능
 check is true
 -------------
 ```
+>[!note] 파이썬에서는 곱셈연산을 이용해서 동일한 문자를 n번 출력할 수 있다. 사용자에게 문자열을 출력할 때 많이 사용된다
+- check변수가 False일 때 cheack is false 문자열을 출력하는 코드
+```python
+>>> check = False
+>>> if not check:
+... Tab print('-' * 14)
+... Tab print('check is false')
+... Tab print('-' * 14)
+... Enter
+--------------
+check is false
+--------------
+```
+- check변수가 True 또는 False인지 검사할 때 \=\=연산자나 !=연산자 사용 가능
+```python
+>>> check = False
+>>> if check == False:
+... Tab print('-' * 14)
+... Tab print('check is false')
+... Tab print('-' * 14)
+... Enter
+--------------
+check is false
+--------------
+>>> if check != True;
+... Tab print('-' * 14)
+... Tab print('check is false')
+... Tab print('-' * 14)
+... Enter
+--------------
+check is false
+--------------
+```
+- 밑은 많이 사용하는 연산자다
