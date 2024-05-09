@@ -390,4 +390,43 @@ TypeError: can only concatenate tuple (not "int") to tuple
 - 불리언<sup>boolean</sup>은 참과 거짓을 나타내는 자료형이다
 - 간단하게 불<sup>bool</sup>로 나타내기도 한다
 - 참은 True로, 거짓은 False로 표현한다
-- <
+- ※<span style="color: yellow"> 첫 문자에 소문자 사용시 오류 발생</span>
+```python
+>>> check = True
+>>> uncheck = False
+>>> type(check)
+<class 'bool'>
+>>> uncheck
+False
+```
+# 파이썬 제어문
+#파이썬 #제어문
+## if 조건문
+#파이썬 #제어문 #조건문 if문
+
+- 조건을 판단 했을 때 논리적으로 참일 경우에만 코드 수행
+```python
+if 조건1: #조건1이 True인 경우 실행
+	코드
+	코드
+elif 조건2: #생략할 수 있으며 조건이 많으면 여러번 사용 가능
+	코드 #조건2가 True인 경우 실행
+	코드
+else: #다른 조건이없는 경우 생략 가능
+	코드 #if의 모든 조건이 해당되지 않는 경우 실행
+	코드
+```
+- 파이썬 인터프리터에서는 if 제어문 내부로 들어갈 때 프롬프트가 ...으로 변한다
+- 이때 ``Tab``키를 눌러 들여쓰기를 한다.
+- ``Enter``키를 입력하면 if문을 빠져나오는 즉시 실행됨
+```python
+>>> check = True
+>>> if check:
+... Tab print('-' * 13)
+... Tab print('check is true')
+... Tab print('-' * 13)
+... Enter
+-------------
+check is true
+-------------
+```
