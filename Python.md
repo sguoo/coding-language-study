@@ -464,3 +464,344 @@ check is false
 --------------
 ```
 - 밑은 많이 사용하는 연산자다
+
+- age 변수가 19 이상일 때와 미만일 때를 구분하기
+```python
+>>> age = 15
+>>> if age >= 19:
+... Tab print('You are an adult')
+... else:
+... Tab print('You are not an adult')
+... Enter
+You are not an adult
+```
+
+- 조건식이 여러개인 경우엔 elif 조건문 사용
+- if 조건식이 False인 경우 순차적으로 그다음 elif 조건식을 조사하며 그 결과가 True일 때까지 내려간다
+- elif의 조건식에서도 True가 아니라면 else 구문이 처리된다.
+```python
+>>> score = 84
+>>> if score >= 90:
+... Tab print('Grade A')
+... elif score >= 80:
+... Tab print('Grade B')
+... elif score >= 70:
+... Tab print('Grade C')
+... else
+... Tab print('Grade D')
+... Enter
+Grade B
+```
+- 거리 구간별로 요금을 측적 하는 예제
+```python
+>>> dist = 300
+>>> if dist >= 0 and dist <= 50:
+... Tab print('1000won')
+... elif dist > 50 and dist <= 100:
+... Tab print('2000won')
+... else:
+... Tab print('Over 3000won')
+... Enter
+Over 3000won
+```
+
+## while 반복문
+#파이썬 #조건문 #반복문 while
+
+-  조건이 False가 될 때까지 반복한다
+-  조건이 참인 동안 반복문에 포함된 코드를 반복해서 수행한다
+```python
+while 조건:
+	코드
+	코드
+	...
+```
+>[!warning] 조건이 False가 되지 않는다면 무한 루프에 빠진다.<br> 무한루프에 빠질시 시스템이 느려질 수 있다
+
+- 1부터 10 까지의 숫자를 출력하는 예제
+```python
+>>> i = 1
+>>> while i <= 10:
+... Tab print('i=%d' % i)
+... Tab i = i + 1
+... Enter
+i=1
+i=2
+i=3
+i=4
+i=5
+i=6
+i=7
+i=8
+i=9
+i=10
+```
+>[!note] 문자열 포매터 %d를 사용해서 문자열 출력시 숫자 데이터로 치환하였다. 이를 문자열 포매팅 기능이라고 한다.
+
+| <div style="background-color:white; color: black">문자열 포매팅 | <div style="background-color:white; color: black">설명 |
+| --------------------------------------------------------- | ---------------------------------------------------- |
+| %d                                                        | 10진수 출력                                              |
+| %x                                                        | 16진수 출력                                              |
+| %o                                                        | 8진수 출력                                               |
+| %f                                                        | 실수 출력                                                |
+| %s                                                        | 문자열 출력                                               |
+
+```python
+>>> while True: #무한루프
+... Tab print('input number : ')
+... menu = int(input())
+... Tab if menu == 0: break #무한루프 중단
+... Tab elif menu == 1: print('number one')
+... Tab elif menu == 99:
+... Tab Tab continue #continue는 조건 검사 없이 다음 루프 진행
+... Tab elif menu == 2:
+... Tab Tab print('number two')
+... Tab else:
+... Tab Tab print('another number')
+... Enter
+input number :
+1
+number one
+input number :
+2
+number two
+input number :
+3
+another number
+input number :
+99
+input number :
+0
+```
+
+## for문
+#파이썬 #반복문 #제어문 for
+
+- 리스트나 튜플, 문자열에서 요소를 하나씩 꺼내서 사용할땐 for문을 쓴다.
+```python
+for 변수 in 리스트|튜플|문자열:
+	코드
+	코드
+	...
+```
+- 리스트 내용을 순차적으로 화면에 출력하는 예제
+```python
+>>> numbers = [1, 2, 3, 4, 5]
+>>> for n in numbers:
+... Tab print(n)
+... Enter
+1
+2
+3
+4
+5
+```
+- range( ) 함수를 이용하면 리스트를 쉽게 표현 할 수 있다. 숫자 리스트의 시작과 끝을 인자로 사용한다.
+- 숫자 리스트를 for 반복문으로 출력하는 예제
+```python
+>>> numbers = range(1, 6)
+>>> for n in numbers:
+... Tab print(n)
+... Enter
+1
+2
+3
+4
+5
+6
+```
+-  좌표(x , y)를 저장하는 리스트를 출력하는 예제
+```python
+>>> coord = [ (0, 0), (10, 15), (20 ,25) ]
+>>> for x, y in coord:
+... Tab print(x, y)
+... Enter
+0 0
+10 15
+20 25
+```
+- user 딕셔너리의 key만 모아서 dict_keys 객체로 반환하는 예제[^1]
+
+[^1]: 딕셔너리 내부의 keys()함수를 이용한다
+
+```python
+>>> user = { 'name': 'Kei', 'age': 35, 'nationality': 'korea'}
+>>> user.keys()
+dict_keys(['name', 'age', 'nationality'])
+```
+```python
+>>> user = { 'ame': 'Kei', 'age': 35, 'nationality': 'Korea'}
+>>> for k in user.keys():
+... Tab print(k)
+... Enter
+name
+age
+nationality
+```
+
+- user 딕셔너리의 value만 모아서 dict_values 객체로 반환하는 예제[^2]
+
+[^2]: 딕셔너리 내부의 value()함수를 이용한다
+```python
+>>> user = { 'name':'Kei', 'age':35, 'nationality':'Korea'}
+>>> user.values()
+dict_values(['Kei', 35, 'Korea'])
+```
+```python
+>>> user = { 'name':'Kei', 'age':35, 'nationality':'Korea'}
+>>> for v in user.values():
+... Tab print(v)
+... Enter
+Kei
+35
+Korea
+```
+- key/value 데이터 쌍 리스트를 반환하는 예제[^3]
+
+[^3]: 딕셔너리 내부의 items()함수를 이용한다
+```python
+>>> user{ 'name': 'Kei', 'age': 35, 'nationality': 'Korea'}
+>>> user.items()
+dict_items([('name', 'Kei'), ('age', 35), ('nationality', 'Korea')])
+```
+```python
+>>> user{ 'name': 'Kei', 'age': 35, 'nationality': 'Korea'}
+>>> for k, v in user.items():
+... Tab print(k,v)
+... Enter
+name Kei
+age 35
+nationality Korea
+```
+# 함수
+#파이썬 #함수 
+- 하나의 기능을 수행하는 코드들의 집합
+- 반복적으로 수행하는 코드들을 기능 단위로 묶은 것
+- 함수명으로 그 함수의 역할을 유추할 수 있어야합니다.
+![[Python Funtion|200]]
+- 파이썬에는 세가지 함수를 사용할 수 있다.
+	1. 우리들이 만든 사용자 정의 함수
+	2. 시스템 내장 함수
+	3. 외장 함수
+## 사용자 정의 함수
+#파이썬 #함수 [[사용자 정의 함수| ]]
+- 사용자가 직접 만든 함수
+- 함수에 포함된 코드들을 묶으며, 소괄호 ( ) 뒤에 <span style="color:red">반드시</span> 쌍점 ( : )을 사용해야 한다
+-  함수 명은 변수 명과 동일한 명명 규칙을 가지고 있다
+- 경우에 따라서 인자와 결과 값 생략 가능
+```python
+def 함수명(인자):
+	코드
+	코드
+	...
+	return 결괏값
+```
+-  a와 b를 더해 그 결과를 반환하는 예제
+```python
+>>> def add(a, b):
+... Tab return a+b
+... Enter
+>>> add(10, 20)
+30
+```
+- 결과를 반환하지 않고 정보와 점수를 입력하면 화면에 출력하는 함수
+```python
+>>> def print_user(user, score):
+... Tab print("name : %s" % user['name'])
+... Tab print("age : %d" % user['age'])
+... Tab print("score : %d" % score)
+... Enter
+>>> user = { 'name': 'Kei', 'age': 35}
+>>> score = 86
+>>> print_user(user,score)
+name : Kei
+age : 35
+score : 86
+```
+## 내장 함수
+#파이썬 #함수 [[내장함수| ]]
+- 파이썬에 기본적으로 내장되어 있는 함수
+- 별도로 모듈을 import하지 않아도 사용 할 수 있다
+### format( )
+- 기본적으로 %d와 동일한 기능을 하며 변수 타입과 상관없이 중괄호와 순서에 맞는 인덱만 사용하면 된다
+```python
+>>> print('integer : {} / float : {} / string : {}'.format(10.3.14, "hello"))
+integer : 10 / float : 3.14 / string : hello
+>>> print('integer : {0} / float : {1} / string : {2}'.format(10.3.14, "hello"))
+integer : 10 / float : 3.14 / string : hello
+>>> print('float : {1} / integer : {0} / string : {2}'.format(10.3.14, "hello"))
+float : 3.14 / integer : 10 / string : hello
+```
+### enumerate( )
+- 순서가 있는 자료형을 입력하면 인덱스를 포함한 요솟값을 반환한다
+- for 반복문을 이용해 순서가 있는 자료형을 탐색할 때 편하다
+```python
+>>> numbers = [10, 11, 12, 13, 14]
+>>> for idx, value in enumerate(numbers):
+... Tab print('index:{} / value:{}'.format(idx,value))
+... Enter
+index: 0 / velue: 10
+index: 1 / velue: 11
+index: 2 / velue: 12
+index: 3 / velue: 13
+index: 4 / velue: 14
+```
+### str( )
+- 입력으로 들어온 데이터를 문자열 객체로 반환
+```python
+>>> str(10)
+'10'
+>>> type(str(10))
+<class 'str'>
+>>> str("hello")
+'hello'
+>>> str("hello".upper())
+'Hello'
+>>> str("HELLO".lower())
+'hello'
+>>> str([1,2,3])
+'[1,2,3]'
+```
+### join( )
+- 리스트에 포함되어 있는 요소들을 지정한 구분자로 구분해 문자열로 반환 하는 함수
+- 리스트 내 요소들을 문자열로 합칠 때 자주 사용
+```python
+>>> names = ['Kei', 'Tonny', 'Grace', 'Jenny', 'Jaeyoo']
+>>> ','.join(names)
+'Kei,Tonny,Grace,Jenny,Jaeyoo'
+>>> '/'.join(names)
+'Kei/Tonny/Grace/Jenny/Jaeyoo'
+```
+### split( )
+- join( )함수와 반대로 문자열을 특정 구분자를 기준으로 분리해 리스트로 반환하는 함수
+```python
+>>> names = ['Kei', 'Tonny', 'Grace', 'Jenny', 'Jaeyoo']
+>>> names_str = ','.join(names)
+>>> names_split = names_str.split(',')
+>>> names_split
+['Kei', 'Tonny', 'Grace', 'Jenny', 'Jaeyoo']
+```
+### id ( )
+- 객체의 고유 주솟값을 반환
+- 컴퓨터나 운용체제에 따라 바뀔 수 있다.
+```python
+>>> a = 10
+>>> id(a)
+140735531391704
+>>> b = a
+>>> id(b)
+140735531391704
+```
+### find( )
+- 특정 문자열을 찾기 위해 사용한다
+- 찾으려는 문자열을 입력 받으면 그 문자열의 시작 위치를 반환한다
+- 찾지 못한다면 -1을 반환한다
+```python
+>>> str = "I want to be a great programmer"
+>>> str.find("be")
+10
+>>> str.find("I")
+0
+>>> str.find("i")
+-1
+```
