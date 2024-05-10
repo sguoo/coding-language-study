@@ -829,3 +829,5 @@ index: 4 / velue: 14
 
 >[!warning] filter( )함수는 filter객체 형태로 반환 하기 때문에 리스트 형태로 사용불가, 사용하려면 list생성자를 사용해야함
 
+### lambda 키워드
+- lambda(람다)는 함수를 생성할 떄 사용하는 키워드이다.
