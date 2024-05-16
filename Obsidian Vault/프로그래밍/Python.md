@@ -843,3 +843,13 @@ index: 4 / velue: 14
 - 복잡한 경우 def 사용, 간결한 경우 lambda 사용
 `lamda 인자1, 인자2, ..., 인자n: 코드`
 - 인자로 얻은 변수 x에 2를 곱하는 lambda함수와 def함수 비교 그림
+![[lambda def bigyo]]
+lambda를 사용하는 예제
+```python
+>>> f = lambda x: x*2
+>>> f(2)
+4
+>>> f(4)
+8
+```
+filter에 lambda를 사
