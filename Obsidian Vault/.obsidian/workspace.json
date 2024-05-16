@@ -11,11 +11,9 @@
             "id": "8fba25b70eb4d653",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "프로그래밍/옵시디언.md",
-                "mode": "source",
-                "source": false
+                "file": "프로그래밍/프로그래밍 자료/css pyogibub.md"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#cccccc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +71,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/옵시디언.md",
+                "file": "프로그래밍/프로그래밍 자료/css pyogibub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/옵시디언.md",
+                "file": "프로그래밍/프로그래밍 자료/css pyogibub.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/옵시디언.md"
+                "file": "프로그래밍/프로그래밍 자료/css pyogibub.md"
               }
             }
           },
@@ -154,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",

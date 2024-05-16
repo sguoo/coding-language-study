@@ -2925,8 +2925,8 @@ rbn/rgba 표기법 ^KpOuop4Y
 		},
 		{
 			"type": "rectangle",
-			"version": 774,
-			"versionNonce": 22672374,
+			"version": 778,
+			"versionNonce": 371054698,
 			"index": "aY",
 			"isDeleted": false,
 			"id": "vgOmU6GmuoYQNwNx3qv5T",
@@ -2952,14 +2952,14 @@ rbn/rgba 표기법 ^KpOuop4Y
 					"type": "text"
 				}
 			],
-			"updated": 1715869114691,
+			"updated": 1715901236158,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1784,
-			"versionNonce": 1348988522,
+			"version": 1800,
+			"versionNonce": 1170037430,
 			"index": "aZ",
 			"isDeleted": false,
 			"id": "bpybjdnN",
@@ -2980,7 +2980,7 @@ rbn/rgba 표기법 ^KpOuop4Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715869114691,
+			"updated": 1715901242501,
 			"link": null,
 			"locked": false,
 			"fontSize": 32.925302078746455,
@@ -6008,123 +6008,6 @@ rbn/rgba 표기법 ^KpOuop4Y
 			"updated": 1715869111596,
 			"link": null,
 			"locked": false
-		},
-		{
-			"type": "freedraw",
-			"version": 164,
-			"versionNonce": 1293619754,
-			"index": "b0A",
-			"isDeleted": true,
-			"id": "G64NoBHCYjr-8msIAGmnW",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 938.3138752828286,
-			"y": -108.75640891171815,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "#ffffff",
-			"width": 1139.2620849609375,
-			"height": 1212.29248046875,
-			"seed": 1989798929,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1715869121317,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					14.605712890625
-				],
-				[
-					-7.3028564453125,
-					51.12060546875
-				],
-				[
-					-51.12060546875,
-					109.54437255859375
-				],
-				[
-					-146.0589599609375,
-					197.17987060546875
-				],
-				[
-					-292.1185302734375,
-					343.23944091796875
-				],
-				[
-					-394.3597412109375,
-					438.17779541015625
-				],
-				[
-					-460.086669921875,
-					518.5104370117188
-				],
-				[
-					-496.6015625,
-					569.63134765625
-				],
-				[
-					-533.116455078125,
-					620.751953125
-				],
-				[
-					-584.237060546875,
-					679.1757202148438
-				],
-				[
-					-635.357666015625,
-					744.9026489257812
-				],
-				[
-					-759.508056640625,
-					861.7498779296875
-				],
-				[
-					-839.8406982421875,
-					927.476806640625
-				],
-				[
-					-905.567626953125,
-					993.2034301757812
-				],
-				[
-					-993.203125,
-					1073.5360717773438
-				],
-				[
-					-1066.2322998046875,
-					1139.2626953125
-				],
-				[
-					-1110.0506591796875,
-					1175.777587890625
-				],
-				[
-					-1139.2620849609375,
-					1204.9896240234375
-				],
-				[
-					-1139.2620849609375,
-					1212.29248046875
-				],
-				[
-					-1139.2620849609375,
-					1212.29248046875
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
 		}
 	],
 	"appState": {
@@ -6142,10 +6025,10 @@ rbn/rgba 표기법 ^KpOuop4Y
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 765.2247360816648,
-		"scrollY": 563.3120070344512,
+		"scrollX": -611.9957997882273,
+		"scrollY": 87.52140253221799,
 		"zoom": {
-			"value": 0.4
+			"value": 1.4500000000000002
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
