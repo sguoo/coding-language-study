@@ -862,4 +862,8 @@ filter( )함수에 lambda를함수를 사용하는 예제
 ### map( )
 - 개별 요소를 반복적으로 셀 수 있는 객체를 입력 받아 각 요소를 함수로 수행 한 후 결과를 보이 반환
 - map( ) 함수는 바로바로 계산하지 않기 때문에 게으른 연산<sup>lazy evaluation</sup>을 한다함.
-- 
+- 결괏값이 필요 할 때까지 계산 하지 않음
+```python
+>>> def square (number):
+... Tab return number ** 2 #*
+```
