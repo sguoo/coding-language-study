@@ -11,9 +11,11 @@
             "id": "8fba25b70eb4d653",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "프로그래밍/프로그래밍 자료/Python Funtion.md"
+                "file": "프로그래밍/Python.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/프로그래밍 자료/Python Funtion.md",
+                "file": "프로그래밍/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/프로그래밍 자료/Python Funtion.md",
+                "file": "프로그래밍/Python.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/프로그래밍 자료/Python Funtion.md"
+                "file": "프로그래밍/Python.md"
               }
             }
           },
@@ -173,6 +175,7 @@
   },
   "active": "8fba25b70eb4d653",
   "lastOpenFiles": [
+    "프로그래밍/프로그래밍 자료/Python Funtion.md",
     "프로그래밍/C.md",
     "프로그래밍/Python.md",
     "프로그래밍/css.md",
@@ -198,7 +201,6 @@
     "프로그래밍/프로그래밍 자료/C pointer2.md",
     "프로그래밍/프로그래밍 자료/C pointer.md",
     "프로그래밍/프로그래밍 자료/css Style.md",
-    "프로그래밍/프로그래밍 자료/Python Funtion.md",
     "프로그래밍/프로그래밍 자료",
     "공부/프로그래밍/README.md",
     "공부/과학.md",
