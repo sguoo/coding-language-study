@@ -11,9 +11,11 @@
             "id": "5bcfadb962f30fee",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "프로그래밍"
+                "file": "프로그래밍/css.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -58,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"프로그래밍/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "프로그래밍/css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "프로그래밍/css.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "프로그래밍/css.md"
+              }
             }
           },
           {
@@ -181,7 +186,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac04ef6efcf3345c",
+  "active": "5bcfadb962f30fee",
   "lastOpenFiles": [
     "프로그래밍/Python.md",
     "프로그래밍/프로그래밍 자료/css pyogibub.md",
