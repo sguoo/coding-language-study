@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5bcfadb962f30fee",
-            "type": "leaf",
-            "state": {
-              "type": "mx-webpage",
-              "state": {
-                "source": "https://youtube.com/"
-              }
-            }
-          },
-          {
             "id": "8fba25b70eb4d653",
             "type": "leaf",
             "state": {
@@ -28,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b088f1fe8fa231a5",
+            "type": "leaf",
+            "state": {
+              "type": "mx-webpage",
+              "state": {
+                "source": "https://www.youtube.com/watch?v=X8z23t428kU"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,8 +181,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5bcfadb962f30fee",
+  "active": "b088f1fe8fa231a5",
   "lastOpenFiles": [
+    "공부/공부 자료/Game Project/project/동방요습격.md",
     "프로그래밍/프로그래밍 자료/css pyogibub.md",
     "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
     "프로그래밍/프로그래밍 자료/Cascading style sheet 1.md",
@@ -209,7 +211,6 @@
     "공부/과학.md",
     "공부/곱셈공식.md",
     "공부/대규모 화산분출.md",
-    "Vault.md",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509230146_252.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509224536_097.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225142_221.gif",
