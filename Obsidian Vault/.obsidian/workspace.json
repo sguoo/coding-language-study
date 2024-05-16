@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "abf4aa6aa51c6dc1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "프로그래밍/프로그래밍 자료/Drawing 2024-05-17 08.21.27.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/Python.md",
+                "file": "프로그래밍/프로그래밍 자료/Drawing 2024-05-17 08.21.27.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/Python.md",
+                "file": "프로그래밍/프로그래밍 자료/Drawing 2024-05-17 08.21.27.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/Python.md"
+                "file": "프로그래밍/프로그래밍 자료/Drawing 2024-05-17 08.21.27.excalidraw.md"
               }
             }
           },
@@ -153,7 +164,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -173,11 +185,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8fba25b70eb4d653",
+  "active": "24d136a6414d5bbf",
   "lastOpenFiles": [
+    "Excalidraw/Excalidraw.md",
+    "프로그래밍/프로그래밍 자료/Drawing 2024-05-17 08.21.27.excalidraw.md",
+    "프로그래밍/Python.md",
     "프로그래밍/프로그래밍 자료/Python Funtion.md",
     "프로그래밍/C.md",
-    "프로그래밍/Python.md",
     "프로그래밍/css.md",
     "프로그래밍/옵시디언.md",
     "공부/수행평가.md",
@@ -196,14 +210,12 @@
     "책 정리, 독후감/그리고 아무도 없었다.md",
     "책 정리, 독후감/모비딕.md",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
-    "Excalidraw/Excalidraw.md",
     "공부/공부 자료/Game Project/Team Project/Game project load map.md",
     "프로그래밍/프로그래밍 자료/C pointer2.md",
     "프로그래밍/프로그래밍 자료/C pointer.md",
     "프로그래밍/프로그래밍 자료/css Style.md",
     "프로그래밍/프로그래밍 자료",
     "공부/프로그래밍/README.md",
-    "공부/과학.md",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509224536_097.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225142_221.gif",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225757_002.gif",
