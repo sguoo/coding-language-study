@@ -4,43 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "ecd26418ea4a4fc9",
-        "type": "split",
+        "id": "9a34ac78eff0ea4b",
+        "type": "tabs",
         "children": [
           {
-            "id": "9a34ac78eff0ea4b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8fba25b70eb4d653",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "프로그래밍/C.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "8fba25b70eb4d653",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로그래밍/C.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "25c495402003e360",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a8db046f0ec6f88b",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
+      },
+      {
+        "id": "fbcc47f911275d11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4822bf74cc43ecb",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +189,9 @@
   },
   "active": "8fba25b70eb4d653",
   "lastOpenFiles": [
+    "프로그래밍/Python.md",
     "프로그래밍/css.md",
+    "프로그래밍/C.md",
     "프로그래밍/옵시디언.md",
     "공부/수행평가.md",
     "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
@@ -211,11 +206,9 @@
     "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
     "프로그래밍/프로그래밍 자료/Cascading style sheet 1.md",
     "프로그래밍/프로그래밍 공부.md",
-    "프로그래밍/Python.md",
     "책 정리, 독후감/그리고 아무도 없었다.md",
     "책 정리, 독후감/모비딕.md",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
-    "프로그래밍/C.md",
     "Excalidraw/Excalidraw.md",
     "공부/공부 자료/Game Project/Team Project/Game project load map.md",
     "프로그래밍/프로그래밍 자료/C pointer2.md",
