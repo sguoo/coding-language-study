@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부/수행평가.md",
+                "file": "프로그래밍/Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부/수행평가.md",
+                "file": "프로그래밍/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부/수행평가.md",
+                "file": "프로그래밍/Python.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부/수행평가.md"
+                "file": "프로그래밍/Python.md"
               }
             }
           },
@@ -189,20 +189,22 @@
   },
   "active": "5bcfadb962f30fee",
   "lastOpenFiles": [
+    "프로그래밍/프로그래밍 자료/css pyogibub.md",
+    "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
+    "프로그래밍/옵시디언.md",
+    "프로그래밍/css.md",
+    "공부/수행평가.md",
     "책 정리, 독후감/그리고 아무도 없었다.md",
     "책 정리, 독후감/모비딕.md",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "정리해둔거.md",
     "프로그래밍/프로그래밍 공부.md",
-    "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
     "공부/수학.md",
     "프로그래밍/C.md",
-    "프로그래밍/css.md",
     "공부/공부.md",
     "Excalidraw/Excalidraw.md",
     "프로그래밍/Python.md",
     "공부/공부 자료/Game Project/Team Project/Game project load map.md",
-    "프로그래밍/프로그래밍 자료/css pyogibub.md",
     "프로그래밍/프로그래밍 자료/C pointer2.md",
     "프로그래밍/프로그래밍 자료/C pointer.md",
     "프로그래밍/프로그래밍 자료/css Style.md",
@@ -210,7 +212,6 @@
     "프로그래밍/프로그래밍 자료/Cascading style sheet 1.md",
     "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
     "프로그래밍/프로그래밍 자료",
-    "프로그래밍/옵시디언.md",
     "공부/프로그래밍/README.md",
     "공부/과학.md",
     "공부/곱셈공식.md",
