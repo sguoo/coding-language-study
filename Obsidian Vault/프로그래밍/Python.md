@@ -865,5 +865,10 @@ filter( )함수에 lambda를함수를 사용하는 예제
 - 결괏값이 필요 할 때까지 계산 하지 않음
 ```python
 >>> def square (number):
-... Tab return number ** 2 #*
+... Tab return number ** 2 #**연산자는 제곱을 의미
+... Enter
+>>> numbers = range(1, 5) #1, 2, 3, 4
+>>> square_list = list(map(square, numbers))
+>>> print(sqaure_list)
+[1, 4, 9, 16]
 ```
