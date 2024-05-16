@@ -856,5 +856,7 @@ filter( )함수에 lambda를함수를 사용하는 예제
 ```python
 >>> numbers = range(1, 21)
 >>> even_list = list(filter(lambda n: n%2==0, numbers))
->>> print(even)
+>>> print(even_list)
+[2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
 ```
+### map( )
