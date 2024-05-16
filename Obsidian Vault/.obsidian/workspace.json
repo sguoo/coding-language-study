@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부/공부 자료/Game Project/project/동방요습격.md",
-                "mode": "preview",
+                "file": "프로그래밍/옵시디언.md",
+                "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "b088f1fe8fa231a5",
-            "type": "leaf",
-            "state": {
-              "type": "mx-webpage",
-              "state": {
-                "source": "https://www.youtube.com/watch?v=X8z23t428kU"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "프로그래밍/옵시디언.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "프로그래밍/옵시디언.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "프로그래밍/옵시디언.md"
+              }
             }
           },
           {
@@ -181,15 +174,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b088f1fe8fa231a5",
+  "active": "8fba25b70eb4d653",
   "lastOpenFiles": [
-    "공부/공부 자료/Game Project/project/동방요습격.md",
+    "프로그래밍/옵시디언.md",
     "프로그래밍/프로그래밍 자료/css pyogibub.md",
+    "공부/공부 자료/Game Project/project/동방요습격.md",
     "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
     "프로그래밍/프로그래밍 자료/Cascading style sheet 1.md",
     "프로그래밍/css.md",
     "프로그래밍/프로그래밍 공부.md",
-    "프로그래밍/옵시디언.md",
     "프로그래밍/Python.md",
     "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
     "공부/수행평가.md",
