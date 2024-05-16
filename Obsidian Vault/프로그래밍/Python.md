@@ -852,4 +852,9 @@ lambda를 사용하는 예제
 >>> f(4)
 8
 ```
-filter에 lambda를 사
+filter( )함수에 lambda를함수를 사용하는 예제
+```python
+>>> numbers = range(1, 21)
+>>> even_list = list(filter(lambda n: n%2==0, numbers))
+>>> print(even)
+```
