@@ -910,5 +910,9 @@ for i in range(cnt):
 7 hello
 8 hello
 9 hello
-10 
+```
+- 종료 할 때는 sys.exit( ) 입력
+```python
+>>> import sys
+>>> for n in range(100)
 ```
