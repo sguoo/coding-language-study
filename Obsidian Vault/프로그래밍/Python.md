@@ -874,5 +874,6 @@ filter( )함수에 lambda를함수를 사용하는 예제
 ```
 - lambda 함수 활용
 ```python
-.
+>>> numbers = range(1, 5)
+>>> square_list = list(map(lambda x : x**2, numbers))
 ```
