@@ -884,4 +884,10 @@ filter( )함수에 lambda를함수를 사용하는 예제
 - 특히 명령행에서 인수를 전달받기 위해 많이 사용함
 - ↓처럼 명령 프롬프트 상에서 파이썬 프로그램을 실행할 때 인자 추가 가능
 `> python for_test.py 'hello 10`
-이 값은 sys.argyㄹ
+- 이 값은 sys.argv 리스트에 저장된다
+- 전달받은 인수를 이용해 메시지를 출력하는 방법
+```python
+import sys # sys 모듈 불러오기
+print(sys.argv)
+msg = sys.arg
+```
