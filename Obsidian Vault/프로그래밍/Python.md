@@ -872,3 +872,7 @@ filter( )함수에 lambda를함수를 사용하는 예제
 >>> print(sqaure_list)
 [1, 4, 9, 16]
 ```
+- lambda 함수 활용
+```python
+.
+```
