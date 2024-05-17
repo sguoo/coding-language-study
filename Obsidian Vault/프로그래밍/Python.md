@@ -897,6 +897,18 @@ for i in range(cnt):
 	print(i, msg)
 ```
 - for_test.py 파일을 저장한 경로로 이동해 파이썬 프로그램 실행했을때
-```c
-> python for_test
+```cmd
+> python for_test.py 'hello' 10
+['for_test.py', 'hello', '10']
+0 hello
+1 hello
+2 hello
+3 hello
+4 hello
+5 hello
+6 hello
+7 hello
+8 hello
+9 hello
+10 
 ```
