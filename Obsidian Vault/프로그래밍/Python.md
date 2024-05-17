@@ -896,4 +896,7 @@ cnt = int(sys.argv[2]) # 10
 for i in range(cnt):
 	print(i, msg)
 ```
-for_test.py 파일을 저장한 경로로 이동해 
+- for_test.py 파일을 저장한 경로로 이동해 파이썬 프로그램 실행했을때
+```c
+> python for_test
+```
