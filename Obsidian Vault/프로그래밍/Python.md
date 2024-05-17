@@ -878,4 +878,8 @@ filter( )함수에 lambda를함수를 사용하는 예제
 >>> square_list = list(map(lambda x : x**2, numbers))
 ```
 ## 외장 함수
-`import 모듈명`
+``import 모듈명``
+### sys
+- sys는 파이썬 인터프리터와 관련된 정보와 기능을 제공하는 모듈
+- 특히 명령행에서 인수를 전달받기 위해 많이 사용함
+- 
