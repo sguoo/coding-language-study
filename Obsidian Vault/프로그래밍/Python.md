@@ -936,5 +936,8 @@ for i in range(cnt):
 - pickle 모듈은 파이썬 객체를 파일로 저장하고 메모리로 읽어올 수 있도록 하는 모듈
 - 저장해 놓은 상태에서 프로그램 종료시 객체 내용 다 사라짐
 ```python
->>> import pickle # 
+>>> import pickle # pickle 모듈 임포트
+>>> f = open('setting.txt', 'wb')
+>>> setting = [ {'title': 'python program'}, {'author': 'Kei'} ]
+>>> pickle
 ```
