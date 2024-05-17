@@ -888,6 +888,8 @@ filter( )함수에 lambda를함수를 사용하는 예제
 - 전달받은 인수를 이용해 메시지를 출력하는 방법
 ```python
 import sys # sys 모듈 불러오기
-print(sys.argv)
-msg = sys.arg
+
+print(sys.argv) # 시스템 인자로 들어온 리스트 내용 출력
+msg = sys.argv[1] # 'hello'
+cnt = int(sys.argv[2]) # 10
 ```
