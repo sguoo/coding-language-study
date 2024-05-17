@@ -832,7 +832,7 @@ index: 4 / velue: 14
 >>> print(even_list)
 [2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
 ```
->[!note]list생성자는 생략가능한 하나의 인자를 가지며 인자로 들어온데이터(객체)를 리스트로 반환한다
+>[!note] list생성자는 생략가능한 하나의 인자를 가지며 인자로 들어온데이터(객체)를 리스트로 반환한다
 
 >[!warning] filter( )함수는 filter객체 형태로 반환 하기 때문에 리스트 형태로 사용불가, 사용하려면 list생성자를 사용해야함
 
@@ -958,3 +958,14 @@ for i in range(cnt):
 class 클래스명:
 	...
 ```
+
+
+> [!info]- AAPL (Bid: 164.9, Ask: 164.91, Spread: 0.006%)
+> **Name:** Apple Inc.
+> **Currency:** USD
+> **Volume:** 68,749,792
+> **Market cap:** 2.6T
+> **Day range:** 162.13 – 165
+> **52W range:** 124.17 – 178.49
+>
+><small>*Sun Apr 02 2023 18:28:05 GMT+0100 (British Summer Time)*</small>
