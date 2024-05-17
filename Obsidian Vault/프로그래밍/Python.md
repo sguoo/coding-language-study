@@ -892,4 +892,8 @@ import sys # sys 모듈 불러오기
 print(sys.argv) # 시스템 인자로 들어온 리스트 내용 출력
 msg = sys.argv[1] # 'hello'
 cnt = int(sys.argv[2]) # 10
+
+for i in range(cnt):
+	print(i, msg)
 ```
+for_test.py 파일을 저장한 경로로 이동해 
