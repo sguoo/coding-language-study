@@ -23,11 +23,9 @@
             "id": "abf4aa6aa51c6dc1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "프로그래밍/Python.md",
-                "mode": "source",
-                "source": false
+                "file": "프로그래밍/프로그래밍 자료/lambda def bigyo.md"
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/Python.md",
+                "file": "프로그래밍/프로그래밍 자료/lambda def bigyo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/Python.md",
+                "file": "프로그래밍/프로그래밍 자료/lambda def bigyo.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/Python.md"
+                "file": "프로그래밍/프로그래밍 자료/lambda def bigyo.md"
               }
             }
           },
@@ -189,9 +187,9 @@
   },
   "active": "abf4aa6aa51c6dc1",
   "lastOpenFiles": [
+    "프로그래밍/Python.md",
     "프로그래밍/프로그래밍 자료/lambda def bigyo.md",
     "Excalidraw/Excalidraw.md",
-    "프로그래밍/Python.md",
     "프로그래밍/프로그래밍 자료/Python Funtion.md",
     "프로그래밍/C.md",
     "프로그래밍/css.md",
