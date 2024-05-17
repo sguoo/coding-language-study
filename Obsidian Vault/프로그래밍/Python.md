@@ -914,5 +914,21 @@ for i in range(cnt):
 - 종료 할 때는 sys.exit( ) 입력
 ```python
 >>> import sys
->>> for n in range(100)
+>>> for n in range(100):
+... Tab print(n)
+... Tab if n == 10:
+... Tab Tab sys.exit()
+... Enter
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+# 프로그램 종료됨
 ```
