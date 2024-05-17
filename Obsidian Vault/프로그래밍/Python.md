@@ -939,5 +939,6 @@ for i in range(cnt):
 >>> import pickle # pickle 모듈 임포트
 >>> f = open('setting.txt', 'wb')
 >>> setting = [ {'title': 'python program'}, {'author': 'Kei'} ]
->>> pickle
+>>> pickle.dump(setting, f)
+>>> f.close()
 ```
