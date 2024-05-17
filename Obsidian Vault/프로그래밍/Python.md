@@ -942,4 +942,5 @@ for i in range(cnt):
 >>> pickle.dump(setting, f)
 >>> f.close()
 ```
-	
+# 클래스
+- 객체지향 언어에서는 객체를 생성하기 위해 언어 차원에서 클래스를 지워
