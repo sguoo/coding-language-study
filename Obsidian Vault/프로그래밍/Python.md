@@ -877,3 +877,5 @@ filter( )함수에 lambda를함수를 사용하는 예제
 >>> numbers = range(1, 5)
 >>> square_list = list(map(lambda x : x**2, numbers))
 ```
+## 외장 함수
+`import 모듈명`
