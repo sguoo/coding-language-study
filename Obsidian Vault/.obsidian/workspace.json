@@ -23,9 +23,11 @@
             "id": "6d125814b47480d8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/Game project load map.md"
+                "file": "프로그래밍/C.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/Game project load map.md",
+                "file": "프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/Game project load map.md",
+                "file": "프로그래밍/C.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/Game project load map.md"
+                "file": "프로그래밍/C.md"
               }
             }
           },
@@ -188,8 +190,8 @@
   },
   "active": "6d125814b47480d8",
   "lastOpenFiles": [
-    "Pasted Image 20240519223941_176.png",
     "공부/공부 자료/Game Project/Team Project/Game project load map.md",
+    "Pasted Image 20240519223941_176.png",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "프로그래밍/프로그래밍 자료/Cascading style sheet 1.md",
     "프로그래밍/프로그래밍 자료/C pointer2.md",
