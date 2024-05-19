@@ -23,11 +23,9 @@
             "id": "abf4aa6aa51c6dc1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "프로그래밍/Python.md",
-                "mode": "source",
-                "source": false
+                "file": "책 정리, 독후감/책 자료/Pasted image 20240509152111.png"
               }
             }
           }
@@ -86,7 +84,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/Python.md",
+                "file": "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/Python.md",
+                "file": "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/Python.md"
+                "file": "책 정리, 독후감/책 자료/Pasted image 20240509152111.png"
               }
             }
           },
@@ -189,18 +188,18 @@
   },
   "active": "abf4aa6aa51c6dc1",
   "lastOpenFiles": [
+    "정리해둔거.md",
+    "프로그래밍/Python.md",
     "프로그래밍/C.md",
     "프로그래밍/프로그래밍 공부.md",
     "프로그래밍/옵시디언.md",
     "공부/수학.md",
-    "프로그래밍/Python.md",
     "프로그래밍/프로그래밍 자료/lambda def bigyo.md",
     "Excalidraw/Excalidraw.md",
     "프로그래밍/프로그래밍 자료/Python Funtion.md",
     "프로그래밍/css.md",
     "공부/수행평가.md",
     "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
-    "정리해둔거.md",
     "공부/공부.md",
     "공부/컴퓨터 구조.md",
     "공부/대규모 화산분출.md",
