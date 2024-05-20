@@ -943,10 +943,17 @@ int main(void){
 	double * ptr2=&num2;
 	
 	printf("ptr1의 저장 값: %#x \n", ptr1);
-	printf("ptr1의 주소 값: %#x \n\n", &ptr1); //& 연샂
+	printf("ptr1의 주소 값: %#x \n\n", &ptr1); //& 연산자를 이용하여 포인터 변수의 주소값 출력
 	
 	printf("ptr2의 저장 값: %#x \n", ptr2);
-	printf("ptr2의 주소 값: %#x \n\n", &ptr2);
+	printf("ptr2의 주소 값: %#x \n\n", &ptr2); //& 연산자를 이용하여 포인터 변수의 주소값 출력 
 	return 0;
+}
+```
+## 포인터의 포인터
+```c
+int main(void){
+	int num1=3;
+	double num2=3.15;
 }
 ```
