@@ -1042,3 +1042,9 @@ int main(void){
 	return 0;	
 }
 ```
+```c
+#include <stdio.h>
+int main(void){
+	int arr
+}
+```
