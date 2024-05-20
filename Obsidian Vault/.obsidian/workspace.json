@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "프로그래밍/옵시디언.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "프로그래밍/옵시디언.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "프로그래밍/옵시디언.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/C.md"
+                "file": "프로그래밍/옵시디언.md"
               }
             }
           },
@@ -190,11 +190,11 @@
   },
   "active": "6d125814b47480d8",
   "lastOpenFiles": [
+    "프로그래밍/C.md",
     "프로그래밍/Python.md",
     "책 정리, 독후감/모비딕.md",
     "책 정리, 독후감/그리고 아무도 없었다.md",
     "공부/공부 자료/Game Project/Team Project/Game project load map.md",
-    "프로그래밍/C.md",
     "Pasted Image 20240519223941_176.png",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "프로그래밍/프로그래밍 자료/Cascading style sheet 1.md",
