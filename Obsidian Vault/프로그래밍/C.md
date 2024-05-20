@@ -1062,6 +1062,7 @@ int main(void){
 ```c
 #include <stdio.h>
 int main(){
-	char *str ="He Is My Best Friend!@!"
+	char *str ="He Is My Best Friend!"
+	if()
 }
 ```
