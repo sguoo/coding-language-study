@@ -961,6 +961,10 @@ int main(void){
 
 	int ** dptr1=&ptr1;
 	int ** dptr2=&ptr2;
-	
+
+	printf("ptr의 저장 값: %#x \n", ptr1);
+	printf("ptr의 주소 값: %#x \n\n", dptr1);
+
+	printf("ptr2의 저장")
 }
 ```
