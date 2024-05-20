@@ -1052,5 +1052,10 @@ int main(void){
 	printf("현 위치: %d \n\n", *p)
 
 	printf("한 칸 앞: %d \n", *(p+1));
+	printf("두 칸 앞: %d \n", *(p+2));
+	
+	printf("한 칸 뒤: %d \n", *(p-1));
+	printf("두 칸 뒤: %d \n", *(p-2));
+	return 0;
 }
 ```
