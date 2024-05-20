@@ -990,3 +990,10 @@ int main(void){
 	return 0;
 }
 ```
+```c
+int main(void){
+	int num1=3;
+	int num2=30;
+	int* ptr 
+}
+```
