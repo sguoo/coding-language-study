@@ -970,3 +970,10 @@ int main(void){
 	return 0;
 }
 ```
+- dptr1과 dptr2의 주소값을 출력하는 프로그램 예제
+```c
+int main(void){
+	int num1 = 3;
+	double num2 = 3.15;
+}
+```
