@@ -931,10 +931,10 @@ int main(void){
 - 함수의 매개변수로 값을 전달 하는 것이 아닌 주소 공간을 전달하는 이유는 인수로 전달된 변수의 값을 함수 내에서 변경할 수 있기 때문에
 
 ## 문자열과 포인터
-`char vStr[30]="String Variable!"` 
-1. 문자열이 배열 vStr에 저장됨
-2. vStr은 변수 형태의 문자열
-`char * cStr="String Variable!"`
-1. cStr은 문자열의 주소값 저장
-2. cStr이 참조하는 문자열은 상수 형태의 문자열
-
+![[C pointer3|1000]]
+- 포인터는 주소 값이 없을까?
+```c
+int main(void){
+	int num1=3
+}
+```
