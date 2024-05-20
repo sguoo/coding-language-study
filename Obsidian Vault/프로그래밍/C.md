@@ -933,6 +933,7 @@ int main(void){
 ## 문자열과 포인터
 ![[C pointer3|1000]]
 - 포인터는 주소 값이 없을까?
+	- 포인터도 변수이니 당연히 주소 
 ```c
 int main(void){
 	int num1=3;
