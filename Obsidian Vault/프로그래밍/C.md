@@ -1045,6 +1045,12 @@ int main(void){
 ```c
 #include <stdio.h>
 int main(void){
-	int arr
+	int arr[]={1, 2, 3, 4, 5}
+
+	int * p=&arr[2]
+
+	printf("현 위치: %d \n\n", *p)
+
+	printf("한 칸 앞: %d \n", *(p+1));
 }
 ```
