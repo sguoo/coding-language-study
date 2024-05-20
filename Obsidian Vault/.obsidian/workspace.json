@@ -40,9 +40,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9fdbcc7eca00093e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-20 10.06.37.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "Excalidraw/Drawing 2024-05-20 10.06.37.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "Excalidraw/Drawing 2024-05-20 10.06.37.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/C.md"
+                "file": "Excalidraw/Drawing 2024-05-20 10.06.37.excalidraw.md"
               }
             }
           },
@@ -198,12 +208,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8a38a0f4d105e990",
+  "active": "9fdbcc7eca00093e",
   "lastOpenFiles": [
+    "프로그래밍/C.md",
+    "Excalidraw/Drawing 2024-05-20 10.06.37.excalidraw.md",
     "프로그래밍/프로그래밍 자료/C pointer3.md",
     "프로그래밍/프로그래밍 자료/Cascading style sheet 1.md",
     "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
-    "프로그래밍/C.md",
     "프로그래밍/프로그래밍.md",
     "Excalidraw/Excalidraw.md",
     "책 정리, 독후감/그리고 아무도 없었다.md",
@@ -232,7 +243,6 @@
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509230146_252.png",
     "프로그래밍/프로그래밍 자료/css pyogibub.md",
     "공부/공부 자료/Game Project/project/동방요습격.md",
-    "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
     "프로그래밍/프로그래밍 자료",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225142_221.gif",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225757_002.gif",
