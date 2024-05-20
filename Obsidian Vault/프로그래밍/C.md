@@ -933,4 +933,8 @@ int main(void){
 ## 문자열과 포인터
 `char vStr[30]="String Variable!"` 
 1. 문자열이 배열 vStr에 저장됨
-2. vStr은 변수 형태의 
+2. vStr은 변수 형태의 문자열
+`char * cStr="String Variable!"`
+1. cStr은 문자열의 주소값 저장
+2. cStr이 참조하는 문자열은 상수 형태의 문자열
+
