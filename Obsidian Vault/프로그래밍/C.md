@@ -935,6 +935,13 @@ int main(void){
 - 포인터는 주소 값이 없을까?
 ```c
 int main(void){
-	int num1=3
+	int num1=3;
+	double num2=3.15;
+
+	int * ptr1=&num1;
+	double * ptr2=&num2;
+
+	printf("ptr1의 저장 값: %#x \n", ptr1);
+	printf("ptr")
 }
 ```
