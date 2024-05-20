@@ -1030,6 +1030,15 @@ int main(void){
 	printf("ptr2: $d \n\n", ptr2);
 
 	ptr1++, ptr2++;
-	pr
+	printf("ptr1: %d \n", ptr1);
+	printf("ptr2: %d \n\n", ptr2);
+
+	ptr1--, ptr2--;
+	printf("ptr1: %d \n", ptr1);
+	printf("ptr2: %d \n\n", ptr2);
+
+		printf("ptr1: %d \n", ptr1);
+	printf("ptr2: %d \n\n", ptr2)
+	
 }
 ```
