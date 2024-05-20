@@ -1016,7 +1016,7 @@ int main(void){
 -  포인터 연산이란?
 	-  포인터를 피연산자로 하는 연산 전부를 의미
 -  포인터 관려 연산자의 종류
-	- 메모리 참조 연산: * 연산자
+	- 메모리 참조 연산:E * 연산자
 	- 주소 값 반환 연산: & 연산자
 	- 포인터 덧셈 연산: +,++
 	- 포인터 뺄셈  연산: -, --
@@ -1037,8 +1037,8 @@ int main(void){
 	printf("ptr1: %d \n", ptr1);
 	printf("ptr2: %d \n\n", ptr2);
 
-		printf("ptr1: %d \n", ptr1);
-	printf("ptr2: %d \n\n", ptr2)
-	
+	printf("ptr1: %d \n", ptr1-3);
+	printf("ptr2: %d \n\n", ptr2-3)
+	return 0;	
 }
 ```
