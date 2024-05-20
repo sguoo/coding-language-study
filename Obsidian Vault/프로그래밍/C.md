@@ -942,6 +942,10 @@ int main(void){
 	double * ptr2=&num2;
 
 	printf("ptr1의 저장 값: %#x \n", ptr1);
-	printf("ptr")
+	printf("ptr1의 주소 값: %#x \n\n", &ptr1);
+
+	printf("ptr2의 저장 값: %#x \n", ptr2);
+	printf("ptr2의 주소 값: %#x \n\n", &ptr2);
+	return 0;
 }
 ```
