@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부/사회.md",
+                "file": "공부/컴퓨터 구조.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부/사회.md",
+                "file": "공부/컴퓨터 구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부/사회.md",
+                "file": "공부/컴퓨터 구조.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부/사회.md"
+                "file": "공부/컴퓨터 구조.md"
               }
             }
           },
@@ -220,14 +220,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4ada7c829bedc68e",
+  "active": "19a2f6e4f0abb426",
   "lastOpenFiles": [
-    "공부/사회.md",
+    "공부/수학.md",
+    "공부/대규모 화산분출.md",
+    "공부/과학.md",
+    "공부/곱셈공식.md",
     "공부/공부.md",
+    "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
+    "프로그래밍/프로그래밍 자료/lambda def bigyo.md",
+    "프로그래밍/프로그래밍 자료/C pointer3.md",
+    "공부/사회.md",
     "프로그래밍/C.md",
     "Excalidraw/Drawing 2024-05-20 10.06.37.excalidraw.md",
     "정리해둔거.md",
-    "프로그래밍/프로그래밍 자료/C pointer3.md",
     "프로그래밍/프로그래밍 자료/Cascading style sheet 1.md",
     "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
     "프로그래밍/프로그래밍.md",
@@ -246,15 +252,9 @@
     "Pasted Image 20240519224634_175.png",
     "Pasted Image 20240519224547_174.png",
     "프로그래밍/프로그래밍 공부.md",
-    "공부/수학.md",
-    "프로그래밍/프로그래밍 자료/lambda def bigyo.md",
     "프로그래밍/프로그래밍 자료/Python Funtion.md",
     "프로그래밍/css.md",
-    "공부/수행평가.md",
-    "공부/컴퓨터 구조.md",
-    "공부/대규모 화산분출.md",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509230146_252.png",
-    "프로그래밍/프로그래밍 자료/css pyogibub.md",
     "프로그래밍/프로그래밍 자료",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225142_221.gif",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225757_002.gif",
