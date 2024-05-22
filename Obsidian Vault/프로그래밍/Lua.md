@@ -18,7 +18,7 @@ sticker: emoji//1f319
 
 [^3]:스레드<sup>thread</sup>란 프로세스<sup>process</sup> 내에서 실제로 작업을 수행하는 주체를 의미한다.
 [^4]:규칙이 있는 일의 순서를 뜻한다.
-- 다른 언어와 달리 삼항 조건 연산자를 지원하지 않는다. `(condition) ? ex` ``
+- 다른 언어와 달리 삼항 조건 연산자 `(condition ? exprIfTrue : exprIfFlase)`를 지원하지 않는다.`condition and exprIfTrue or exprIfFalse` 표현으로 대체 가능하다. 정확히는 `exprIfTrue`가 참이라는 보장이 있어야 대체 가능하다.
 
 
 ---
