@@ -5,3 +5,6 @@
 - 자료형으로는 `nil, boolean, number, string, function, table, userdata, thread`로 8가지가 있다.
 ### nil
 - 널 값을 타 언어에서느 null로 적지만 Lua에서는 nil로 적는다.
+## boolean
+- 진리값은 boolean 타입 일때 true는 참 false는 거짓이다.
+- boolean 타입이 아닐 때 경우, nil이 거짓이고
