@@ -114,7 +114,7 @@
               "type": "markdown",
               "state": {
                 "file": "프로그래밍/Lua.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -278,9 +278,9 @@
   },
   "active": "ca1827ad281196f6",
   "lastOpenFiles": [
-    "프로그래밍/C.md",
-    "프로그래밍/Lua.md",
     "프로그래밍/옵시디언.md",
+    "프로그래밍/Lua.md",
+    "프로그래밍/C.md",
     "프로그래밍/프로그래밍 공부.md",
     "프로그래밍/프로그래밍.md",
     "정리해둔거.md",
