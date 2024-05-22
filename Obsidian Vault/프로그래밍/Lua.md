@@ -7,4 +7,6 @@
 - 널 값을 타 언어에서느 null로 적지만 Lua에서는 nil로 적는다.
 ## boolean
 - 진리값은 boolean 타입 일때 true는 참 false는 거짓이다.
-- boolean 타입이 아닐 때 경우, nil이 거짓이고
+- boolean 타입이 아닐 때 경우, nil이 거짓이고 나머지는 모두 참이다. C언어와는 달리, 0도 참이다.
+- false와 nil만 거짓이다.
+# 연산자
