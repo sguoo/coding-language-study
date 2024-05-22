@@ -10,6 +10,7 @@
 
 [^2]: 프로그래밍에서 어느 특정 줄 번호나 레이블로 건너뛰거나 돌아갈 때 쓰는 명령이다. 프로그램의 흐름을 바꾸는 가장 기본적인 명령으로, 일부 고급 언어에서 공통적으로 사용되는 명령이다.
 - 인덱스가 1부터 시작한다 ~~야호~~
+- 함수가 일급객체이다. 함수를 만들어 변수에 대입하는 형식으로 사용할 수 있다. `funtion(argument) return argument end`와 
 
 # 자료형
 - 자료형으로는 `nil, boolean, number, string, function, table, userdata, thread`로 8가지가 있다.
