@@ -123,9 +123,11 @@
             "id": "e522ca9ba626924d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "공부/공부 자료/Drawing 2024-05-23 09.28.18.excalidraw.md"
+                "file": "프로그래밍/옵시디언.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -205,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부/공부 자료/Drawing 2024-05-23 09.28.18.excalidraw.md",
+                "file": "프로그래밍/옵시디언.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부/공부 자료/Drawing 2024-05-23 09.28.18.excalidraw.md",
+                "file": "프로그래밍/옵시디언.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부/공부 자료/Drawing 2024-05-23 09.28.18.excalidraw.md"
+                "file": "프로그래밍/옵시디언.md"
               }
             }
           },
@@ -286,10 +288,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4ada7c829bedc68e",
+  "active": "e522ca9ba626924d",
   "lastOpenFiles": [
-    "프로그래밍/C.md",
     "공부/공부 자료/Drawing 2024-05-23 09.28.18.excalidraw.md",
+    "프로그래밍/C.md",
     "프로그래밍/프로그래밍 공부.md",
     "프로그래밍/css.md",
     "프로그래밍/Lua.md",
