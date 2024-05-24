@@ -717,10 +717,10 @@ int main() {
 }
 
 ```
-## 인덱스
+## 인덱스 다루기
 `blist`에 값에 `alist`값을 대입시키는 예제
 ```c
-#include <stidio.h
+#include <stidio.h>
 int main() {
 	int alist[10] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 	int blist[10] = { 0, };
