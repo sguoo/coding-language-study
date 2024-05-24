@@ -76,50 +76,6 @@
             }
           },
           {
-            "id": "d2737691214fe934",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519223941_176.png"
-              }
-            }
-          },
-          {
-            "id": "2212757b0bef2b5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "정리해둔거.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31efec0be2ea7deb",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519223941_176.png"
-              }
-            }
-          },
-          {
-            "id": "ca1827ad281196f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프로그래밍/C.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e522ca9ba626924d",
             "type": "leaf",
             "state": {
@@ -132,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -288,19 +244,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e522ca9ba626924d",
+  "active": "df5bee5d1a1e3eb6",
   "lastOpenFiles": [
+    "프로그래밍/Lua.md",
+    "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519223941_176.png",
+    "정리해둔거.md",
+    "프로그래밍/C.md",
     "프로그래밍/Python.md",
     "프로그래밍/프로그래밍 공부.md",
     "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
-    "프로그래밍/Lua.md",
     "프로그래밍/옵시디언.md",
     "공부/공부 자료/Drawing 2024-05-23 09.28.18.excalidraw.md",
-    "프로그래밍/C.md",
     "프로그래밍/css.md",
     "프로그래밍/프로그래밍.md",
-    "정리해둔거.md",
-    "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519223941_176.png",
     "공부/곱셈공식.md",
     "공부/과학.md",
     "공부/공부 자료/Game Project/project/동방요습격.md",
@@ -319,7 +275,6 @@
     "프로그래밍/프로그래밍 자료/lambda def bigyo.md",
     "프로그래밍/프로그래밍 자료/C pointer3.md",
     "공부/사회.md",
-    "Excalidraw/Drawing 2024-05-20 10.06.37.excalidraw.md",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509224536_097.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509230146_252.png",
