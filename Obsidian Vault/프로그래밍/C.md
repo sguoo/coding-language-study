@@ -718,8 +718,30 @@ int main() {
 
 ```
 ## 인덱스
-`blist`에 값에 `alist`값을 대입시
-
+`blist`에 값에 `alist`값을 대입시키는 예제
+```c
+#include <stidio.h
+int main() {
+	int alist[10] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+	int blist[10] = { 0, };
+	for (int i = 9; i >= 0; i--) {
+		blist[i] = alist[i];
+		printf("blist[%d]: %d\n", i + 1, blist[i]);
+	}
+}
+```
+`blist`에 값에 `alist`값을 거꾸로 대입 시키는 예제
+```c
+#include <stdio.h>
+int main() {
+	int alist[10] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+	int blist[10] = { 0, };
+	for (int i = 10; i > 0; i--) {
+		blist[10-i] = alist[i-1];
+		printf("blist[%d]: %d\n",10-i, blist[10-i]);
+	}
+}
+```
 
 # 포인터
 
