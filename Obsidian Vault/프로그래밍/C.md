@@ -717,7 +717,7 @@ int main() {
 }
 
 ```
-### 인덱스 다루기
+## 인덱스 다루기
 - `blist`의 값에 `alist`에 값을 대입시키는 예제
 ```c
 #include <stdio.h>
