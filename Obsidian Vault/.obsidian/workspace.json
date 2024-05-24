@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/Python.md",
+                "file": "프로그래밍/C.md",
                 "mode": "source",
                 "source": false
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/Python.md",
+                "file": "프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/Python.md",
+                "file": "프로그래밍/C.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/Python.md"
+                "file": "프로그래밍/C.md"
               }
             }
           },
@@ -290,6 +290,7 @@
   },
   "active": "e522ca9ba626924d",
   "lastOpenFiles": [
+    "프로그래밍/Python.md",
     "프로그래밍/프로그래밍 공부.md",
     "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
     "프로그래밍/Lua.md",
@@ -310,7 +311,6 @@
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224634_175.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224547_174.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224011_016.png",
-    "프로그래밍/Python.md",
     "공부/컴퓨터 구조.md",
     "공부/수학.md",
     "공부/대규모 화산분출.md",
