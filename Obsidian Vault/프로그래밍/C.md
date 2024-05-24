@@ -717,7 +717,7 @@ int main() {
 }
 
 ```
-## 인덱스 다루기
+### 인덱스 다루기
 - `blist`의 값에 `alist`에 값을 대입시키는 예제
 ```c
 #include <stdio.h>
@@ -742,6 +742,359 @@ int main() {
 	}
 }```
 # 포인터
+- 변수나 상수의 주소 값을 저장한 변수
+- 주소 값 하나는 1 바이트 크기의 메모리 공간을 표현
+- 하나의 주소 값은 1바이트 단위로 할당이 된다
+- 주소 값을 표현하는데 필요한 바이트 수는?
+	- 표현하고 싶은 주소 값의 범위에 따라 달라짐
+	- 주소 값의 바이트 수가 클수록 넓은 범위의 주소 값 표현 가능
+- 만약 주소 값을 16비트로 표현한다면?
+	- 2의 16 제곱이므로 사용할 수 있는 주소 값의 범위가 넓어짐
+>[!warning] 컴퓨터 사양 따라 달라지는 것에 유의
+
+>[!bug] 잘 모르면 실행시키지 말 것! 컴퓨터가 깡통이 될 수도 있음
+
+
+## 포인터의 개념
+```c
+#include <stdio.h>
+
+int main()
+{
+	int *p;
+	int a;
+	scanf("%d", &a);
+	p = &a;
+	printf("%d\n", *p) //a가 나온다.
+}
+```
+- 변수
+	- 메모리 상의 저장 공간 -> 그 위치를 알면 사용 할 수 있음
+- 위치\==주소
+- 주소를 사용하기 위한 조건
+	- 주소를 구하는 주소 연산자 &
+	- 주소를 담는 포인터 *
+	- 간접 참조 연산자 \*pi = 10
+### **포인터 \***
+-  시작 주소값을 저장하는 변수이며 가르키는 자료형을 표시하여 선언
+		`char *pc int *pi double *pd`
+- 간접 참조 연산자
+	- `*pi = 10;`
+## 포인터 변수
+![[C pointer]]
+- 주소 값을 얻기 위해 사용되는 &
+	-  & 연산자가 단항 연산자로 사용되면 아무런 동작도 하지 않
+- 포인터(pointer)
+	- 변수나 상수의 주소 값
+- 포인터 변수
+	- 주소 값의 저장을 위한 변수
+```c
+int main(void){
+	int num1=3;
+	char num2='A';
+	double num3=3.15;
+	int * ptr1=&num1;
+	char * ptr2=&num2;
+	double * ptr3=&num3;
+	
+	printf("num1의 저장위치: %#x \n", ptr1);
+	printf("num2의 저장위치: %#x \n", ptr2);
+	printf("num3의 저장위치: %#x \n\n", ptr3);
+	
+	printf("포인터 변수 ptr1의 크기: %d \n", sizeof(ptr1));
+	printf("포인터 변수 ptr2의 크기: %d \n", sizeof(ptr2));
+	printf("포인터 변수 ptr3의 크기: %d \n", sizeof(ptr3));
+ //모두 크기가 4바이트 64비트 환경에서는 8바이트
+}
+```
+## 포인터 형(type)과 * 연산자
+- 포인터 형과 특성은?
+	- 데이터에 데이터 형이 존재하듯, 포인터에도 포인터 형 존재
+	- 데이터 형이 데이터의 특성을 나타내듯 포인터 형도 포인터의 특성을 나타냄
+	- 포인터 형은 가리키는 대상의 특성을 나타 냄
+```c
+int *    : int형 포인터
+char *   : char형 포인터
+double * : double형 포인터
+```
+![[C pointer2]]
+- 포인터 변수도 변수이기 때문에 값의 변경이 허용
+```c
+int main(void){
+	int num1=10;
+	int num2=20;
+
+	int * p1;
+	int * p2;
+	int * temp;
+
+	p1=&num1;
+	p2=&num2;
+
+	printf("p1 참조 값: %d\n", *p1); //10
+	printf("p2 참조 값: %d\n\n", *p2); //20
+	temp=p1;
+	p1=p2;
+	p2=temp;
+	printf("p1 참조 값: %d\n", *p1); //20
+	printf("p2 참조 값: %d\n\n", *p2); //10
+	return 0;
+}
+```
+- 주소로 값 변경 가능
+- 포인터와 함게 사용이 되는 * 연산자(간접 참조 연산자)
+```c
+int main(void){
+	int num = 10;
+	int * ptr;
+
+	ptr=&num;
+	printf("포인터 ptr이 가리키는 변수 값: %d \n", *ptr);
+
+	*ptr=20;
+	printf("포인터 ptr이 가리키는 변수 값: %d \n", *ptr);
+	printf("num에 저장된 값: %d \n\n", num);
+
+	(*ptr)++;
+	printf("포인터 ptr이 가리키는 변수 값: %d \n", *ptr);
+	printf("num에 저장된 값: %d \n\n", num);
+	return 0;
+	/// ptr에 저장된 주소 값의 메모리 공간<num>을 참조하라
+}
+```
+###  **대입 연산자**
+`a=10; b=a; *pa=10; b = *pa`
+### **피 연산자**
+`a+20; *pa +20;`
+### **출력**
+`printf("%d",a); printf("%d",*pa)`
+### **입력**
+`scanf("%d", &a); scanf("%d", pa);`
+
+### 
+
+- 포인터는 변수이므로 값을 다른 주소로 바꿀 수 있음
+	`int a , b; int *p = &a; p=&b;`
+- 포인터의 크기는 컴파일러에 따라 다를 수 있음 (sizeof로 확인)
+	`int *p; printf("주소크기: %d", sizeof(p));`
+- 포인터는 가르키는 자료형이 일치할 때만 대입이 가능
+	`int *p; double \*pd`
+	`pd = p; (X)`
+
+- 주소와 포인터의 차이
+	- 주소는 변수에 할당된 메모리 저장 공간 시작 주소 값 자체
+	 → 변수의 주소는 변경하거나 수정 할 수 없다.
+	- 포인터는 그 값을 저장하는 또 다른 메모리 공간
+	 → 다른 주소를 대입하여 그 값을 바꿀 수 있다
+	 → 연산도 가능하다.
+
+## 널(NLL) 포인터와 포인터의 형 변환
+
+-  포인터가 잘못 사용되는 경우
+
+>[!bug]-  실행시키면 컴퓨터가 터질 수도 있다.
+
+
+```c
+int main(void){
+	int * p1;
+	double *p2;
+
+	printf("쓰레기 값1: %#x \n", p1); //쓰레기 값 확인하기
+	printf("쓰레기 값2: %#x \n\n", p2); 
+	//쓰레기값 초기화! 어디를 참조할지 모른다.
+	
+	printf("어떤 정수가 찍힐까? %d \n", *p1); //잘못된 연산
+	printf("어떤 정수가 찍힐까? %d \n\n",  *p2);
+	//의도하지 않은 영역의 데이터 읽어 들임
+	
+	*p1=25; //위험한 연산
+	*p2=3.15;
+	//큰 문제 발생 가능한 상황!
+
+	printf("저장된 정수%d \n", *p1);
+	printf("저장된 실수%f \n\n", *p2);
+	return 0;
+}
+```
+- 널 포인터
+	- 널 포인터는 '아무 곳도 가리키고 있지 않다' 라는 상징적인 의미를 지님
+	- 널 포인터는 NULL로 표현이 되며, 이는 상수 0이다
+	- 안전성 위해서 포인터 변수는 NULL로 초기화 시킨다.
+```c
+int main(void){
+	int * ptr=0; // int * ptr = NULL
+
+	*ptr = 100;
+	printf("%d", *ptr);
+
+	return 0;
+}
+```
+```c
+int main(void){
+	int num = 10;
+	char * p = &num; //자동 형 변환 발생
+	....
+}
+```
+```c
+int main(void){
+	int num=10;
+	char * p=(char *)&num; 
+	//의도적이라면 명시적으로 형 변환하여 의도적임을 표현하자!
+	....
+}
+```
+## 포인터가 필요한 이유
+- 임베디드 프로그래밍 할 때 메모리에 직접 접근하는 경우
+- 동적 할당한 메모리 사용하는 경우
+- 함수의 매개변수로 값을 전달 하는 것이 아닌 주소 공간을 전달하는 이유는 인수로 전달된 변수의 값을 함수 내에서 변경할 수 있기 때문에
+
+## 문자열과 포인터
+![[C pointer3|1000]]
+- 포인터는 주소 값이 없을까?
+	- 포인터도 변수이니 당연히 주소 값을 얻어낼 수 있음
+```c
+int main(void){
+	int num1=3;
+	double num2=3.15;
+	
+	int * ptr1=&num1;
+	double * ptr2=&num2;
+	
+	printf("ptr1의 저장 값: %#x \n", ptr1);
+	printf("ptr1의 주소 값: %#x \n\n", &ptr1); //& 연산자를 이용하여 포인터 변수의 주소값 출력
+	
+	printf("ptr2의 저장 값: %#x \n", ptr2);
+	printf("ptr2의 주소 값: %#x \n\n", &ptr2); //& 연산자를 이용하여 포인터 변수의 주소값 출력 
+	return 0;
+}
+```
+## 포인터의 포인터
+```c
+int main(void){
+	int num1=3;
+	double num2=3.15;
+
+	int * ptr1=&num1;
+	double * ptr2=&num2;
+
+	int ** dptr1=&ptr1;
+	int ** dptr2=&ptr2;
+
+	printf("ptr1의 저장 값: %#x \n", ptr1);
+	printf("ptr1의 주소 값: %#x \n\n", dptr1);
+
+	printf("ptr2의 저장 값: %#x \n", ptr2);
+	printf("ptr의 주소 값: %#ㅌ \n\n", dptr2);
+	return 0;
+}
+```
+- dptr1과 dptr2의 주소값을 출력하는 프로그램 예제
+```c
+int main(void){
+	int num1=3;
+	double num2=3.15;
+
+	int * ptr1=&num1;
+	double * ptr2=&num2;
+
+	int ** dptr1=&ptr1;
+	int ** dptr2=&ptr2;
+
+	printf("ptr1의 저장 값: %#x \n", ptr1);
+	printf("ptr1의 주소 값: %#x \n\n", &dptr1);
+
+	printf("ptr2의 저장 값: %#x \n", ptr2);
+	printf("ptr의 주소 값: %#ㅌ \n\n", &dptr2);
+	return 0;
+}
+```
+```c
+int main(void){
+	int num1=3;
+	int num2=30;
+	int* ptr=&num1;
+	int** dptr=&ptr;
+	printf("ptr이 가리키는 변수 값: %d \n", num1);
+	printf("ptr이 가리키는 변수 값: %d \n", *ptr);
+	printf("ptr이 가리키는 변수 값: %d \n\n", **dptr);
+
+	*dptr = &num2;
+	printf("ptr이 가리키는 변수 값: %d \n", num2);
+	printf("ptr이 가리키는 변수 값: %d \n", *ptr);
+	printf("ptr이 가리키는 변수 값: %d \n\n", **dptr);
+
+	**dptr+=3000;
+	printf("ptr이 가리키는 변수 값: %d \n", num2);
+	printf("ptr이 가리키는 변수 값: %d \n", *ptr);
+	printf("ptr이 가리키는 변수 값: %d \n", **dptr);
+}
+```
+- 이중 포인터든 그냥 포인터든 둘 다 사용 가능하다.
+## 배열과 포인터, 포인터 연산
+-  포인터 연산이란?
+	-  포인터를 피연산자로 하는 연산 전부를 의미
+-  포인터 관려 연산자의 종류
+	- 메모리 참조 연산:E * 연산자
+	- 주소 값 반환 연산: & 연산자
+	- 포인터 덧셈 연산: +,++
+	- 포인터 뺄셈  연산: -, --
+```c
+int main(void){
+	int num1=10;
+	double num2=7.12345;
+	int * ptr1=&num1;
+	double * ptr2=&num2;
+	printf("ptr1: %d \n", ptr1);
+	printf("ptr2: $d \n\n", ptr2);
+
+	ptr1++, ptr2++;
+	printf("ptr1: %d \n", ptr1);
+	printf("ptr2: %d \n\n", ptr2);
+
+	ptr1--, ptr2--;
+	printf("ptr1: %d \n", ptr1);
+	printf("ptr2: %d \n\n", ptr2);
+
+	printf("ptr1: %d \n", ptr1-3);
+	printf("ptr2: %d \n\n", ptr2-3)
+	return 0;	
+}
+```
+```c
+#include <stdio.h>
+int main(void){
+	int arr[]={1, 2, 3, 4, 5};
+
+	int * p=&arr[2];
+
+	printf("현 위치: %d \n\n", *p);
+
+	printf("한 칸 앞: %d \n", *(p+1));
+	printf("두 칸 앞: %d \n\n", *(p+2));
+	
+	printf("한 칸 뒤: %d \n", *(p-1));
+	printf("두 칸 뒤: %d \n", *(p-2));
+	return 0;
+}
+```
+```c
+#include <stdio.h>
+int main(){
+	char *str ="He Is My Best Friend!"
+	if()
+}
+```
+- 배열의 이름을 이용한 포인터 연산
+
+- TYPE형 1차원 배열의 이름은 TYPE형 포인터
+	-  int 형 1차원 배열의 이름은 int형 포인터
+	- double형 1차원 배열의 이름은 double형 포인터
+	- char형 1차원 배열의 이름은 char포인터
+# 포인터
+
 - 변수나 상수의 주소 값을 저장한 변수
 - 주소 값 하나는 1 바이트 크기의 메모리 공간을 표현
 - 하나의 주소 값은 1바이트 단위로 할당이 된다
