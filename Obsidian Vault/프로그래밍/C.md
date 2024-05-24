@@ -759,7 +759,23 @@ int main() {
 	return 0;
 }
 ```
-`alist`의 값을 오른쪽으로 한칸 옮겨서 blist
+`alist`의 값을 오른쪽으로 한칸 옮겨서 `blist`에 대입하는 예제
+```c
+#include <stdio.h>
+
+int main() {
+	int alist[10] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+	int blist[10];
+	for (int i = 0; i < 10; i++) {
+		blist[i] = alist[(i + 9) % 10];
+
+	}
+	for (int i = 0; i < 10; i++) {
+		printf("%d ", blist[i]);
+	}
+	return 0;
+}
+```
 
 # 포인터
 
