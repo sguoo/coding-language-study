@@ -736,14 +736,11 @@ int main() {
 int main() {
 	int alist[10] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 	int blist[10] = { 0, };
-	int j=0;
-	for (int i = 9; i >= 0; i--) {
-		blist[j] = alist[i];
-		printf("blist[%d]: %d\n", j+1, blist[j]);
-		j++;
+	for (int i = 10; i > 0; i--) {
+		blist[10-i] = alist[i-1];
+		printf("blist[%d]: %d\n",10-i, blist[10-i]);
 	}
-}	
-```
+}```
 # 포인터
 - 변수나 상수의 주소 값을 저장한 변수
 - 주소 값 하나는 1 바이트 크기의 메모리 공간을 표현
