@@ -1180,8 +1180,14 @@ int main(void){
 	int i;
 
 	for(i=0; i<5; i++)
-		printf("%d", pArr[i])
+		printf("%d", pArr[i]);
 
 	printf("\n");
+
+	for(i=0; i<5; i++)
+		printf("%d ", *([Arr+i]));
+
+	printf("\n");
+	return 0;
 }
 ```
