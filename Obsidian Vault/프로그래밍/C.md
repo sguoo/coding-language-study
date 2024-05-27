@@ -1156,5 +1156,14 @@ int main(void){
 	- double형 1차원 배열의 이름은 double형 포인터
 	- char형 1차원 배열의 이름은 char포인터
 ```c
-int main()
-```
+int main(void){
+	int arr[5]={1, 2, 3, 4, 5}
+	int i;
+	
+	for(i=0; i<5; i++)
+		printf("%d", arr[i]);
+
+	printf("\n");
+
+	for 
+
