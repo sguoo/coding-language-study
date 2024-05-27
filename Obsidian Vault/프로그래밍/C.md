@@ -1165,5 +1165,11 @@ int main(void){
 
 	printf("\n");
 
-	for 
+	for(i=0; i<5; i++)
+		printf("%d", *(arr+i));
 
+	printf("\n")
+	return 0;
+
+}
+```
