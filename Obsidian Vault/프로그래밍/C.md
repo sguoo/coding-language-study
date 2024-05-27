@@ -1022,10 +1022,10 @@ int main(void){
 
 	int ** dptr1=&ptr1;
 	int ** dptr2=&ptr2;
-
+	
 	printf("ptr1의 저장 값: %#x \n", ptr1);
 	printf("ptr1의 주소 값: %#x \n\n", dptr1);
-
+	
 	printf("ptr2의 저장 값: %#x \n", ptr2);
 	printf("ptr의 주소 값: %#ㅌ \n\n", dptr2);
 	return 0;
@@ -1036,16 +1036,16 @@ int main(void){
 int main(void){
 	int num1=3;
 	double num2=3.15;
-
+	
 	int * ptr1=&num1;
 	double * ptr2=&num2;
-
+	
 	int ** dptr1=&ptr1;
 	int ** dptr2=&ptr2;
-
+	
 	printf("ptr1의 저장 값: %#x \n", ptr1);
 	printf("ptr1의 주소 값: %#x \n\n", &dptr1);
-
+	
 	printf("ptr2의 저장 값: %#x \n", ptr2);
 	printf("ptr의 주소 값: %#ㅌ \n\n", &dptr2);
 	return 0;
@@ -1060,12 +1060,12 @@ int main(void){
 	printf("ptr이 가리키는 변수 값: %d \n", num1);
 	printf("ptr이 가리키는 변수 값: %d \n", *ptr);
 	printf("ptr이 가리키는 변수 값: %d \n\n", **dptr);
-
+	
 	*dptr = &num2;
 	printf("ptr이 가리키는 변수 값: %d \n", num2);
 	printf("ptr이 가리키는 변수 값: %d \n", *ptr);
 	printf("ptr이 가리키는 변수 값: %d \n\n", **dptr);
-
+	
 	**dptr+=3000;
 	printf("ptr이 가리키는 변수 값: %d \n", num2);
 	printf("ptr이 가리키는 변수 값: %d \n", *ptr);
@@ -1082,9 +1082,9 @@ int main(){
 	int *ptr=&num;
 	int **dptr=&ptr;
 	*ptr=100;
-	printf("%d\n",num); /
+	printf("%d\n",num); //100
 	**dptr=200;
-	printf("%d", num)
+	printf("%d", num) //200
 }
 ```
 ## 배열과 포인터, 포인터 연산
