@@ -1223,9 +1223,8 @@ int main(void){
 		scanf("%d", arrPtr[i])
 	}
 
-	printf("입력된 숫자의 총 합은 %d 입니다
-")
+	printf("입력된 숫자의 총 합은 %d입니다.\n",)
 }
 ```
 ## 2차원 배열과 포인터
-int arr\[4]
+int arr\[4]\[2];

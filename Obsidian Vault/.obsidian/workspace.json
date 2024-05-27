@@ -54,6 +54,16 @@
             }
           },
           {
+            "id": "dd063357d1dab7e7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-27 11.13.46.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "11670ebc3ac72df8",
             "type": "leaf",
             "state": {
@@ -78,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -153,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "Excalidraw/Drawing 2024-05-27 11.13.46.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "Excalidraw/Drawing 2024-05-27 11.13.46.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/C.md"
+                "file": "Excalidraw/Drawing 2024-05-27 11.13.46.excalidraw.md"
               }
             }
           },
@@ -234,10 +244,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9fdbcc7eca00093e",
+  "active": "dd063357d1dab7e7",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-05-27 10.55.25.excalidraw.md",
     "프로그래밍/C.md",
+    "Excalidraw/Drawing 2024-05-27 11.13.46.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2024-05-27 10.55.25.excalidraw.md",
     "프로그래밍/Python.md",
     "프로그래밍/프로그래밍 자료/C pointer.md",
     "프로그래밍/css.md",
@@ -265,7 +277,6 @@
     "공부/수학.md",
     "공부/대규모 화산분출.md",
     "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
-    "프로그래밍/프로그래밍 자료/lambda def bigyo.md",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509224536_097.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509230146_252.png",
@@ -281,7 +292,6 @@
     "Tags",
     "공부/공부 자료",
     "책 정리, 독후감/책 자료",
-    "책 정리, 독후감",
     "공부/프로그래밍/css style.canvas",
     "공부/프로그래밍/css style 1.canvas"
   ]
