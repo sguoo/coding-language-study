@@ -1113,7 +1113,7 @@ int main(void){ //실행시키지 마세요
 	printf("ptr2: %d \n\n", ptr2); //100
 
 	printf("ptr1: %d \n", ptr1-3); //88
-	printf("ptr2: %d \n\n", ptr2-3)//
+	printf("ptr2: %d \n\n", ptr2-3) //76
 	return 0;	
 }
 ```
