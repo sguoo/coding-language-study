@@ -57,9 +57,11 @@
             "id": "dd063357d1dab7e7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-27 11.13.46.excalidraw.md"
+                "file": "프로그래밍/C.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -163,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-27 11.13.46.excalidraw.md",
+                "file": "프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-27 11.13.46.excalidraw.md",
+                "file": "프로그래밍/C.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-27 11.13.46.excalidraw.md"
+                "file": "프로그래밍/C.md"
               }
             }
           },
@@ -246,28 +248,28 @@
   },
   "active": "dd063357d1dab7e7",
   "lastOpenFiles": [
+    "프로그래밍/프로그래밍 공부.md",
+    "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
+    "프로그래밍/프로그래밍 자료/C pointer vaeyul.md",
+    "Excalidraw/Excalidraw.md",
     "프로그래밍/C.md",
-    "Excalidraw/Drawing 2024-05-27 11.13.46.excalidraw.md",
     "Excalidraw",
     "Excalidraw/Drawing 2024-05-27 10.55.25.excalidraw.md",
     "프로그래밍/Python.md",
     "프로그래밍/프로그래밍 자료/C pointer.md",
     "프로그래밍/css.md",
     "프로그래밍/옵시디언.md",
-    "프로그래밍/프로그래밍 공부.md",
     "공부/공부.md",
     "Excalidraw/Drawing 2024-05-27 10.19.40.excalidraw.md",
     "프로그래밍/프로그래밍.md",
     "프로그래밍/Lua.md",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519223941_176.png",
     "정리해둔거.md",
-    "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
     "공부/공부 자료/Drawing 2024-05-23 09.28.18.excalidraw.md",
     "공부/곱셈공식.md",
     "공부/과학.md",
     "공부/공부 자료/Game Project/project/동방요습격.md",
     "공부/공부 자료/Game Project/project/프로젝트.md",
-    "Excalidraw/Excalidraw.md",
     "프로그래밍/프로그래밍 자료/Python Funtion.md",
     "프로그래밍/프로그래밍 자료/css Style.md",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224634_175.png",
