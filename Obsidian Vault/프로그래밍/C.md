@@ -1016,10 +1016,10 @@ int main(void){
 int main(void){
 	int num1=3;
 	double num2=3.15;
-
+	
 	int * ptr1=&num1;
 	double * ptr2=&num2;
-
+	
 	int ** dptr1=&ptr1;
 	int ** dptr2=&ptr2;
 	
