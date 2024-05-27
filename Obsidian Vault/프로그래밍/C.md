@@ -1213,7 +1213,13 @@ int main(void){
 	실행이 되지 않을 수 있다.
 -  포인터로 배열을 만들 수 있을까?
 ```c
-int
+int main(void){
+	int n1, n2, n3;
+	int * arrPtr[3] = {&n1, &n2, &n3}
+
+	int i;
+	for(i=0; i<3; )
+}
 ```
 ## 2차원 배열과 포인터
 int arr\[4]
