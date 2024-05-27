@@ -1142,7 +1142,13 @@ int main(){
 }
 ```
 - 배열의 이름을 이용한 포인터 연산
-
+```c
+#include <stduo.h>
+int main(void){
+	int arr[3]={100, 200, 300};
+	printf("arr[0]는 %d, *arr는 %d \n", arr[0], *arr)
+}
+```
 
 - TYPE형 1차원 배열의 이름은 TYPE형 포인터
 	-  int 형 1차원 배열의 이름은 int형 포인터
