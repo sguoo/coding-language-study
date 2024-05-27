@@ -45,11 +45,9 @@
             "id": "9fdbcc7eca00093e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "프로그래밍/C.md",
-                "mode": "source",
-                "source": false
+                "file": "프로그래밍/프로그래밍 자료/C pointer.md"
               }
             }
           },
@@ -153,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "프로그래밍/프로그래밍 자료/C pointer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "프로그래밍/프로그래밍 자료/C pointer.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/C.md"
+                "file": "프로그래밍/프로그래밍 자료/C pointer.md"
               }
             }
           },
@@ -236,19 +234,19 @@
   },
   "active": "9fdbcc7eca00093e",
   "lastOpenFiles": [
+    "프로그래밍/css.md",
+    "프로그래밍/옵시디언.md",
+    "프로그래밍/Python.md",
+    "프로그래밍/C.md",
     "프로그래밍/프로그래밍 공부.md",
     "공부/공부.md",
-    "프로그래밍/C.md",
     "Excalidraw/Drawing 2024-05-27 10.19.40.excalidraw.md",
     "프로그래밍/프로그래밍.md",
-    "프로그래밍/Python.md",
     "프로그래밍/Lua.md",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519223941_176.png",
     "정리해둔거.md",
     "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
-    "프로그래밍/옵시디언.md",
     "공부/공부 자료/Drawing 2024-05-23 09.28.18.excalidraw.md",
-    "프로그래밍/css.md",
     "공부/곱셈공식.md",
     "공부/과학.md",
     "공부/공부 자료/Game Project/project/동방요습격.md",
