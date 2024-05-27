@@ -1203,6 +1203,9 @@ int main(void){
 	int ary[3], i;
 	int *pa = ary;
 	*pa = 10;
-	*(pa+1)
+	*(pa+1)=20;
+	pa[2]=pa[0]+pa[1];
+	for(i=0; i<sizeof(ary)/sizeof(int); i++)
+		printf("%5d", pa[i])
 }
 ```
