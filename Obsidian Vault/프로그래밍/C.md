@@ -1096,24 +1096,24 @@ int main(){
 	- 포인터 덧셈 연산: +,++
 	- 포인터 뺄셈  연산: -, --
 ```c
-int main(void){
+int main(void){ //실행시키지 마세요
 	int num1=10;
 	double num2=7.12345;
-	int * ptr1=&num1;
-	double * ptr2=&num2;
-	printf("ptr1: %d \n", ptr1);
-	printf("ptr2: $d \n\n", ptr2);
+	int * ptr1=&num1; //ptr1은 100으로 가정
+	double * ptr2=&num2; //ptr2는 200으로 가정
+	printf("ptr1: %d \n", ptr1); //100
+	printf("ptr2: $d \n\n", ptr2); //200
 
 	ptr1++, ptr2++;
-	printf("ptr1: %d \n", ptr1);
-	printf("ptr2: %d \n\n", ptr2);
+	printf("ptr1: %d \n", ptr1); //104
+	printf("ptr2: %d \n\n", ptr2); //108
 
 	ptr1--, ptr2--;
-	printf("ptr1: %d \n", ptr1);
-	printf("ptr2: %d \n\n", ptr2);
+	printf("ptr1: %d \n", ptr1); //100
+	printf("ptr2: %d \n\n", ptr2); //100
 
-	printf("ptr1: %d \n", ptr1-3);
-	printf("ptr2: %d \n\n", ptr2-3)
+	printf("ptr1: %d \n", ptr1-3); //88
+	printf("ptr2: %d \n\n", ptr2-3)//
 	return 0;	
 }
 ```
