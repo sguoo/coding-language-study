@@ -153,6 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "프로그래밍/C.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-27 10.55.25.excalidraw.md"
+                "file": "프로그래밍/C.md"
               }
             }
           },
@@ -232,10 +234,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4ada7c829bedc68e",
+  "active": "9fdbcc7eca00093e",
   "lastOpenFiles": [
-    "프로그래밍/C.md",
     "Excalidraw/Drawing 2024-05-27 10.55.25.excalidraw.md",
+    "프로그래밍/C.md",
     "프로그래밍/Python.md",
     "프로그래밍/프로그래밍 자료/C pointer.md",
     "프로그래밍/css.md",
