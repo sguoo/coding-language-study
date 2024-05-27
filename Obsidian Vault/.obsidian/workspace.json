@@ -64,16 +64,6 @@
             }
           },
           {
-            "id": "08eab433efee7a93",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-05-27 10.19.40.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "11670ebc3ac72df8",
             "type": "leaf",
             "state": {
@@ -98,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -173,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-27 10.19.40.excalidraw.md",
+                "file": "프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-27 10.19.40.excalidraw.md",
+                "file": "프로그래밍/C.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-27 10.19.40.excalidraw.md"
+                "file": "프로그래밍/C.md"
               }
             }
           },
@@ -254,10 +244,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "08eab433efee7a93",
+  "active": "19a2f6e4f0abb426",
   "lastOpenFiles": [
-    "프로그래밍/C.md",
     "Excalidraw/Drawing 2024-05-27 10.19.40.excalidraw.md",
+    "프로그래밍/C.md",
     "공부/공부.md",
     "프로그래밍/프로그래밍.md",
     "프로그래밍/Python.md",

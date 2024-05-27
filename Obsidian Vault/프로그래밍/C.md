@@ -1155,3 +1155,6 @@ int main(void){
 	-  int 형 1차원 배열의 이름은 int형 포인터
 	- double형 1차원 배열의 이름은 double형 포인터
 	- char형 1차원 배열의 이름은 char포인터
+```c
+int main()
+```
