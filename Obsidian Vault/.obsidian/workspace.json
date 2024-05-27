@@ -48,7 +48,7 @@
               "type": "markdown",
               "state": {
                 "file": "프로그래밍/C.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -214,7 +214,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
