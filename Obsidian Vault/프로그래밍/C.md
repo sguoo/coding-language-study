@@ -1229,3 +1229,11 @@ int main(void){
 ## 2차원 배열과 포인터
 int arr\[4]\[2];
 ![[C pointer vaeyul]]
+
+```c
+#include <stdio.h>
+int main()
+{
+	char arr[3][4] = 
+}
+```
