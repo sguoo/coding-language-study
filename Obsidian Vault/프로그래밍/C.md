@@ -1230,30 +1230,4 @@ int main(void){
 int arr\[4]\[2];
 ![[C pointer vaeyul]]
 
-```c
-#include <stdio.h>
-int main()
-{
-	char arr[3][4] = {"abc", "efg", "ihj"};
-	char (*p)[4]=arr;
-	printf("%d", sizeof(*p)); //4
-}
-```
-```c
-#include <stdio.h>
-int main()
-{
-	char arr[3][4] = {"abc", "efg", "ihj"};
-	char (*p)[4]=arr;
-	printf("%d", sizeof(*p+1)); //1
-}
-```
-```c
-#include <stdio.h>
-int main()
-{
-	char arr[3][4] = {"abc", "efg", "ihj"};
-	char (*p)[4]=arr;
-	printf("%d", sizeof(*p[1])); //8
-}
-```
+![[Pointer 2chawon kgi|400]]
