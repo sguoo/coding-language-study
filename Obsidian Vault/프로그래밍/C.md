@@ -1234,6 +1234,26 @@ int arr\[4]\[2];
 #include <stdio.h>
 int main()
 {
-	char arr[3][4] = 
+	char arr[3][4] = {"abc", "efg", "ihj"};
+	char (*p)[4]=arr;
+	printf("%d", sizeof(*p));
+}
+```
+```c
+#include <stdio.h>
+int main()
+{
+	char arr[3][4] = {"abc", "efg", "ihj"};
+	char (*p)[4]=arr;
+	printf("%d", sizeof(*p+1));
+}
+```
+```c
+#include <stdio.h>
+int main()
+{
+	char arr[3][4] = {"abc", "efg", "ihj"};
+	char (*p)[4]=arr;
+	printf("%d", sizeof(*p[1]));
 }
 ```
