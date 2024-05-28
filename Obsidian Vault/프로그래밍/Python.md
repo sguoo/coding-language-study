@@ -991,3 +991,5 @@ chatbot.sayMyName() #6
 say Hello
 My name is Kbot :D
 ```
+## 생성자와 소멸자
+- 인스턴스가 생성될 때 자동으로 호출하는 생성자<sup></sup>
