@@ -1236,7 +1236,7 @@ int main()
 {
 	char arr[3][4] = {"abc", "efg", "ihj"};
 	char (*p)[4]=arr;
-	printf("%d", sizeof(*p));
+	printf("%d", sizeof(*p)); //4
 }
 ```
 ```c
@@ -1245,7 +1245,7 @@ int main()
 {
 	char arr[3][4] = {"abc", "efg", "ihj"};
 	char (*p)[4]=arr;
-	printf("%d", sizeof(*p+1));
+	printf("%d", sizeof(*p+1)); //1
 }
 ```
 ```c
@@ -1254,6 +1254,6 @@ int main()
 {
 	char arr[3][4] = {"abc", "efg", "ihj"};
 	char (*p)[4]=arr;
-	printf("%d", sizeof(*p[1]));
+	printf("%d", sizeof(*p[1])); //8
 }
 ```

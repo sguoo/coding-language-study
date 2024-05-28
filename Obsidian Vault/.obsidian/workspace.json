@@ -66,6 +66,16 @@
             }
           },
           {
+            "id": "3d5fdf66379d1fd2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-28 15.44.05.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "11670ebc3ac72df8",
             "type": "leaf",
             "state": {
@@ -90,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -165,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "Excalidraw/Drawing 2024-05-28 15.44.05.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "Excalidraw/Drawing 2024-05-28 15.44.05.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/C.md"
+                "file": "Excalidraw/Drawing 2024-05-28 15.44.05.excalidraw.md"
               }
             }
           },
@@ -246,12 +256,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd063357d1dab7e7",
+  "active": "3d5fdf66379d1fd2",
   "lastOpenFiles": [
+    "프로그래밍/C.md",
+    "Excalidraw/Drawing 2024-05-28 15.44.05.excalidraw.md",
     "프로그래밍/프로그래밍 공부.md",
     "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
     "프로그래밍/프로그래밍 자료/C pointer3.md",
-    "프로그래밍/C.md",
     "프로그래밍/프로그래밍 자료/C pointer vaeyul.md",
     "Excalidraw/Excalidraw.md",
     "Excalidraw",
@@ -278,7 +289,6 @@
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224011_016.png",
     "공부/컴퓨터 구조.md",
     "공부/수학.md",
-    "공부/대규모 화산분출.md",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509224536_097.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509230146_252.png",
