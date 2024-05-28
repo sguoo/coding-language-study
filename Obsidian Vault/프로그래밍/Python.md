@@ -982,7 +982,12 @@ chatbot.sayMyName() #6
 	- 첫 번째 인자로 반드시 self 키워드를 사용해야함. 지금은 클래스 자신(self)이 갖고있는 메서드로 이해
 3. 'My name is Kbot :D' 문자열을 출력하는 메서드를 정의한다
 4. Chatbot 클래스의 인스턴스를 생성한다
-5. sayHello( )메서드를 호출한다. 생성된 인스턴스에서 점( . )을 사용해 원하는 메서드를 호출한다
-6. sayMyName( )메서드를 호출한ㄷ
+5. sayHello( ) 메서드를 호출한다. 생성된 인스턴스에서 점( . )을 사용해 원하는 메서드를 호출한다
+6. sayMyName( ) 메서드를 호출한다
 
 [^4]: 일반 변수랑 구별하기 위함
+```python
+#결과
+say Hello
+My name is Kbot :D
+```
