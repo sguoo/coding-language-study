@@ -966,14 +966,15 @@ class 클래스명:
 ```python
 #챗봇 클래스
 class Charbot : #1
-	def sayHello(self):[^2]
+	def sayHello(self): #2
 		print("say hello")
 
-	def sayMyName(self):
+	def sayMyName(self): #3
 		print("My name is Kbot :D")
 
 #챗봇 인스턴스 생성
-chatbot = Chatbot()
-chatbot.sayHello()
-chatbot.sayMyName()
+chatbot = Chatbot() #4
+chatbot.sayHello() #5
+chatbot.sayMyName() #6
 ```
+1. Chatbot이라는 클래스를 정의한다. 보통 클래스의 첫 글자는 대문자로 쓴다. []
