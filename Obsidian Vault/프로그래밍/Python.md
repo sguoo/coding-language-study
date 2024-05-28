@@ -965,13 +965,15 @@ class 클래스명:
 - 간단한 인사 메시지와 챗봇이름을 출력하는 예제
 ```python
 #챗봇 클래스
-class Charbot :
-	def sayHello(self):
+class Charbot : #1
+	def sayHello(self):[^2]
 		print("say hello")
 
 	def sayMyName(self):
 		print("My name is Kbot :D")
 
 #챗봇 인스턴스 생성
-chatbot 
+chatbot = Chatbot()
+chatbot.sayHello()
+chatbot.sayMyName()
 ```
