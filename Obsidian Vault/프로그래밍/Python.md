@@ -1058,5 +1058,10 @@ class 클래스명:
 - 사칙연산을 수행하는 객체 예제
 ```python
 class Calc:
-	def _init_(self, init_value):
+	def _init_(self, init_value): #1
+		self.value = init_value #2
+		
+	def add(self, n):
+		return self.value + n
+		
 ```
