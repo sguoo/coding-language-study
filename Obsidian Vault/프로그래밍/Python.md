@@ -1020,5 +1020,5 @@ class SimpleObj:
 		print('call _init_()')
 	
 	def _del_(self):
-		print('call _del_())
+		print('call _del_()')
 ```
