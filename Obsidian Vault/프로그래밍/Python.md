@@ -1016,10 +1016,10 @@ class 클래스명:
 - 생성자와 소멸자의 동작을 확인 할 수 있는 예제
 ```python
 class SimpleObj:
-	def _init_(self): #1
+	def __init__(self): #1
 		print('call _init_()') 
 	
-	def _del_(self): #2
+	def __del___(self): #2
 		print('call _del_()')
 
 obj = SimpleOnj() #3
@@ -1032,9 +1032,9 @@ del obj #4
 4. obj 인스턴스를 메모리에서 해제한다.
 - 결과는 밑과 같다
 ```python
-call _init_( )
+call __init__( )
 obj instancee is alive...
-call _del_( )
+call __del__( )
 ```
 ## 메서드와 인스턴스 변수
 - 클래스는 메서드와 인스턴스 변수로 구성되어있다.
@@ -1058,7 +1058,7 @@ class 클래스명:
 - 사칙연산을 수행하는 객체 예제
 ```python
 class Calc:
-	def _init_(self, init_value): #1
+	def __init__(self, init_value): #1
 		self.value = init_value #2
 		
 	def add(self, n): #3
