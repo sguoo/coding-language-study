@@ -1061,8 +1061,8 @@ class Calc:
 	def _init_(self, init_value): #1
 		self.value = init_value #2
 		
-	def add(self, n):
-		return self.value + n
+	def add(self, n): #3
+		return self.value + n #4
 		
 	def sub(self, n):
 		return self.value - n
@@ -1073,10 +1073,13 @@ class Calc:
 	def div(self, n)
 		return self.value / n
 		
-cal = Calc(100)
-print("value = {0}".format(cal.value))
+cal = Calc(100) #5
+print("value = {0}".format(cal.value)) #6
 
 a = cal.add(100)
 b = cal.sub(50)
-d = cal.mul
+c = cal.mul(2)
+d = cal.div(2)
+
+print("a={0}, b={1}, c={2}, d{3}".format(a, b, c, d))
 ```
