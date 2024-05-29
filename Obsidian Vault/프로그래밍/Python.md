@@ -1,5 +1,5 @@
 ---
-sticker: "[[Pasted Image 20240519224011_016.png]]"
+sticker: "[[Pasted Image 20240519224547_174.png]]"
 ---
 #파이썬 
 
