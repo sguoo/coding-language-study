@@ -1053,4 +1053,10 @@ class 클래스명:
 - 인스턴스 변수는 한 번 선언되면 모든 메서드에서 사용될 수 있다.
 - 밑과 같이 self키워드를 사용한다
 
-`self.변숨`
+`self.변수명 = 초깃값`
+
+- 사칙연산을 수행하는 객체 예제
+```python
+class Calc:
+	def _init_(self, init_value):
+```
