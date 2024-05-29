@@ -1033,5 +1033,9 @@ del obj #4
 - 결과는 밑과 같다
 ```python
 call _init_( )
-obj instancee is al
+obj instancee is alive...
+call _del_( )
 ```
+## 메서드와 인스턴스 변수
+- 클래스는 메서드와 인스턴스 변수로 구성되어있다.
+- 메서드를 통해 객체의 행동을 정의하고, 인스턴스를 사용해 상태를 표현할 수 ㄴ
