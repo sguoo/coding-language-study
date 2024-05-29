@@ -1,5 +1,5 @@
 ---
-sticker: "[[Pasted Image 20240519224547_174.png]]"
+sticker: lucide//party-popper
 ---
 #파이썬 
 
