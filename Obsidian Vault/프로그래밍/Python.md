@@ -1026,4 +1026,7 @@ obj = SimpleOnj() #3
 print('obj instance is alive...')
 del obj #4
 ```
-1. SimpleObj 클래스의 생성자를 정의한다. 즉, call \_init_( )문자열을 출력한
+1. SimpleObj 클래스의 생성자를 정의한다. 즉, call \_init_( )문자열을 출력한다
+2. SimpleObj 클래스의 소멸자를 정의한다. 즉, call \_del( )_ 문자열을 출력한다
+3. SimpleObj 클래스의 인스턴스를 생성한다. 1의 생성자가 호출된다
+4. obj 인스턴스를 메모리
