@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/프로그래밍 공부.md",
+                "file": "프로그래밍/Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/프로그래밍 공부.md",
+                "file": "프로그래밍/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/프로그래밍 공부.md",
+                "file": "프로그래밍/Python.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/프로그래밍 공부.md"
+                "file": "프로그래밍/Python.md"
               }
             }
           },
@@ -247,10 +247,11 @@
   },
   "active": "9fdbcc7eca00093e",
   "lastOpenFiles": [
+    "프로그래밍/css.md",
+    "프로그래밍/프로그래밍 공부.md",
     "프로그래밍/Lua.md",
     "공부/공부 자료/Drawing 2024-05-23 09.28.18.excalidraw.md",
     "프로그래밍/Python.md",
-    "프로그래밍/css.md",
     "공부/대규모 화산분출.md",
     "공부/공부 자료/Pasted image 20240509082840.png",
     "프로그래밍/C.md",
@@ -268,7 +269,6 @@
     "프로그래밍/프로그래밍 자료/C pointer3.md",
     "프로그래밍/프로그래밍 자료/css Style.md",
     "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
-    "프로그래밍/프로그래밍 공부.md",
     "Excalidraw/Excalidraw.md",
     "Excalidraw",
     "Excalidraw/Drawing 2024-05-27 10.55.25.excalidraw.md",
