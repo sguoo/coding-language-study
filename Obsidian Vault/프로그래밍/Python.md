@@ -1021,4 +1021,8 @@ class SimpleObj:
 	
 	def _del_(self):
 		print('call _del_()')
-```
+
+obj = SimpleOnj()
+print('obj instance is alive...')
+del obj
+```'
