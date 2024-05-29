@@ -135,7 +135,7 @@ h1 {
 <body>
 	<div>
 		<h1 class="accent bg">레드향</h1>
-		<p>껍질에 붉은 빛이 돌아 <span class="accent" 레드향이</span>라 불린
+		<p>껍질에 붉은 빛이 돌아 <span class="accent"> 레드향이</span>라 불린
 		다
 		</p>
 		<p>레드향은 한라봉과 귤을 교배한 것으로</p>
