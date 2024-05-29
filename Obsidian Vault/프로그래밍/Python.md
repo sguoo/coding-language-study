@@ -1016,14 +1016,14 @@ class 클래스명:
 - 생성자와 소멸자의 동작을 확인 할 수 있는 예제
 ```python
 class SimpleObj:
-	def _init_(self):
-		print('call _init_()')
+	def _init_(self): #1
+		print('call _init_()') 
 	
-	def _del_(self):
+	def _del_(self): #2
 		print('call _del_()')
 
-obj = SimpleOnj()
+obj = SimpleOnj() #3
 print('obj instance is alive...')
-del obj
+del obj #4
 ```
 [
