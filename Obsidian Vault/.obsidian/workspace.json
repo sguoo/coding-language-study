@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/Lua.md",
+                "file": "프로그래밍/C.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/Lua.md",
+                "file": "프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/Lua.md",
+                "file": "프로그래밍/C.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/Lua.md"
+                "file": "프로그래밍/C.md"
               }
             }
           },
@@ -247,10 +247,10 @@
   },
   "active": "9fdbcc7eca00093e",
   "lastOpenFiles": [
+    "프로그래밍/Lua.md",
     "프로그래밍/css.md",
     "프로그래밍/C.md",
     "프로그래밍/Python.md",
-    "프로그래밍/Lua.md",
     "프로그래밍/옵시디언.md",
     "프로그래밍/프로그래밍 공부.md",
     "공부/공부 자료/Drawing 2024-05-23 09.28.18.excalidraw.md",
