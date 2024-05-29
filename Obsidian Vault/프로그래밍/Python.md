@@ -1070,7 +1070,7 @@ class Calc:
 	def mul(self, n):
 		return self.nalue * n
 		
-	def div(self, n)
+	def div(self, n):
 		return self.value / n
 		
 cal = Calc(100) #5
