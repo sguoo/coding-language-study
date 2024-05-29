@@ -1,5 +1,5 @@
 ---
-sticker: lucide//skull
+sticker: "[[Pasted Image 20240519224011_016.png]]"
 ---
 #파이썬 
 
