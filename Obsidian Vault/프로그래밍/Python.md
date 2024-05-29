@@ -1073,5 +1073,10 @@ class Calc:
 	def div(self, n)
 		return self.value / n
 		
-	cal
+cal = Calc(100)
+print("value = {0}".format(cal.value))
+
+a = cal.add(100)
+b = cal.sub(50)
+d = cal.mul
 ```
