@@ -1064,4 +1064,14 @@ class Calc:
 	def add(self, n):
 		return self.value + n
 		
+	def sub(self, n):
+		return self.value - n
+		
+	def mul(self, n):
+		return self.nalue * n
+		
+	def div(self, n)
+		return self.value / n
+		
+	cal
 ```
