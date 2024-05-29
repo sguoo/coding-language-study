@@ -1025,4 +1025,5 @@ class SimpleObj:
 obj = SimpleOnj()
 print('obj instance is alive...')
 del obj
-```'
+```
+[][][][][]p
