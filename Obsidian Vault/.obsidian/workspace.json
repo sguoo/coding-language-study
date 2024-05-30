@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부/태양 활동의 변화.md",
+                "file": "프로그래밍/프로그래밍 공부.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부/태양 활동의 변화.md",
+                "file": "프로그래밍/프로그래밍 공부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부/태양 활동의 변화.md",
+                "file": "프로그래밍/프로그래밍 공부.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부/태양 활동의 변화.md"
+                "file": "프로그래밍/프로그래밍 공부.md"
               }
             }
           },
@@ -269,8 +269,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24d136a6414d5bbf",
+  "active": "52338d3fedf22eb9",
   "lastOpenFiles": [
+    "프로그래밍/C.md",
+    "프로그래밍/프로그래밍 공부.md",
+    "공부/태양 활동의 변화.md",
     "공부/컴퓨터 구조.md",
     "공부/과학.md",
     "공부/대규모 화산분출.md",
@@ -278,14 +281,11 @@
     "책 정리, 독후감/모비딕.md",
     "프로그래밍/프로그래밍.md",
     "프로그래밍/옵시디언.md",
-    "공부/태양 활동의 변화.md",
     "공부/수행평가.md",
     "공부/수학.md",
     "공부/사회.md",
     "공부/공부.md",
     "프로그래밍/유니티.md",
-    "프로그래밍/C.md",
-    "프로그래밍/프로그래밍 공부.md",
     "공부/공부 자료/Game Project/Team Project/Game project load map.md",
     "프로그래밍/css.md",
     "프로그래밍/Python.md",
