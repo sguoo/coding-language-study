@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/프로그래밍 공부.md",
+                "file": "프로그래밍/css.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/프로그래밍 공부.md",
+                "file": "프로그래밍/css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/프로그래밍 공부.md",
+                "file": "프로그래밍/css.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/프로그래밍 공부.md"
+                "file": "프로그래밍/css.md"
               }
             }
           },
@@ -271,8 +271,8 @@
   },
   "active": "52338d3fedf22eb9",
   "lastOpenFiles": [
-    "프로그래밍/C.md",
     "프로그래밍/프로그래밍 공부.md",
+    "프로그래밍/C.md",
     "공부/태양 활동의 변화.md",
     "공부/컴퓨터 구조.md",
     "공부/과학.md",
