@@ -69,9 +69,11 @@
             "id": "52338d3fedf22eb9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/Game project load map.md"
+                "file": "프로그래밍/Python.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -186,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/Game project load map.md",
+                "file": "프로그래밍/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/Game project load map.md",
+                "file": "프로그래밍/Python.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/Game project load map.md"
+                "file": "프로그래밍/Python.md"
               }
             }
           },
@@ -269,6 +271,7 @@
   },
   "active": "52338d3fedf22eb9",
   "lastOpenFiles": [
+    "공부/공부 자료/Game Project/Team Project/Game project load map.md",
     "공부/공부 자료/Pasted image 20240509083122.png",
     "공부/공부 자료/Pasted image 20240509082840.png",
     "공부/공부 자료/Drawing 2024-05-23 09.28.18.excalidraw.md",
@@ -306,7 +309,6 @@
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509230146_252.png",
     "프로그래밍/프로그래밍 자료",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225142_221.gif",
-    "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225757_002.gif",
     "fonts/나눔손글씨 할아버지의나눔.ttf",
     "fonts",
     "새 폴더",
