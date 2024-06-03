@@ -1241,6 +1241,12 @@ int arr\[4]\[2];
 int main(void){
 	int temp = 0;
 	for(int i = 0; i < 2; i++)
-		t
+		temp += i;
+	printf("%d", temp);
+	temp = 0;
+	for(int i = 0; i < 5; i++)
+		temp += i;
+	printf("%d", temp);
+	
 }
 ```
