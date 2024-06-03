@@ -1273,19 +1273,23 @@ int main(void){
 	tmp = a[3];
 	a[3] = a[0];
 	a[0] = tmp;
+	printf("a[0]: %d a[3]: %d", a[0], a[3])
 	
 	tmp = a[5];
 	a[5] = a[1];
 	a[1] = tmp;
+	printf("a[0]: %d a[3]: %d", a[0], a[3])
 	
 	tmp = a[4];
 	a[4] = a[2];
 	a[2] = tmp;
-	
+	printf("a[0]: %d a[3]: %d", a[0], a[3])
+
 	tmp = a[9];
 	a[9] = a[7];
 	a[7] = tmp;
-	
+	printf("a[0]: %d a[3]: %d", a[0], a[3])
+
 	return 0;
 }
 ```
