@@ -1271,16 +1271,20 @@ int main(void){
 	int tmp;
 	// 다음의 값 바꾸기 a[0] ↔ a[3], a[1] ↔ a[5], a[2] ↔ a[4], a[7] ↔ a[9]
 	tmp = a[3];
-	a[0] = a[3]
+	a[3] = a[0];
 	a[0] = tmp;
 	
 	tmp = a[5];
-	a[1] = a[5]
+	a[5] = a[1];
 	a[1] = tmp;
 	
-	tmp = a[3];
-	a[0] = a[3]
-	a[0] = tmp;
+	tmp = a[4];
+	a[4] = a[2];
+	a[2] = tmp;
+	
+	tmp = a[9];
+	a[9] = a[7];
+	a[7] = tmp;
 	
 	return 0;
 }
