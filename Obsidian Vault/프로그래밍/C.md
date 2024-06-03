@@ -1299,4 +1299,16 @@ int main(void){
 	- 함수의 출력
 	- 함수의 몸
 
-``
+```c
+#include <stdio.h>
+int Increment(int n){
+	n++;
+	return n;
+}
+
+int main(void){
+	int num = 2;
+	num = Increment(num);
+	printf(")
+}
+```
