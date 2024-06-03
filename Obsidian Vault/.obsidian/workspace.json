@@ -30,6 +30,16 @@
             }
           },
           {
+            "id": "81b1f82690d999cc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-03 10.28.41.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "11670ebc3ac72df8",
             "type": "leaf",
             "state": {
@@ -54,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "Excalidraw/Drawing 2024-06-03 10.28.41.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "Excalidraw/Drawing 2024-06-03 10.28.41.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/C.md"
+                "file": "Excalidraw/Drawing 2024-06-03 10.28.41.excalidraw.md"
               }
             }
           },
@@ -209,11 +219,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "417757e933ee7565",
+  "active": "81b1f82690d999cc",
   "lastOpenFiles": [
+    "프로그래밍/C.md",
+    "Excalidraw/Drawing 2024-06-03 10.28.41.excalidraw.md",
     "프로그래밍/프로그래밍 자료/c funtion 4.md",
     "프로그래밍/프로그래밍 자료/c funtion 3.md",
-    "프로그래밍/C.md",
     "프로그래밍/Python.md",
     "책 정리, 독후감/모비딕.md",
     "프로그래밍/옵시디언.md",
@@ -241,7 +252,6 @@
     "공부/수행평가.md",
     "프로그래밍/프로그래밍 자료/C pointer2.md",
     "프로그래밍/프로그래밍 자료/css pyogibub.md",
-    "프로그래밍/프로그래밍 자료/lambda def bigyo.md",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224547_174.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224011_016.png",
