@@ -1247,6 +1247,10 @@ int main(void){
 	for(int i = 0; i < 5; i++)
 		temp += i;
 	printf("%d", temp);
-	
+	temp = 0;
+	for(int i = 0; i < 100; i++)
+		temp += i;
+	printf("%d", temp)
+	temp = 0;
 }
 ```
