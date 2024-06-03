@@ -1322,3 +1322,13 @@ int main(void){
 ![[c funtion]]
 
 ![[c funtion 1]]
+
+## 함수를 구성하는 요소들
+- 함수는 변수와 같이 사용하기 전에 먼저 선언되어야 한다.
+
+```c
+int main(){
+	int a=5, a=3, res;
+	result= add
+}
+```
