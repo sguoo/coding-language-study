@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부/과학.md",
+                "file": "공부/태양 활동의 변화.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부/과학.md",
+                "file": "공부/태양 활동의 변화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부/과학.md",
+                "file": "공부/태양 활동의 변화.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부/과학.md"
+                "file": "공부/태양 활동의 변화.md"
               }
             }
           },
@@ -223,6 +223,8 @@
   },
   "active": "81b1f82690d999cc",
   "lastOpenFiles": [
+    "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
+    "공부/과학.md",
     "공부/대규모 화산분출.md",
     "공부/수학.md",
     "공부/사회.md",
@@ -250,10 +252,8 @@
     "프로그래밍/Lua.md",
     "Excalidraw/Excalidraw.md",
     "프로그래밍/프로그래밍.md",
-    "공부/공부 자료/Game Project/Team Project/Game project load map.md",
     "공부/공부 자료/Pasted image 20240509083122.png",
     "공부/공부 자료/Pasted image 20240509082840.png",
-    "공부/공부 자료/Drawing 2024-05-23 09.28.18.excalidraw.md",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224547_174.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224011_016.png",
