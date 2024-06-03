@@ -1356,6 +1356,11 @@ int main(){
 ```c
 int add(int a, int b){
 	int result = a + b;
-	e
+	return result;
+}
+int main(){ //main함수의 a와 add함수의 a는 다른 변수이다
+	int a = 5, b = 3, result;//
+	result = add(a, b);
+	printf("%d", result);
 }
 ```
