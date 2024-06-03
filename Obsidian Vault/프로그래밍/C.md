@@ -1359,8 +1359,8 @@ int add(int a, int b){
 	return result;
 }
 int main(){ //main함수의 a와 add함수의 a는 다른 변수이다
-	int a = 5, b = 3, result;//
-	result = add(a, b);
+	int a = 5, b = 3, result;//매개변수값이 복사되는 방식
+	result = add(a, b);//add함수의 값이 바뀌어도 main함수의 값에는 영향이 없다.
 	printf("%d", result);
 }
 ```
