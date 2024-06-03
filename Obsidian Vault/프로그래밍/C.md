@@ -1270,9 +1270,17 @@ int main(void){
 	int a[10] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
 	int tmp;
 	// 다음의 값 바꾸기 a[0] ↔ a[3], a[1] ↔ a[5], a[2] ↔ a[4], a[7] ↔ a[9]
-	tmp = a[0];
+	tmp = a[3];
 	a[0] = a[3]
-	tmp = a[3]
+	a[0] = tmp;
+	
+	tmp = a[5];
+	a[1] = a[5]
+	a[1] = tmp;
+	
+	tmp = a[3];
+	a[0] = a[3]
+	a[0] = tmp;
 	
 	return 0;
 }
