@@ -1320,3 +1320,5 @@ int main(void){
 }
 ```
 ![[c funtion]]
+
+![[c funtion 1]]
