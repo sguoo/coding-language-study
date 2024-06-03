@@ -21,9 +21,11 @@
             "id": "417757e933ee7565",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-03 10.26.19.excalidraw.md"
+                "file": "프로그래밍/C.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -126,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-03 10.26.19.excalidraw.md",
+                "file": "프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-03 10.26.19.excalidraw.md",
+                "file": "프로그래밍/C.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-03 10.26.19.excalidraw.md"
+                "file": "프로그래밍/C.md"
               }
             }
           },
@@ -209,8 +211,8 @@
   },
   "active": "417757e933ee7565",
   "lastOpenFiles": [
+    "프로그래밍/프로그래밍 자료/c funtion 4.md",
     "프로그래밍/프로그래밍 자료/c funtion 3.md",
-    "Excalidraw/Drawing 2024-06-03 10.26.19.excalidraw.md",
     "프로그래밍/C.md",
     "프로그래밍/Python.md",
     "책 정리, 독후감/모비딕.md",
