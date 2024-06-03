@@ -81,6 +81,42 @@
             "id": "39865271a79465cf",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로그래밍/C.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26d7acdc6e8c335c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로그래밍/C.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f72c625e9ac40c69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로그래밍/C.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f23a77a878359cc",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "프로그래밍/프로그래밍 자료/c funtion 1.md"
@@ -112,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -267,12 +303,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "39865271a79465cf",
+  "active": "2f23a77a878359cc",
   "lastOpenFiles": [
-    "프로그래밍/프로그래밍 자료/c funtion.md",
-    "프로그래밍/프로그래밍 자료/c funtion 1.md",
-    "프로그래밍/프로그래밍 자료/C pointer.md",
     "프로그래밍/C.md",
+    "프로그래밍/프로그래밍 자료/c funtion 1.md",
+    "프로그래밍/프로그래밍 자료/c funtion.md",
+    "프로그래밍/프로그래밍 자료/C pointer.md",
     "프로그래밍/Python.md",
     "프로그래밍/프로그래밍 자료/Python Funtion.md",
     "프로그래밍/Lua.md",
