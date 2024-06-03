@@ -1327,8 +1327,15 @@ int main(void){
 - 함수는 변수와 같이 사용하기 전에 먼저 선언되어야 한다.
 
 ```c
+int
+
 int main(){
 	int a=5, a=3, res;
-	result= add
+	result= add(a, b);   → ERROR :컴파일러는 add가 뭔지 모른다
+	printf("%d", result);
+}
+int add(int x, int y){
+	result = x + y;
+	return result;
 }
 ```
