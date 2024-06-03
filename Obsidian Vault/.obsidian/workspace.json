@@ -117,9 +117,11 @@
             "id": "2f23a77a878359cc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "프로그래밍/프로그래밍 자료/c funtion.md"
+                "file": "프로그래밍/C.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -222,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/프로그래밍 자료/c funtion.md",
+                "file": "프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/프로그래밍 자료/c funtion.md",
+                "file": "프로그래밍/C.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/프로그래밍 자료/c funtion.md"
+                "file": "프로그래밍/C.md"
               }
             }
           },
@@ -305,6 +307,8 @@
   },
   "active": "2f23a77a878359cc",
   "lastOpenFiles": [
+    "프로그래밍/옵시디언.md",
+    "프로그래밍/프로그래밍 자료/c funtion.md",
     "프로그래밍/프로그래밍 자료/c funtion 1.md",
     "프로그래밍/프로그래밍 자료/C pointer.md",
     "프로그래밍/프로그래밍 자료/C pointer vaeyul.md",
@@ -319,7 +323,6 @@
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225746_122.png",
     "프로그래밍/C.md",
     "프로그래밍/css.md",
-    "프로그래밍/프로그래밍 자료/c funtion.md",
     "프로그래밍/Python.md",
     "프로그래밍/Lua.md",
     "Excalidraw/Excalidraw.md",
@@ -335,7 +338,6 @@
     "프로그래밍/프로그래밍 공부.md",
     "공부/태양 활동의 변화.md",
     "공부/컴퓨터 구조.md",
-    "공부/과학.md",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224547_174.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224011_016.png",

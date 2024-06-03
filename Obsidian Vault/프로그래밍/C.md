@@ -1352,3 +1352,10 @@ int main(){
 	printf("%d", result);
 }
 ```
+- 매개변수의 이름을 같이 사용하는 경우
+```c
+int add(int a, int b){
+	int result = a + b;
+	e
+}
+```
