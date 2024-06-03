@@ -1309,6 +1309,13 @@ int Increment(int n){
 int main(void){
 	int num = 2;
 	num = Increment(num);
-	printf(")
+	printf("num: %d \n", num);
+	
+	num = Increment(num);
+	printf("num: %d \n", num);
+	
+	num = Increment(num);
+	printf("num: %d \n", num);
+	return 0;
 }
 ```

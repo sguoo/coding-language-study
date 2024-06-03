@@ -78,6 +78,16 @@
             }
           },
           {
+            "id": "3f889f49910170e5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-03 10.04.35.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "dd063357d1dab7e7",
             "type": "leaf",
             "state": {
@@ -114,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -188,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "Excalidraw/Drawing 2024-06-03 10.04.35.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "Excalidraw/Drawing 2024-06-03 10.04.35.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/C.md"
+                "file": "Excalidraw/Drawing 2024-06-03 10.04.35.excalidraw.md"
               }
             }
           },
@@ -269,8 +279,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "52338d3fedf22eb9",
+  "active": "3f889f49910170e5",
   "lastOpenFiles": [
+    "프로그래밍/C.md",
+    "Excalidraw/Drawing 2024-06-03 10.04.35.excalidraw.md",
     "프로그래밍/프로그래밍.md",
     "프로그래밍/Python.md",
     "공부/공부 자료/Game Project/Team Project/Game project load map.md",
@@ -286,7 +298,6 @@
     "프로그래밍/프로그래밍 자료/css Style.md",
     "프로그래밍/프로그래밍 자료/lambda def bigyo.md",
     "프로그래밍/프로그래밍 공부.md",
-    "프로그래밍/C.md",
     "프로그래밍/css.md",
     "프로그래밍/Lua.md",
     "프로그래밍/프로그래밍 자료/Pointer 2chawon kgi.md",
@@ -299,7 +310,6 @@
     "프로그래밍/옵시디언.md",
     "공부/수학.md",
     "공부/사회.md",
-    "공부/공부.md",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224547_174.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224011_016.png",
     "Excalidraw",
