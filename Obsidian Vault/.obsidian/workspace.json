@@ -33,9 +33,11 @@
             "id": "81b1f82690d999cc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-03 10.28.41.excalidraw.md"
+                "file": "프로그래밍/C.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -138,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-03 10.28.41.excalidraw.md",
+                "file": "프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-03 10.28.41.excalidraw.md",
+                "file": "프로그래밍/C.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-03 10.28.41.excalidraw.md"
+                "file": "프로그래밍/C.md"
               }
             }
           },
@@ -221,8 +223,8 @@
   },
   "active": "81b1f82690d999cc",
   "lastOpenFiles": [
+    "프로그래밍/프로그래밍 자료/C funtion 5.md",
     "프로그래밍/C.md",
-    "Excalidraw/Drawing 2024-06-03 10.28.41.excalidraw.md",
     "프로그래밍/프로그래밍 자료/c funtion 4.md",
     "프로그래밍/프로그래밍 자료/c funtion 3.md",
     "프로그래밍/Python.md",

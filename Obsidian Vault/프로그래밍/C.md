@@ -1369,4 +1369,5 @@ int main(){ //main함수의 a와 add함수의 a는 다른 변수이다
 ![[c funtion 3]]
 ### 전역 변수
 ![[c funtion 4]]
-### 변수의 영역
+### 함의 영역
+![[C funtion 5]]
