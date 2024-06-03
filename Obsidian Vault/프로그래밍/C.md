@@ -1273,23 +1273,25 @@ int main(void){
 	tmp = a[3];
 	a[3] = a[0];
 	a[0] = tmp;
-	printf("a[0]: %d a[3]: %d", a[0], a[3])
+	printf("a[0]: %d a[3]: %d", a[0], a[3]);
 	
 	tmp = a[5];
 	a[5] = a[1];
 	a[1] = tmp;
-	printf("a[0]: %d a[3]: %d", a[0], a[3])
+	printf("a[1]: %d a[5]: %d", a[1], a[5]);
 	
 	tmp = a[4];
 	a[4] = a[2];
 	a[2] = tmp;
-	printf("a[0]: %d a[3]: %d", a[0], a[3])
+	printf("a[2]: %d a[4]: %d", a[2], a[4]);
 
 	tmp = a[9];
 	a[9] = a[7];
 	a[7] = tmp;
-	printf("a[0]: %d a[3]: %d", a[0], a[3])
+	printf("a[7]: %d a[9]: %d", a[7], a[9]);
 
 	return 0;
 }
 ```
+- 함수의 구성 요소
+	- 함수으
