@@ -81,9 +81,11 @@
             "id": "3f889f49910170e5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-03 10.04.35.excalidraw.md"
+                "file": "프로그래밍/C.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -198,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-03 10.04.35.excalidraw.md",
+                "file": "프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-03 10.04.35.excalidraw.md",
+                "file": "프로그래밍/C.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-03 10.04.35.excalidraw.md"
+                "file": "프로그래밍/C.md"
               }
             }
           },
@@ -281,8 +283,9 @@
   },
   "active": "3f889f49910170e5",
   "lastOpenFiles": [
+    "프로그래밍/Lua.md",
+    "프로그래밍/프로그래밍 자료/c funtion.md",
     "Excalidraw/Excalidraw.md",
-    "Excalidraw/Drawing 2024-06-03 10.04.35.excalidraw.md",
     "공부/공부 자료/Game Project/project/Levatein Default.gif",
     "프로그래밍/C.md",
     "프로그래밍/프로그래밍 자료/Python Funtion.md",
@@ -303,7 +306,6 @@
     "프로그래밍/프로그래밍 자료/lambda def bigyo.md",
     "프로그래밍/프로그래밍 공부.md",
     "프로그래밍/css.md",
-    "프로그래밍/Lua.md",
     "공부/태양 활동의 변화.md",
     "공부/컴퓨터 구조.md",
     "공부/과학.md",
