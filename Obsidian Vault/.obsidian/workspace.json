@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/Python.md",
+                "file": "프로그래밍/C.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/Python.md",
+                "file": "프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/Python.md",
+                "file": "프로그래밍/C.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/Python.md"
+                "file": "프로그래밍/C.md"
               }
             }
           },
@@ -271,6 +271,8 @@
   },
   "active": "52338d3fedf22eb9",
   "lastOpenFiles": [
+    "프로그래밍/프로그래밍.md",
+    "프로그래밍/Python.md",
     "공부/공부 자료/Game Project/Team Project/Game project load map.md",
     "공부/공부 자료/Pasted image 20240509083122.png",
     "공부/공부 자료/Pasted image 20240509082840.png",
@@ -283,12 +285,10 @@
     "프로그래밍/프로그래밍 자료/css pyogibub.md",
     "프로그래밍/프로그래밍 자료/css Style.md",
     "프로그래밍/프로그래밍 자료/lambda def bigyo.md",
-    "프로그래밍/프로그래밍.md",
     "프로그래밍/프로그래밍 공부.md",
     "프로그래밍/C.md",
     "프로그래밍/css.md",
     "프로그래밍/Lua.md",
-    "프로그래밍/Python.md",
     "프로그래밍/프로그래밍 자료/Pointer 2chawon kgi.md",
     "공부/태양 활동의 변화.md",
     "공부/컴퓨터 구조.md",
