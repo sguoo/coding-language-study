@@ -1325,9 +1325,8 @@ int main(void){
 
 ## 함수를 구성하는 요소들
 - 함수는 변수와 같이 사용하기 전에 먼저 선언되어야 한다.
-
 ```c
-int
+///int add(int x, int y) 먼저 선언해 줘야 한다
 
 int main(){
 	int a=5, a=3, res;
@@ -1337,5 +1336,19 @@ int main(){
 int add(int x, int y){
 	result = x + y;
 	return result;
+}
+```
+- 한번에 함수를 선언해도 가능
+```c
+
+int add(int x, int y){
+	result = x + y;
+	return result;
+}
+
+int main(){
+	int a=5, a=3, res;
+	result= add(a, b);
+	printf("%d", result);
 }
 ```
