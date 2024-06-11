@@ -106,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/프로그래밍/C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/프로그래밍/C.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -172,14 +170,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f52c4718df96e98c",
+  "active": "ec5a49a5218be892",
   "lastOpenFiles": [
+    "Obsidian Vault/프로그래밍/C.md",
+    "conflict-files-obsidian-git.md",
     "Obsidian Vault/프로그래밍/css.md",
     "Obsidian Vault/프로그래밍/Lua.md",
     "Obsidian Vault/정리해둔거.md",
     "Obsidian Vault/프로그래밍/Python.md",
     "Obsidian Vault/프로그래밍/프로그래밍 공부.md",
-    "Obsidian Vault/프로그래밍/C.md",
     "README.md",
     "Obsidian Vault/Vault.md",
     "Tags",
