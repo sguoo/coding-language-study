@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dd0712843b3eb420",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Obsidian Vault/프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Obsidian Vault/프로그래밍/C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Obsidian Vault/프로그래밍/C.md"
               }
             }
           }
@@ -184,10 +172,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "dd0712843b3eb420",
+  "active": "f52c4718df96e98c",
   "lastOpenFiles": [
-    "Obsidian Vault/프로그래밍/C.md",
     "conflict-files-obsidian-git.md",
+    "Obsidian Vault/프로그래밍/C.md",
     "Obsidian Vault/프로그래밍/css.md",
     "Obsidian Vault/프로그래밍/Lua.md",
     "Obsidian Vault/정리해둔거.md",

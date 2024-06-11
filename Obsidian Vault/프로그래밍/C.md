@@ -1410,8 +1410,8 @@ int main(void){
 -  반환 값은 함수가 호출된 위치로 전달
 -  정의된 함수는 반복 호출이 가능하다
 -  함수가 호출될 때마다 매개변수는 초기화 된다
-7f
-### Call-By-Value vs. Call-By-Reference
+
+- ### Call-By-Value vs. Call-By-Reference
 - 포인터를 이용하면 함수 내에서 외부에 있는 변수에 직접 접근이 가능
 - Call-By-Value
 	- 변수에 저장된 값을 전달하는 형태의 함수 호출
