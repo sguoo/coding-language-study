@@ -1371,3 +1371,80 @@ int main(){ //main함수의 a와 add함수의 a는 다른 변수이다
 ![[c funtion 4]]
 ### 함의 영역
 ![[C funtion 5]]
+### 함수의 형태  
+- void를 이용한 함수의 정의  
+	- void는 "존재하지 않음"을 의미  
+	- 반환형을 사용하지 않음 
+  
+- 매개변수의 개수  
+	- 출력은 많아야 하나지만, 입력은 둘 이상 될 수 있따.  
+	- 콤마 연산자를 이용해서 둘 이상의 매개변수 선언
+
+- 정의된 함수 내에서 다른 함수를 호출 할 수 있다.int 
+```c
+int Quotient(int n1, int n2){
+	return n1 / n2;
+}
+int Remainder(int n1, int n2){
+	return n1 % n2;
+}
+void IntDivide(int n1, int n2){
+	printf("%d / %d의 몫: %d \n", n1, n2, Quotient(n1, n2));
+	printf("%d / %d의 나머지: %d \n", n1, n2, Remainder(n1, n2));
+}
+int main(void){
+	printf("5 나누기 2의 결과***** \n");
+	IntDivide(5, 2);
+	printf("\n"); //한 줄 건너 뛰기
+
+	printf("12 나누기 5의 결과 ***** \n");
+	IntDivide(12, 5);
+	printf("\n");
+	return 0;
+}
+```
+### 함수의 호출
+-  함수가 호출되면 호출된 함수의 실행을 위해 이동
+-  전달인자는 매개변수를 초기화
+-  매개변수는 선언된 함수 내에서만 접근 가능
+-  반환 값은 함수가 호출된 위치로 전달
+-  정의된 함수는 반복 호출이 가능하다
+-  함수가 호출될 때마다 매개변수는 초기화 된다
+
+### Call-By-Value vs. Call-By-Reference
+- 포인터를 이용하면 함수 내에서 외부에 있는 변수에 직접 접근이 가능
+- Call-By-Value
+	- 변수에 저장된 값을 전달하는 형태의 함수 호출
+	- 별도의 변수를 선언해서 전달되는 값을 저장하는 형태
+- Call-By-Reference -> 매개변수를 포인터로 사용
+	- 주소 값을 전달하는 형태의 함수호출
+	- 주소 값이 전달되므로 함수 내에서 주소 값을 기반으로 한 변수의 접근 가능
+```c
+#include <stdio.h>
+void CallByVal(int num){
+
+	num++;
+
+}
+void CallByRef(int * ptr){
+
+	(*ptr)++;
+
+}
+
+int main(void){
+
+	int val=10;
+	
+	CallByVal(val);
+	
+	printf("CallByVal: %d \n", val);
+	
+	CallByRef(&val);
+	
+	printf("CallByRef: %d \n", val);
+	
+	return 0;
+
+}
+```
