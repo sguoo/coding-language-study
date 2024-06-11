@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부/태양 활동의 변화.md",
+                "file": "프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부/태양 활동의 변화.md",
+                "file": "프로그래밍/C.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부/태양 활동의 변화.md"
+                "file": "프로그래밍/C.md"
               }
             }
           },
@@ -215,20 +215,21 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "media-extended:Open media": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "media-extended:Open media": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "81b1f82690d999cc",
+  "active": "24d136a6414d5bbf",
   "lastOpenFiles": [
-    "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
     "공부/과학.md",
+    "프로그래밍/C.md",
+    "공부/태양 활동의 변화.md",
+    "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
     "공부/대규모 화산분출.md",
     "공부/수학.md",
     "공부/사회.md",
-    "프로그래밍/C.md",
     "프로그래밍/프로그래밍 자료/C funtion 5.md",
     "프로그래밍/프로그래밍 자료/c funtion 4.md",
     "프로그래밍/프로그래밍 자료/c funtion 3.md",
@@ -251,7 +252,6 @@
     "프로그래밍/css.md",
     "프로그래밍/Lua.md",
     "Excalidraw/Excalidraw.md",
-    "프로그래밍/프로그래밍.md",
     "공부/공부 자료/Pasted image 20240509083122.png",
     "공부/공부 자료/Pasted image 20240509082840.png",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
