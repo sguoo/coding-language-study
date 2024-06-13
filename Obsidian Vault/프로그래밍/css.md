@@ -279,4 +279,5 @@ ___
 - 형제 요소중 첫번째 동생 요소만 선택하는 것을 **인접 형제 선택자**<sup>adjacent selector</sup>라고 한다
 - 요소 1과 요소 2 사이에 '+'기호를 표시한다
 - `요소1 + 요소2`
-![ht]
+![https://google.com](https://www.youtube.com/playlist?list=PLewc2xUUd4QDVCycOxIuB_3hlYnnrogKb)
+
