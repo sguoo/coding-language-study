@@ -7,7 +7,8 @@ tags: [excalidraw]
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 
-# Text Elements
+# Excalidraw Data
+## Text Elements
 1. 일반 변수는 사용되는 숫자의 범위에 맞게 정의 하고 사용
 
 2. 포인터 변수는 일반 변수가 저장되어있는 메모리 번지를 저장하기 때문에 숫자의 범위에 관계 없이 무조건 4바이트 필요
@@ -17,121 +18,30 @@ tags: [excalidraw]
 4. 포인터의 증감 연산은 주로 배열 변수에서 사용하며, 증감 연산자를 포인터 변수에 사용 시 char*형 포인터는 1, short*형은 2, int*형은 4, double*형은 8바이트 증가(++) 또는 감소(--) ^yk1kHBlb
 
 %%
-# Drawing
-```json
-{
-	"type": "excalidraw",
-	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.7",
-	"elements": [
-		{
-			"type": "rectangle",
-			"version": 106,
-			"versionNonce": 456605201,
-			"index": "a0",
-			"isDeleted": false,
-			"id": "t6Gme9Y25bYnaUPNBP2sd",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -226.70574951171875,
-			"y": -191.57164001464844,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 587.1585998535156,
-			"height": 346,
-			"seed": 703391519,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "yk1kHBlb"
-				}
-			],
-			"updated": 1715829994804,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "text",
-			"version": 819,
-			"versionNonce": 981325439,
-			"index": "a1",
-			"isDeleted": false,
-			"id": "yk1kHBlb",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -213.16062927246094,
-			"y": -145.07164001464844,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 560.068359375,
-			"height": 253,
-			"seed": 1408311185,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1715829986569,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 2,
-			"text": "1. 일반 변수는 사용되는 숫자의 범위에 맞게 정의 하고 사용\n\n2. 포인터 변수는 일반 변수가 저장되어있는 메모리 번지를\n저장하기 때문에 숫자의 범위에 관계 없이 무조건 4바이트 필요\n\n3. 포인터 변수에 char*, int* 등을 사용하는 이유는 그것에 따라\n증강 연산에 대한 동작을 구분하기 위함\n\n4. 포인터의 증감 연산은 주로 배열 변수에서 사용하며, 증감\n연산자를 포인터 변수에 사용 시 char*형 포인터는 1, short*형은\n2, int*형은 4, double*형은 8바이트 증가(++) 또는 감소(--)",
-			"rawText": "1. 일반 변수는 사용되는 숫자의 범위에 맞게 정의 하고 사용\n\n2. 포인터 변수는 일반 변수가 저장되어있는 메모리 번지를 저장하기 때문에 숫자의 범위에 관계 없이 무조건 4바이트 필요\n\n3. 포인터 변수에 char*, int* 등을 사용하는 이유는 그것에 따라 증강 연산에 대한 동작을 구분하기 위함\n\n4. 포인터의 증감 연산은 주로 배열 변수에서 사용하며, 증감 연산자를 포인터 변수에 사용 시 char*형 포인터는 1, short*형은 2, int*형은 4, double*형은 8바이트 증가(++) 또는 감소(--)",
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"containerId": "t6Gme9Y25bYnaUPNBP2sd",
-			"originalText": "1. 일반 변수는 사용되는 숫자의 범위에 맞게 정의 하고 사용\n\n2. 포인터 변수는 일반 변수가 저장되어있는 메모리 번지를 저장하기 때문에 숫자의 범위에 관계 없이 무조건 4바이트 필요\n\n3. 포인터 변수에 char*, int* 등을 사용하는 이유는 그것에 따라 증강 연산에 대한 동작을 구분하기 위함\n\n4. 포인터의 증감 연산은 주로 배열 변수에서 사용하며, 증감 연산자를 포인터 변수에 사용 시 char*형 포인터는 1, short*형은 2, int*형은 4, double*형은 8바이트 증가(++) 또는 감소(--)",
-			"lineHeight": 1.15
-		}
-	],
-	"appState": {
-		"theme": "light",
-		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "transparent",
-		"currentItemFillStyle": "solid",
-		"currentItemStrokeWidth": 0.5,
-		"currentItemStrokeStyle": "solid",
-		"currentItemRoughness": 0,
-		"currentItemOpacity": 100,
-		"currentItemFontFamily": 2,
-		"currentItemFontSize": 20,
-		"currentItemTextAlign": "left",
-		"currentItemStartArrowhead": null,
-		"currentItemEndArrowhead": "arrow",
-		"scrollX": 241.5864562988281,
-		"scrollY": 281.28350830078114,
-		"zoom": {
-			"value": 1.2000000000000002
-		},
-		"currentItemRoundness": "sharp",
-		"gridSize": null,
-		"gridColor": {
-			"Bold": "#C9C9C9FF",
-			"Regular": "#EDEDEDFF"
-		},
-		"currentStrokeOptions": null,
-		"previousGridSize": null,
-		"frameRendering": {
-			"enabled": true,
-			"clip": true,
-			"name": true,
-			"outline": true
-		},
-		"objectsSnapModeEnabled": false
-	},
-	"files": {}
-}
+## Drawing
+```compressed-json
+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=
 ```
 %%
