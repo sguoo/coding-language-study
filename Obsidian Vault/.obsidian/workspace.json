@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "프로그래밍/옵시디언.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#초기화",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,8 +154,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "프로그래밍/옵시디언.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "프로그래밍/옵시디언.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/C.md"
+                "file": "프로그래밍/옵시디언.md"
               }
             }
           },
@@ -256,10 +255,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac04ef6efcf3345c",
+  "active": "e7b2be0c549736d6",
   "lastOpenFiles": [
-    "프로그래밍/프로그래밍 자료/c funtion.md",
+    "프로그래밍/Python.md",
     "프로그래밍/C.md",
+    "프로그래밍/프로그래밍 자료/c funtion.md",
     "공부/공부 자료/Game Project/project/무기.md",
     "공부/공부 자료/Game Project/Team Project/Game project load map.md",
     "프로그래밍/css.md",
@@ -277,7 +277,6 @@
     "프로그래밍/프로그래밍 자료/C funtion 5.md",
     "프로그래밍/프로그래밍 자료/c funtion 4.md",
     "프로그래밍/프로그래밍 자료/c funtion 3.md",
-    "프로그래밍/Python.md",
     "책 정리, 독후감/모비딕.md",
     "프로그래밍/프로그래밍 자료/c funtion 1.md",
     "프로그래밍/프로그래밍 자료/C pointer.md",
