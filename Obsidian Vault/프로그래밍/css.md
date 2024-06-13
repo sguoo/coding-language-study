@@ -266,4 +266,4 @@ ___
 - 연결 선택자: 선택자와 선택자를 연결해 적용 대상을 제한하는 선택자.
 - **컴미네이션 선택자**<sup>combination selector</sup> 또는 '조합 선택자'라고도 함
 ## 하위 선택자<sup>descendant selector</sup>
-- 부모 요소에 포함된 <div style="color">eqw</div>
+부모 요소에 포함된<span style="color: darkred">모든 하위 요소에</span> 스타일이 적용된다.
