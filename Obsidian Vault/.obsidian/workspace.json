@@ -23,9 +23,11 @@
             "id": "7eb777b1879f2f42",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md"
+                "file": "프로그래밍/pm.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -114,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
+                "file": "프로그래밍/pm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
+                "file": "프로그래밍/pm.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md"
+                "file": "프로그래밍/pm.md"
               }
             }
           },
@@ -197,8 +199,8 @@
   },
   "active": "7eb777b1879f2f42",
   "lastOpenFiles": [
-    "프로그래밍/pm.md",
     "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
+    "프로그래밍/pm.md",
     "프로그래밍/프로그래밍 자료/c funtion 3.md",
     "프로그래밍/C.md",
     "공부/태양 활동의 변화.md",
