@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/옵시디언.md",
+                "file": "프로그래밍/프로그래밍 공부.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/옵시디언.md",
+                "file": "프로그래밍/프로그래밍 공부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/옵시디언.md",
+                "file": "프로그래밍/프로그래밍 공부.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/옵시디언.md"
+                "file": "프로그래밍/프로그래밍 공부.md"
               }
             }
           },
@@ -257,14 +257,14 @@
   },
   "active": "e7b2be0c549736d6",
   "lastOpenFiles": [
-    "프로그래밍/Python.md",
+    "프로그래밍/옵시디언.md",
     "프로그래밍/C.md",
+    "프로그래밍/Python.md",
     "프로그래밍/프로그래밍 자료/c funtion.md",
     "공부/공부 자료/Game Project/project/무기.md",
     "공부/공부 자료/Game Project/Team Project/Game project load map.md",
     "프로그래밍/css.md",
     "프로그래밍/프로그래밍.md",
-    "프로그래밍/옵시디언.md",
     "프로그래밍/Lua.md",
     "프로그래밍/유니티.md",
     "프로그래밍/프로그래밍 자료/css yungul selector.md",
