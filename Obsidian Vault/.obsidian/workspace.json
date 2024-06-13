@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "0f64cfe17c74b01a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-13 20.22.04.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "7eb777b1879f2f42",
             "type": "leaf",
             "state": {
@@ -41,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/pm.md",
+                "file": "Excalidraw/Drawing 2024-06-13 20.22.04.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/pm.md",
+                "file": "Excalidraw/Drawing 2024-06-13 20.22.04.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/pm.md"
+                "file": "Excalidraw/Drawing 2024-06-13 20.22.04.excalidraw.md"
               }
             }
           },
@@ -196,10 +207,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bc28851aa39f566c",
+  "active": "0f64cfe17c74b01a",
   "lastOpenFiles": [
-    "iip.kr.md",
     "프로그래밍/pm.md",
+    "Excalidraw/Drawing 2024-06-13 20.22.04.excalidraw.md",
+    "iip.kr.md",
     "프로그래밍/프로그래밍 공부.md",
     "프로그래밍/프로그래밍 자료/Pointer 2chawon kgi.md",
     "프로그래밍/프로그래밍 자료/Python Funtion.md",
@@ -226,7 +238,6 @@
     "프로그래밍/유니티.md",
     "공부/수학.md",
     "프로그래밍/프로그래밍 자료/css pyogibub.md",
-    "프로그래밍/프로그래밍 자료/css Style.md",
     "공부/공부 자료/Game Project/project/Levatein Default.gif",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225701_105.gif",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225746_122.png",
