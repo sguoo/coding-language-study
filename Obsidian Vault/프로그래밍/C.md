@@ -1457,6 +1457,12 @@ int main(){
 	int n;
 	scanf("%d", &n);
 
-	
+	printf("누계 합은 : %d", sum(n));
+}
+
+int sum(int n){
+	if (n < 1) return 0;
+	else
+		return sum(n-1) + n;
 }
 ```
