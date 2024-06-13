@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "프로그래밍/pm.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -198,6 +198,8 @@
   },
   "active": "bc28851aa39f566c",
   "lastOpenFiles": [
+    "iip.kr.md",
+    "프로그래밍/pm.md",
     "프로그래밍/프로그래밍 공부.md",
     "프로그래밍/프로그래밍 자료/Pointer 2chawon kgi.md",
     "프로그래밍/프로그래밍 자료/Python Funtion.md",
@@ -213,7 +215,6 @@
     "프로그래밍/프로그래밍 자료/Cascading style sheet 1.md",
     "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
     "프로그래밍/프로그래밍 자료/css yungul selector.md",
-    "프로그래밍/pm.md",
     "프로그래밍/Python.md",
     "프로그래밍/Lua.md",
     "프로그래밍/C.md",
