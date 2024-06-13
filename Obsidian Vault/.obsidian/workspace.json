@@ -64,9 +64,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c11b5083e530729f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로그래밍/css.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -140,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "프로그래밍/css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "프로그래밍/css.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/C.md"
+                "file": "프로그래밍/css.md"
               }
             }
           },
@@ -221,10 +233,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24d136a6414d5bbf",
+  "active": "c11b5083e530729f",
   "lastOpenFiles": [
-    "공부/과학.md",
     "프로그래밍/C.md",
+    "프로그래밍/프로그래밍 자료/c funtion.md",
+    "공부/과학.md",
     "공부/태양 활동의 변화.md",
     "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
     "공부/대규모 화산분출.md",
@@ -236,7 +249,6 @@
     "프로그래밍/Python.md",
     "책 정리, 독후감/모비딕.md",
     "프로그래밍/옵시디언.md",
-    "프로그래밍/프로그래밍 자료/c funtion.md",
     "프로그래밍/프로그래밍 자료/c funtion 1.md",
     "프로그래밍/프로그래밍 자료/C pointer.md",
     "프로그래밍/프로그래밍 자료/C pointer vaeyul.md",
