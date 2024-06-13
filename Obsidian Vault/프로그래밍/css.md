@@ -1,7 +1,7 @@
 ---
 sticker: lucide//skull
 ---
-![[https://www.youtube.com/watch?v=X8z23t428kU](https://www.youtube.com/watch?v=X8z23t428kU "https://www.youtube.com/watch?v=X8z23t428kU")
+
 # 스타일과 스타일 시트
 
 ## 스타일 시트
@@ -284,3 +284,4 @@ ___
 ## 형제 선택자
 - 형제 요소들에 스타일 적용
 
+![https://www.youtube.com/watch?v=X8z23t428kU](https://www.youtube.com/watch?v=X8z23t428kU "https://www.youtube.com/watch?v=X8z23t428kU")

@@ -6,7 +6,10 @@
     "alt": "window"
   },
   "linkHandler": {
-    "mx-embed": [
+    "mx-embed": [],
+    "mx-url-audio": [],
+    "mx-url-video": [],
+    "mx-webpage": [
       {
         "protocol": "https:",
         "hostname": "www.youtube.com",
@@ -18,10 +21,7 @@
         "hostname": "www.youtube.com",
         "port": ""
       }
-    ],
-    "mx-url-audio": [],
-    "mx-url-video": [],
-    "mx-webpage": []
+    ]
   },
   "speedStep": 0.1,
   "loadStrategy": "eager",
