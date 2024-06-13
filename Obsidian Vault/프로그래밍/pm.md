@@ -50,4 +50,4 @@
 - 싸우지 않기
 - 상대방 말 잘들어 주기
 
-<a herf="https://youtube.com"> dwq < 
+eqw<br>qew
