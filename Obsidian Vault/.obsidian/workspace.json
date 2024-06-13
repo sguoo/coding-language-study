@@ -23,9 +23,11 @@
             "id": "0f64cfe17c74b01a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md"
+                "file": "프로그래밍/C.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -126,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
+                "file": "프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
+                "file": "프로그래밍/C.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md"
+                "file": "프로그래밍/C.md"
               }
             }
           },
@@ -209,10 +211,10 @@
   },
   "active": "0f64cfe17c74b01a",
   "lastOpenFiles": [
+    "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
     "공부/공부 자료/Game Project/Team Project/foundation",
     "공부/공부 자료/Game Project/Team Project/Game",
     "프로그래밍/프로그래밍 자료/C pointer3.md",
-    "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
     "프로그래밍/pm.md",
     "iip.kr.md",
     "프로그래밍/프로그래밍 공부.md",
@@ -254,7 +256,6 @@
     "공부/공부 자료/Game Project/Team Project",
     "공부/공부 자료/Game Project",
     "Tags",
-    "공부/공부 자료",
     "공부/프로그래밍/css style.canvas",
     "공부/프로그래밍/css style 1.canvas"
   ]
