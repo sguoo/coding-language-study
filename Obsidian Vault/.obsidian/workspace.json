@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/pm.md",
+                "file": "프로그래밍/프로그래밍 공부.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/pm.md",
+                "file": "프로그래밍/프로그래밍 공부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/pm.md",
+                "file": "프로그래밍/프로그래밍 공부.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/pm.md"
+                "file": "프로그래밍/프로그래밍 공부.md"
               }
             }
           },
@@ -198,10 +198,10 @@
   },
   "active": "bc28851aa39f566c",
   "lastOpenFiles": [
+    "프로그래밍/프로그래밍.md",
+    "프로그래밍/pm.md",
     "프로그래밍/C.md",
     "프로그래밍/프로그래밍 공부.md",
-    "프로그래밍/pm.md",
-    "프로그래밍/프로그래밍.md",
     "프로그래밍/Python.md",
     "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
     "프로그래밍/프로그래밍 자료/c funtion 3.md",
