@@ -17,11 +17,10 @@
  시스템 구성도, 예상 결과물
  <head>
  <style>
- body {
-	 font:red
+ #body {
+color:red;
  }
  </style>
- </head>
- <body>
+ </head><body id="body" colo>
  eqwe
  </body>
