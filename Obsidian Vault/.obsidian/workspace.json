@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/프로그래밍 공부.md",
+                "file": "프로그래밍/pm.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/프로그래밍 공부.md",
+                "file": "프로그래밍/pm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/프로그래밍 공부.md",
+                "file": "프로그래밍/pm.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/프로그래밍 공부.md"
+                "file": "프로그래밍/pm.md"
               }
             }
           },
@@ -198,43 +198,42 @@
   },
   "active": "bc28851aa39f566c",
   "lastOpenFiles": [
-    "프로그래밍/프로그래밍.md",
-    "프로그래밍/pm.md",
-    "프로그래밍/C.md",
     "프로그래밍/프로그래밍 공부.md",
-    "프로그래밍/Python.md",
-    "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
-    "프로그래밍/프로그래밍 자료/c funtion 3.md",
+    "프로그래밍/프로그래밍 자료/Pointer 2chawon kgi.md",
+    "프로그래밍/프로그래밍 자료/Python Funtion.md",
+    "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509230146_252.png",
+    "공부/공부 자료/Pasted image 20240509083122.png",
+    "책 정리, 독후감/모비딕.md",
+    "책 정리, 독후감/그리고 아무도 없었다.md",
+    "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "공부/태양 활동의 변화.md",
+    "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
+    "프로그래밍/프로그래밍 자료/c funtion.md",
+    "프로그래밍/프로그래밍 자료/c funtion 3.md",
+    "프로그래밍/프로그래밍 자료/Cascading style sheet 1.md",
+    "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
+    "프로그래밍/프로그래밍 자료/css yungul selector.md",
+    "프로그래밍/pm.md",
+    "프로그래밍/Python.md",
     "프로그래밍/Lua.md",
+    "프로그래밍/C.md",
+    "프로그래밍/css.md",
+    "프로그래밍/프로그래밍.md",
+    "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
     "프로그래밍/프로그래밍 자료/lambda def bigyo.md",
     "프로그래밍/옵시디언.md",
     "프로그래밍/유니티.md",
     "공부/수학.md",
     "프로그래밍/프로그래밍 자료/css pyogibub.md",
-    "프로그래밍/프로그래밍 자료/Pointer 2chawon kgi.md",
-    "프로그래밍/프로그래밍 자료/css yungul selector.md",
     "프로그래밍/프로그래밍 자료/css Style.md",
-    "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
-    "프로그래밍/프로그래밍 자료/Cascading style sheet 1.md",
-    "프로그래밍/프로그래밍 자료/C pointer3.md",
-    "프로그래밍/프로그래밍 자료/C pointer2.md",
-    "프로그래밍/프로그래밍 자료/C pointer vaeyul.md",
-    "프로그래밍/프로그래밍 자료/C pointer.md",
-    "프로그래밍/프로그래밍 자료/C funtion 5.md",
-    "프로그래밍/프로그래밍 자료/c funtion 4.md",
-    "프로그래밍/프로그래밍 자료/c funtion 1.md",
     "공부/공부 자료/Game Project/project/Levatein Default.gif",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225701_105.gif",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225746_122.png",
-    "공부/공부 자료/Pasted image 20240509083122.png",
     "공부/공부 자료/Pasted image 20240509082840.png",
-    "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224547_174.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224011_016.png",
     "Excalidraw",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519223941_176.png",
-    "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224634_175.png",
     "프로그래밍/프로그래밍 자료",
     "fonts/나눔손글씨 할아버지의나눔.ttf",
     "fonts",
