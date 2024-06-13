@@ -17,10 +17,13 @@
  시스템 구성도, 예상 결과물
  <head>
  <style>
- #body {
+ span {
 color:red;
  }
  </style>
- </head><body id="body" colo>
- eqwe
- </body>
+ </head>
+ <span>
+</span>
+- 성공적인 프로젝트 기획서란? 설득 성공(목적 달성)
+	- 사업 런칭
+	- 공모전 ㅍ수사
