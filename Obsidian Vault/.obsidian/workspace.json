@@ -81,10 +81,8 @@
             "id": "e7b2be0c549736d6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/Game project load map.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -162,7 +160,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/Game project load map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +176,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/Game project load map.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -201,9 +197,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/Game project load map.md"
-              }
+              "state": {}
             }
           },
           {
@@ -243,8 +237,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7b2be0c549736d6",
+  "active": "24d136a6414d5bbf",
   "lastOpenFiles": [
+    "공부/공부 자료/Game Project/Team Project/Game project load map.md",
     "프로그래밍/css.md",
     "프로그래밍/C.md",
     "프로그래밍/프로그래밍.md",
@@ -270,7 +265,6 @@
     "프로그래밍/프로그래밍 자료/C pointer3.md",
     "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
     "프로그래밍/프로그래밍 자료/Cascading style sheet 1.md",
-    "프로그래밍/프로그래밍 자료/css Style.md",
     "공부/공부 자료/Game Project/project/Levatein Default.gif",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225701_105.gif",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225746_122.png",
