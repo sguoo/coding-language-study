@@ -16,4 +16,12 @@
  기대효과 및 활용분
  시스템 구성도, 예상 결과물
  <head>
- </
+ <style>
+ body {
+	 font:red
+ }
+ </style>
+ </head>
+ <body>
+ eqwe
+ </body>
