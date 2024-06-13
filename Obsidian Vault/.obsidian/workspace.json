@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "7eb777b1879f2f42",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "f7062810f45bff2e",
             "type": "leaf",
             "state": {
@@ -29,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/pm.md",
+                "file": "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/pm.md",
+                "file": "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/pm.md"
+                "file": "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md"
               }
             }
           },
@@ -184,14 +195,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bc28851aa39f566c",
+  "active": "7eb777b1879f2f42",
   "lastOpenFiles": [
+    "프로그래밍/pm.md",
+    "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
     "프로그래밍/프로그래밍 자료/c funtion 3.md",
     "프로그래밍/C.md",
     "공부/태양 활동의 변화.md",
     "프로그래밍/Lua.md",
     "프로그래밍/Python.md",
-    "프로그래밍/pm.md",
     "프로그래밍/프로그래밍 자료/lambda def bigyo.md",
     "프로그래밍/옵시디언.md",
     "프로그래밍/유니티.md",
@@ -211,7 +223,6 @@
     "프로그래밍/프로그래밍 자료/c funtion 1.md",
     "프로그래밍/프로그래밍 자료/c funtion.md",
     "프로그래밍/프로그래밍 공부.md",
-    "프로그래밍/프로그래밍.md",
     "공부/공부 자료/Game Project/project/Levatein Default.gif",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225701_105.gif",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225746_122.png",
