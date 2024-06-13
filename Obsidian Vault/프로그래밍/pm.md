@@ -14,6 +14,9 @@
 
 <body>
 <form>
+<label>
+qweq
+</label>
 <input type="checkbox">
 </form>
 </body>
