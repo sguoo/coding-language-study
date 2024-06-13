@@ -84,7 +84,7 @@
               "type": "markdown",
               "state": {
                 "file": "프로그래밍/C.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -129,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#초기화",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +154,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -255,7 +256,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7b2be0c549736d6",
+  "active": "ac04ef6efcf3345c",
   "lastOpenFiles": [
     "프로그래밍/프로그래밍 자료/c funtion.md",
     "프로그래밍/C.md",
