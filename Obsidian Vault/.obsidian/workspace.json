@@ -81,9 +81,11 @@
             "id": "e7b2be0c549736d6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-13 14.42.21.excalidraw.md"
+                "file": "프로그래밍/css.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -162,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-13 14.42.21.excalidraw.md",
+                "file": "프로그래밍/css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-13 14.42.21.excalidraw.md",
+                "file": "프로그래밍/css.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-13 14.42.21.excalidraw.md"
+                "file": "프로그래밍/css.md"
               }
             }
           },
@@ -245,9 +247,11 @@
   },
   "active": "e7b2be0c549736d6",
   "lastOpenFiles": [
-    "프로그래밍/css.md",
-    "Excalidraw/Drawing 2024-06-13 14.42.21.excalidraw.md",
     "프로그래밍/C.md",
+    "프로그래밍/Lua.md",
+    "프로그래밍/유니티.md",
+    "프로그래밍/프로그래밍 자료/css yungul selector.md",
+    "프로그래밍/css.md",
     "프로그래밍/프로그래밍 자료/c funtion.md",
     "공부/과학.md",
     "공부/태양 활동의 변화.md",
@@ -269,11 +273,9 @@
     "프로그래밍/프로그래밍 자료/Cascading style sheet 1.md",
     "프로그래밍/프로그래밍 자료/css Style.md",
     "프로그래밍/프로그래밍 자료/Python Funtion.md",
-    "프로그래밍/프로그래밍 자료/Pointer 2chawon kgi.md",
     "공부/공부 자료/Game Project/project/Levatein Default.gif",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225701_105.gif",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225746_122.png",
-    "프로그래밍/Lua.md",
     "공부/공부 자료/Pasted image 20240509083122.png",
     "공부/공부 자료/Pasted image 20240509082840.png",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
