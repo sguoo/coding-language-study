@@ -266,8 +266,9 @@ ___
 - 연결 선택자: 선택자와 선택자를 연결해 적용 대상을 제한하는 선택자.
 - **컴미네이션 선택자**<sup>combination selector</sup> 또는 '조합 선택자'라고도 함
 ## 하위 선택자<sup>descendant selector</sup>
-- 부모 요소에 포함된<span style="color: red"><U>모든 하위 요소에</U></span> 스타일이 적용된다.
+- 부모 요소에 포함된<span style="color: red"><U>모든 하위 요소</U></span>에 스타일이 적용된다.
 - 자식 요소뿐만 아니라 손자 요소, 손자의 손자 요소 등 모든 하위 요소까지 적용
 - 하위선택자를 정의할 때는 상위요소와 하위요소를 나란히 쓴다
 `기본형: 상위요소 하위요소`
 ![[css yungul selector]]
+![[https://www.youtube.com/watch?v=X8z23t428kU](https://www.youtube.com/watch?v=X8z23t428kU "https://www.youtube.com/watch?v=X8z23t428kU")
