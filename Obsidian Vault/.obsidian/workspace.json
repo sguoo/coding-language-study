@@ -133,14 +133,15 @@
             }
           },
           {
-            "id": "c6fa14ee99f21725",
+            "id": "0f288bbb4bd094bd",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -241,13 +242,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c11b5083e530729f",
+  "active": "24d136a6414d5bbf",
   "lastOpenFiles": [
+    "프로그래밍/프로그래밍 자료/css pyogibub.md",
     "프로그래밍/프로그래밍 자료/Pointer 2chawon kgi.md",
     "프로그래밍/프로그래밍 자료/lambda def bigyo.md",
     "프로그래밍/프로그래밍 자료/css yungul selector.md",
     "프로그래밍/프로그래밍 자료/css Style.md",
-    "프로그래밍/프로그래밍 자료/css pyogibub.md",
     "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
     "프로그래밍/프로그래밍 자료/Cascading style sheet 1.md",
     "프로그래밍/프로그래밍 자료/C pointer3.md",
