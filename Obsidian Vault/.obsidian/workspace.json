@@ -81,8 +81,22 @@
             "id": "e7b2be0c549736d6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "프로그래밍/C.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7062810f45bff2e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "프로그래밍/프로그래밍 자료/c funtion.md"
+              }
             }
           }
         ],
@@ -160,6 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "프로그래밍/C.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +213,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "프로그래밍/C.md"
+              }
             }
           },
           {
@@ -237,17 +255,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24d136a6414d5bbf",
+  "active": "e7b2be0c549736d6",
   "lastOpenFiles": [
+    "프로그래밍/프로그래밍 자료/c funtion.md",
+    "프로그래밍/C.md",
+    "공부/공부 자료/Game Project/project/무기.md",
     "공부/공부 자료/Game Project/Team Project/Game project load map.md",
     "프로그래밍/css.md",
-    "프로그래밍/C.md",
     "프로그래밍/프로그래밍.md",
     "프로그래밍/옵시디언.md",
     "프로그래밍/Lua.md",
     "프로그래밍/유니티.md",
     "프로그래밍/프로그래밍 자료/css yungul selector.md",
-    "프로그래밍/프로그래밍 자료/c funtion.md",
     "공부/과학.md",
     "공부/태양 활동의 변화.md",
     "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
@@ -264,7 +283,6 @@
     "프로그래밍/프로그래밍 자료/C pointer vaeyul.md",
     "프로그래밍/프로그래밍 자료/C pointer3.md",
     "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
-    "프로그래밍/프로그래밍 자료/Cascading style sheet 1.md",
     "공부/공부 자료/Game Project/project/Levatein Default.gif",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225701_105.gif",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225746_122.png",
