@@ -1,6 +1,7 @@
 ---
 sticker: lucide//skull
 ---
+![[https://www.youtube.com/watch?v=X8z23t428kU](https://www.youtube.com/watch?v=X8z23t428kU "https://www.youtube.com/watch?v=X8z23t428kU")
 # 스타일과 스타일 시트
 
 ## 스타일 시트
@@ -271,4 +272,4 @@ ___
 - 하위선택자를 정의할 때는 상위요소와 하위요소를 나란히 쓴다
 `기본형: 상위요소 하위요소`
 ![[css yungul selector]]
-![[https://www.youtube.com/watch?v=X8z23t428kU](https://www.youtube.com/watch?v=X8z23t428kU "https://www.youtube.com/watch?v=X8z23t428kU")
+
