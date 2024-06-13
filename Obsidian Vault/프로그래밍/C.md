@@ -1466,3 +1466,5 @@ int sum(int n){
 		return sum(n-1) + n;
 }
 ```
+
+# 구조체
