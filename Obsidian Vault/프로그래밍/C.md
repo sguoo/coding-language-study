@@ -1493,4 +1493,3 @@ int main(void){
 }
 ```
 
-> [!fail] eqw
