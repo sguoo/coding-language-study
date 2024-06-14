@@ -1467,7 +1467,7 @@ int sum(int n){
 }
 ```
 
-# 구조체
+# 구조체<sup>structure</sup>
 
 ```c
 #include <math.h>
