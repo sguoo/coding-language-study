@@ -1493,4 +1493,4 @@ int main(void){
 }
 ```
 
-> [!] eqw
+> [!fail] eqw
