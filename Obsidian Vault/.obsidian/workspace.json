@@ -47,9 +47,11 @@
             "id": "047657a4e8063e73",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-14 09.17.28.excalidraw.md"
+                "file": "프로그래밍/C.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -150,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-14 09.17.28.excalidraw.md",
+                "file": "프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-14 09.17.28.excalidraw.md",
+                "file": "프로그래밍/C.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-14 09.17.28.excalidraw.md"
+                "file": "프로그래밍/C.md"
               }
             }
           },
@@ -233,8 +235,8 @@
   },
   "active": "047657a4e8063e73",
   "lastOpenFiles": [
+    "프로그래밍/프로그래밍 자료/c structure 2.md",
     "프로그래밍/C.md",
-    "Excalidraw/Drawing 2024-06-14 09.17.28.excalidraw.md",
     "프로그래밍/프로그래밍 자료/c struture.md",
     "프로그래밍/프로그래밍.md",
     "프로그래밍/유니티.md",
