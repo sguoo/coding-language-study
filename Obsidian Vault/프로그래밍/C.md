@@ -1468,3 +1468,10 @@ int sum(int n){
 ```
 
 # 구조체
+
+```c
+#include <math.h>
+#define POINT_NUMBER 5
+
+double CalDist(double x1, double y1, double s2,)
+```
