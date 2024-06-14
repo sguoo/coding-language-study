@@ -1523,7 +1523,13 @@ struct point
 </tr>
 <tr>
 <th>변수 선언</th>
-<th>double num;<br>
+<th>double num;<br>double num1, num2;</th>
+<th>struct point pnt;<br>struct point p1, p2</th>
+</tr>
+<tr>
+<th>
+접근 방식
+<
 </tr>
 </table>
 - 기본 자료형 double과 구조체 자료형 point와 비교
