@@ -1510,11 +1510,7 @@ struct point
 > 정의가 이뤄지고 난 다음부터 point는 변수의 선언에 사용되는 자료형의 이름으로 인식됨.
 > 즉, point라는 이름은 ==프로그래머가 정의한 자료형==
 
-<style>
-th, td{
-	border: 1px solid;
-}
-</style>
+
 <table style="border: 2px solid">
 <tr>
 <th></th>
