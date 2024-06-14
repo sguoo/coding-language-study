@@ -1529,7 +1529,10 @@ struct point
 <tr>
 <th>
 접근 방식
-<
+<th>num=20</th>
+<th>pnt.xPos=20<br>
+pnt.yPos=20</th>
 </tr>
 </table>
 - 기본 자료형 double과 구조체 자료형 point와 비교
+- 
