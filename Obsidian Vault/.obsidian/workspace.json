@@ -44,6 +44,16 @@
             }
           },
           {
+            "id": "047657a4e8063e73",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-14 09.17.28.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "7eb777b1879f2f42",
             "type": "leaf",
             "state": {
@@ -66,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "Excalidraw/Drawing 2024-06-14 09.17.28.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "Excalidraw/Drawing 2024-06-14 09.17.28.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/C.md"
+                "file": "Excalidraw/Drawing 2024-06-14 09.17.28.excalidraw.md"
               }
             }
           },
@@ -221,10 +231,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "179690a9e8ab4f0a",
+  "active": "047657a4e8063e73",
   "lastOpenFiles": [
-    "프로그래밍/프로그래밍 자료/c struture.md",
     "프로그래밍/C.md",
+    "Excalidraw/Drawing 2024-06-14 09.17.28.excalidraw.md",
+    "프로그래밍/프로그래밍 자료/c struture.md",
     "프로그래밍/프로그래밍.md",
     "프로그래밍/유니티.md",
     "프로그래밍/프로그래밍 자료/lambda def bigyo.md",
@@ -253,7 +264,6 @@
     "프로그래밍/Lua.md",
     "프로그래밍/css.md",
     "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
-    "프로그래밍/옵시디언.md",
     "공부/공부 자료/Game Project/project/Levatein Default.gif",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225701_105.gif",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225746_122.png",
