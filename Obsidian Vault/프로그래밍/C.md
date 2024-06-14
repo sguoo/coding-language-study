@@ -1488,6 +1488,7 @@ int main(void){
 	}
 
 	lineLen=CalLineLen(xPosArr, yPosArr);
-	printf("라인의 길이: %g \n", )
+	printf("라인의 길이: %g \n", lineLen);
+	return 0;
 }
 ```
