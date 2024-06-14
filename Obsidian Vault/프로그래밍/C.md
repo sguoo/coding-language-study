@@ -1513,7 +1513,11 @@ struct point
 <table>
 <tr>
 <th></th>
-<th>
-<th>
+<th style="color:red">double</th>
+<th style="color:red">point</th>
 </tr>
+<tr>
+</tr>
+<
 </table>
+- 기본 자료형 double과 구조체 자료형 point와 비교
