@@ -1484,7 +1484,10 @@ int main(void){
 	int i;
 	for(i=0; i<POINT_NUMBER; i++){
 		printf("점 %d의 좌표 입력", i+1);
-		scanf("%lf %")
+		scanf("%lf %lf", &xPosArr[i], &yPosArr[i]);
 	}
+
+	lineLen=CalLineLen(xPosArr, yPosArr);
+	printf("라인의 길이: %g \n", )
 }
 ```
