@@ -107,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"공부/공부 자료/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +132,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -233,7 +234,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "047657a4e8063e73",
+  "active": "ac04ef6efcf3345c",
   "lastOpenFiles": [
     "프로그래밍/프로그래밍 자료/c structure 2.md",
     "프로그래밍/C.md",
