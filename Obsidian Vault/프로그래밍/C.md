@@ -1517,7 +1517,13 @@ struct point
 <th style="color:red">point</th>
 </tr>
 <tr>
+<th>제공 방식</th>
+<th>기본적으로 제공</th>
+<th>프로그래머의 정의에 의해 제공</th>
 </tr>
-<
+<tr>
+<th>변수 선언</th>
+<th>double num;<br>
+</tr>
 </table>
 - 기본 자료형 double과 구조체 자료형 point와 비교
