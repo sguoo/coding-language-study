@@ -35,9 +35,11 @@
             "id": "179690a9e8ab4f0a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-14 09.15.40.excalidraw.md"
+                "file": "프로그래밍/C.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -138,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-14 09.15.40.excalidraw.md",
+                "file": "프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-14 09.15.40.excalidraw.md",
+                "file": "프로그래밍/C.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-14 09.15.40.excalidraw.md"
+                "file": "프로그래밍/C.md"
               }
             }
           },
@@ -221,8 +223,8 @@
   },
   "active": "179690a9e8ab4f0a",
   "lastOpenFiles": [
+    "프로그래밍/프로그래밍 자료/c struture.md",
     "프로그래밍/C.md",
-    "Excalidraw/Drawing 2024-06-14 09.15.40.excalidraw.md",
     "프로그래밍/프로그래밍.md",
     "프로그래밍/유니티.md",
     "프로그래밍/프로그래밍 자료/lambda def bigyo.md",
