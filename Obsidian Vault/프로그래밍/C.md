@@ -1499,3 +1499,13 @@ int main(void){
 	- 소프트웨어 개발 과정에서 표현하는 데이터들은 그룹을 형성한다
 ## 구조체의 정의
 ![[c structure 2]]
+
+```c
+struct point
+{
+	double xPos;
+	double yPos;
+};
+```
+> 정의가 이뤄지고 난 다음부터 point는 변수의 선언에 사용되는 자료형의 이름으로 인식됨.
+> 즉, point라는 이
