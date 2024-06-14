@@ -1473,5 +1473,12 @@ int sum(int n){
 #include <math.h>
 #define POINT_NUMBER 5
 
-double CalDist(double x1, double y1, double s2,)
+double CalDist(double x1, double y1, double s2, double y2);
+double CalLineLen(double xpos[], double ypos[]);
+
+int main(void){
+	double lineLen=0;
+	double xPosArr[POINT_NUMBER];
+	double 
+}
 ```
