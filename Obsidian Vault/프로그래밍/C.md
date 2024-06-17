@@ -1658,10 +1658,11 @@ int main(void){
 	person jongsoo;
 	person copyman;
 
-	strcpy(jongsoo.name, "한종수");
+	strcpy(jongsoo.name, "한종수"); //char형 배열을 초기화 하기 위한 strcpy함수 사용
 	strcpy(jongsoo.ID, "900218-1012589");
 
-	copyman=jongsoo;
-	ShowPersonData()
+	copyman=jongsoo; //구조체 변수 jongsoo에 저장된 값을 동일한 자료형 변수인 cop
+	ShowPersonData(copyman);
+	return 0;
 }
 ```
