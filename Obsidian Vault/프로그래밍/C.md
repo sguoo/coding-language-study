@@ -1609,7 +1609,9 @@ int main(void){
 
 - 익명 구조체 사용하기
 ```c
-tyoedef strudct{
-
-}
+tyoedef struct{
+	char name[20];
+	int age;
+	char addresss[100];
+} Person;
 ```
