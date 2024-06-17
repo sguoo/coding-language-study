@@ -1755,3 +1755,6 @@ void ShowPersonData(person * ptr){
 	printf("나이: %u \n\n", ptr->age);
 }
 ```
+
+<h3>배열 표현</h3> `lp[i].name`
+<h3></h3>
