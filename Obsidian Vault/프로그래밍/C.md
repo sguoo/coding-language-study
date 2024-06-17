@@ -1679,3 +1679,5 @@ typedef struct {
 Person *p1; //메모리를 할당해 줘야한다
 *p1 = (Person*)malloc(sizeof(Person));
 ```
+```c\
+```
