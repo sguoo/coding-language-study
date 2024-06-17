@@ -1592,7 +1592,7 @@ struct person{
 	double yPos;
 }pnt;
 ```
-
+- `struct 변수명` 방식말고 구조체 변수 선언 방법
 ```c
 struct point{
 	double xPos;
@@ -1600,4 +1600,8 @@ struct point{
 };
 
 typedef struct point POINT;
+
+int main(void){
+	POINT pnt;
+}
 ```
