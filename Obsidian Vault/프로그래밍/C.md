@@ -1661,7 +1661,7 @@ int main(void){
 	strcpy(jongsoo.name, "한종수"); //char형 배열을 초기화 하기 위한 strcpy함수 사용
 	strcpy(jongsoo.ID, "900218-1012589");
 
-	copyman=jongsoo; //구조체 변수 jongsoo에 저장된 값을 동일한 자료형 변수인 cop
+	copyman=jongsoo; //구조체 변수 jongsoo에 저장된 값을 동일한 자료형 변수인 copyman에 대입연산을 사용해 복사
 	ShowPersonData(copyman);
 	return 0;
 }
