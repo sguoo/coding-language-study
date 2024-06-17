@@ -1627,6 +1627,15 @@ struct _point{
 };
 typedef struct _point point;
 point IncrePos(point pnt){
+	pnt.xPos++;
+	pnt.yPos++;
+	return pnt;
+}
+int main(void){
+	point p1, p2, p3;
+	p1.xPos=0.5;
+	p1.yPos=1.5;
 
+	p2=p1;
 }
 ```
