@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "a6f0f101f1325b8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7eb777b1879f2f42",
             "type": "leaf",
             "state": {
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/C.md"
+                "file": "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md"
               }
             }
           },
@@ -229,14 +241,15 @@
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "media-extended:Open media": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "media-extended:Open media": false
     }
   },
-  "active": "24d136a6414d5bbf",
+  "active": "a6f0f101f1325b8c",
   "lastOpenFiles": [
+    "프로그래밍/프로그래밍 자료/c funtion.md",
     "프로그래밍/프로그래밍 자료/c structure 2.md",
     "프로그래밍/C.md",
+    "프로그래밍/pm.md",
     "프로그래밍/프로그래밍 자료/c struture.md",
     "프로그래밍/프로그래밍.md",
     "프로그래밍/유니티.md",
@@ -245,7 +258,6 @@
     "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
     "공부/공부 자료/Game Project/Team Project/foundation",
     "공부/공부 자료/Game Project/Team Project/Game",
-    "프로그래밍/pm.md",
     "iip.kr.md",
     "프로그래밍/프로그래밍 공부.md",
     "프로그래밍/프로그래밍 자료/Pointer 2chawon kgi.md",
@@ -257,7 +269,6 @@
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "공부/태양 활동의 변화.md",
     "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
-    "프로그래밍/프로그래밍 자료/c funtion.md",
     "프로그래밍/프로그래밍 자료/c funtion 3.md",
     "프로그래밍/프로그래밍 자료/Cascading style sheet 1.md",
     "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
