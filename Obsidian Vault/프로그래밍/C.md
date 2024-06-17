@@ -1750,6 +1750,8 @@ int main(void){
 ```
 ```c
 void ShowPersonData(person * ptr){
-	printf("이름: %s \n", (*ptr))
+	printf("이름: %s \n", (*ptr).name);
+	printf("주민등록번호: %s \n", (*ptr).ID);
+	printf("나이: %u \n\n", ptr->age);
 }
 ```
