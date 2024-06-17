@@ -1697,5 +1697,11 @@ int main(void){
 }
 ```
 ```c
-void printSt
+void printStruct(struct address *lp){
+	int i;
+
+	for(i=0; i<5; i++){
+		printf("%10s %5d %")
+	}
+}
 ```
