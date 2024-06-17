@@ -1697,22 +1697,27 @@ int main(void){
 }
 ```
 ```c
-void printStruct(struct address *lp){
-	int i;
-
-	for(i=0; i<5; i++){
-		printf("%10s %5d %15s %20s \n",
-				(lp+i)->name, (lp+i)->tel, (lp+i)->addr);
-	}
+void printStruct(struct address *lp) {
+    int i;
+    for (i = 0; i < 5; i++) {
+        printf("%15s %5d %15s %20s\n",
+               (lp + i)->name, (lp + i)->age, (lp + i)->tel, (lp + i)->addr);
+    }
 }
-```
-```c
-void printStruct(struct address *lp){
-	int i;
 
-	for(i=0; i<5; i++)
+// OR
+
+void printStruct(struct address *lp) {
+    int i;
+    for (i = 0; i < 5; i++) {
+        printf("%15s %5d %15s %20s\n",
+               lp[i].name, lp[i].age, lp[i].tel, lp[i].addr);
+    }
 }
+
 ```
+
 - 구조체 배열
 	- 구조체도 필요에 따라 배열의 형태로 선언 가능
-	- 선언방식이 기본 자료형의 배열 선언방식과 동
+	- 선언방식이 기본 자료형의 배열 선언방식과 동일하다
+
