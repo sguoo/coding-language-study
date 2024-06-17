@@ -1727,5 +1727,11 @@ void printStruct(struct address *lp) {
 #define PID_LEN 15
 
 typedef struct _person
-+
-``
+{
+	char name[NAME_LEN];
+	char ID[PID_LEN];
+	unsigned int age;
+} person;
+
+void ShowPersonData(person * )
+```
