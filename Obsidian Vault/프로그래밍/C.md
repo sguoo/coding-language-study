@@ -1640,3 +1640,11 @@ int main(void){
 	p3=IncrePos(p2);
 }
 ```
+```c
+struct _person{
+	char name[30];
+	char ID[15];
+	unsigned int age;
+}
+type
+```
