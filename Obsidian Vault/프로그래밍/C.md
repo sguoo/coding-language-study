@@ -1666,3 +1666,13 @@ int main(void){
 	return 0;
 }
 ```
+
+## 구조체 포인터
+```c
+typedef struct {
+	char name[20];
+	int age;
+	char address[100];
+	
+}
+```
