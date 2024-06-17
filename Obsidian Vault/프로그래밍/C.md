@@ -1760,4 +1760,7 @@ void ShowPersonData(person * ptr){
 
 <h3>함수 표현</h3>
 - 구조체를 함수로 전달하는 경우 구조체의 복사본이 함수로 전달되게 된다
-	
+
+- 구조체 포인터 사용하기
+	1. call by Value 로 값 넘기는 방법
+	2. call by Reference 로 값 넘기는 방
