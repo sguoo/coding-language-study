@@ -1613,5 +1613,5 @@ tyoedef struct{
 	char name[20];
 	int age;
 	char addresss[100];
-} Person;
+	} Person;
 ```
