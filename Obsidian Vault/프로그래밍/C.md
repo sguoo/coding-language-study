@@ -1576,6 +1576,10 @@ int main(void){
 	pnt.xPos=2.2;
 	pnt.yPod=3.4;
 
-	printf("num: %")
+	printf("num: %g \n", num);
+	printf("pnt.xPos: %g \n", pnt.xPos);
+	printf("pnt.yPos: %g \n", pnt.yPos);
+
+	printf("num의 크기: %d바이트")
 }
 ```
