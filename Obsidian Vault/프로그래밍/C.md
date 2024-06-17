@@ -1615,3 +1615,6 @@ tyoedef struct{
 	char addresss[100];
 	} Person;
 ```
+## 구조체 변수의 활용
+- 함수의 인자로 전달 및 반환 가능
+- 대입연산자의 피연ㅅ
