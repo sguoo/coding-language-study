@@ -1637,5 +1637,6 @@ int main(void){
 	p1.yPos=1.5;
 
 	p2=p1;
+	p3=IncrePos(p2);
 }
 ```
