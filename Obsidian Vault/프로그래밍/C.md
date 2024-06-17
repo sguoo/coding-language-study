@@ -1651,6 +1651,13 @@ typedef struct _person person;
 void ShowPersonData(person prsn){
 	printf("이름: %s \n", prsn.name);
 	printf("주민등록번호: %s \n", prsn.ID);
-	printf("나이: ")
+	printf("나이: %u \n", prsn.age);
+}
+
+int main(void){
+	person jongsoo;
+	person copyman;
+
+	strpy(jongsoo.name, "한")
 }
 ```
