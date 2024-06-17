@@ -1570,6 +1570,12 @@ struct point{
 };
 int main(void){
 	double num;
-	struct pos
+	struct point pnt;
+
+	num = 1.2;
+	pnt.xPos=2.2;
+	pnt.yPod=3.4;
+
+	printf("num: %")
 }
 ```
