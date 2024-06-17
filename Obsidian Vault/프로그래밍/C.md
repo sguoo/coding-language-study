@@ -1549,6 +1549,12 @@ struct /*예약어*/ student /*구조체 이름*/
 	double grade; //구조체 멤버
 };
 ```
-```s
-
+```c
+struct person{
+	char name[20];
+	int age;
+	char address[100];
+};
 ```
+- 구조체의 사용
+	- 변수 선언: struct 구조체명 + 벼
