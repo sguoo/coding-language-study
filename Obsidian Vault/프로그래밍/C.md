@@ -1605,3 +1605,11 @@ int main(void){
 	POINT pnt;
 }
 ```
+- 이렇게 쓸 경우 POINT를 ==구조체 별칭==이라 부름
+
+- 익명 구조체 사용하기
+```c
+tyoedef strudct{
+
+}
+```
