@@ -1721,3 +1721,11 @@ void printStruct(struct address *lp) {
 	- 구조체도 필요에 따라 배열의 형태로 선언 가능
 	- 선언방식이 기본 자료형의 배열 선언방식과 동일하다
 
+```c
+#define ARRY_LEN 3
+#define NAME_LEN 30
+#define PID_LEN 15
+
+typedef struct _person
++
+``
