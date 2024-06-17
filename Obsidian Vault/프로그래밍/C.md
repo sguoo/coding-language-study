@@ -1570,10 +1570,10 @@ struct point{
 };
 int main(void){
 	double num;
-	struct point pnt;
+	struct point pnt; //구조체 변수 선언
 
 	num = 1.2;
-	pnt.xPos=2.2;
+	pnt.xPos=2.2; //변수 수pnt는 두개의 변수 xPos와 yPos로 이루어
 	pnt.yPod=3.4;
 
 	printf("num: %g \n", num);
