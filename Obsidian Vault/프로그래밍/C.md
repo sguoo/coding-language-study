@@ -1589,6 +1589,6 @@ int main(void){
 ```c
 struct person{
 	double xPos;
-	doub
-}
+	double yPos;
+}pnt;
 ```
