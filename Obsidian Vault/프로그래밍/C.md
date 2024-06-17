@@ -1679,5 +1679,12 @@ typedef struct {
 Person *p1; //메모리를 할당해 줘야한다
 *p1 = (Person*)malloc(sizeof(Person));
 ```
-```c\
+```c
+void printStruct(struct address *lp);
+
+int main(void){
+	struct address list[5] {
+		{"홍길동", 23, "111-2222", "서울시 중구"}
+	}
+}
 ```
