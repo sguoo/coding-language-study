@@ -1557,4 +1557,9 @@ struct person{
 };
 ```
 - 구조체의 사용
-	- 변수 선언: struct 구조체명 + 벼
+	- 변수 선언: struct 구조체명 + 변수 명
+<span style="color:red; font-size: ">struct person s1;</span>
+멤버 변수의 사용
+```
+s1
+```
