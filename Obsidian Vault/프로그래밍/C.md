@@ -1585,3 +1585,10 @@ int main(void){
 	return 0;
 }
 ```
+- 구조체와 구조체 변수를 동시에 선언 할 수 도 있다
+```c
+struct person{
+	double xPos;
+	doub
+}
+```
