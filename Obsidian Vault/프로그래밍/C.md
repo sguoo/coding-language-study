@@ -1738,9 +1738,13 @@ void ShowPersonData(person * ptr);
 int main(void){
 	int i;
 	person.personArr[ARRY_LEN]={
-		{"한종수", "900218-102589", 20}
-		{"이성은", "910218-102589", 19}
-		{"윤지민", "930218-102589", 17};
-	}
+		{"한종수", "900218-102589", 20},
+		{"이성은", "910218-102589", 19},
+		{"윤지민", "930218-102589", 17}
+	};
+
+	for(i=0; i<ARRY_LEN; i++)
+		ShowPersonData(&personArr[i]);
+	return 0;
 }
 ```
