@@ -1733,5 +1733,13 @@ typedef struct _person
 	unsigned int age;
 } person;
 
-void ShowPersonData(person * )
+void ShowPersonData(person * ptr);
+
+int main(void){
+	int i;
+	person.personArr[ARRY_LEN]={
+		{"한종수", "900218-102589", 20}
+		{"한종수", "900218-102589", 20}
+	}
+}
 ```
