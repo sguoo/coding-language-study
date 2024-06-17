@@ -1580,6 +1580,8 @@ int main(void){
 	printf("pnt.xPos: %g \n", pnt.xPos);
 	printf("pnt.yPos: %g \n", pnt.yPos);
 
-	printf("num의 크기: %d바이트")
+	printf("num의 크기: %d바이트 \n", sizeof(num));
+	printf("pnt의 크기: %d바이트 \n", sizeof(pnt));
+	return 0;
 }
 ```
