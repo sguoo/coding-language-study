@@ -1748,3 +1748,8 @@ int main(void){
 	return 0;
 }
 ```
+```c
+void ShowPersonData(person * ptr){
+	printf("이름: %s \n", (*ptr))
+}
+```
