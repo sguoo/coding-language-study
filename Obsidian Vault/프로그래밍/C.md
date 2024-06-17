@@ -1543,5 +1543,12 @@ pnt.yPos=20</th>
 - 구조체의 선언
 	- struct 구조체명 {변수, 변수}
 ```c
-struct 
+struct /*예약어*/ student /*구조체 이름*/
+{
+	int num;
+	double grade; //구조체 멤버
+};
+```
+```s
+
 ```
