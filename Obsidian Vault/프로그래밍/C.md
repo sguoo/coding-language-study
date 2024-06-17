@@ -1701,7 +1701,8 @@ void printStruct(struct address *lp){
 	int i;
 
 	for(i=0; i<5; i++){
-		printf("%10s %5d %")
+		printf("%10s %5d %15s %20s \n",
+				(lp+1)->name, (lp+1)->tel, (lp+i))
 	}
 }
 ```
