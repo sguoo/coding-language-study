@@ -1648,5 +1648,9 @@ struct _person{
 }
 typedef struct _person person;
 
-void Sh
+void ShowPersonData(person prsn){
+	printf("이름: %s \n", prsn.name);
+	printf("주민등록번호: %s \n", prsn.ID);
+	printf("나이: ")
+}
 ```
