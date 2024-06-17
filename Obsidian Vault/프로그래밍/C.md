@@ -1758,4 +1758,6 @@ void ShowPersonData(person * ptr){
 
 <h3>배열 표현</h3> `lp[i].name`
 
-<h3></h3>
+<h3>함수 표현</h3>
+- 구조체를 함수로 전달하는 경우 구조체의 복사본이 함수로 전달되게 된다
+	
