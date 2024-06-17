@@ -1674,5 +1674,8 @@ typedef struct {
 	int age;
 	char address[100];
 	
-}
+} Person;
+
+Person *p1; //메모리를 할당해 줘야한다
+*p1 = (Person*)malloc(sizeof(Person));
 ```
