@@ -1646,5 +1646,7 @@ struct _person{
 	char ID[15];
 	unsigned int age;
 }
-type
+typedef struct _person person;
+
+void Sh
 ```
