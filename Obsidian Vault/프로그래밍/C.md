@@ -1592,3 +1592,12 @@ struct person{
 	double yPos;
 }pnt;
 ```
+
+```c
+struct point{
+	double xPos;
+	double yPos;
+};
+
+typedef struct point POINT;
+```
