@@ -1536,4 +1536,6 @@ pnt.yPos=20</th>
 </tr>
 </table>
 - 기본 자료형 double과 구조체 자료형 point와 비교
-- 
+
+- 구조체
+	- 자료

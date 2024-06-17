@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
+                "file": "프로그래밍/C.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
+                "file": "프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
+                "file": "프로그래밍/C.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md"
+                "file": "프로그래밍/C.md"
               }
             }
           },
@@ -241,11 +241,14 @@
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "a6f0f101f1325b8c",
   "lastOpenFiles": [
+    "프로그래밍/프로그래밍 자료/c funtion 1.md",
+    "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
     "프로그래밍/프로그래밍 자료/c funtion.md",
     "프로그래밍/프로그래밍 자료/c structure 2.md",
     "프로그래밍/C.md",
@@ -271,12 +274,10 @@
     "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
     "프로그래밍/프로그래밍 자료/c funtion 3.md",
     "프로그래밍/프로그래밍 자료/Cascading style sheet 1.md",
-    "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
     "프로그래밍/프로그래밍 자료/css yungul selector.md",
     "프로그래밍/Python.md",
     "프로그래밍/Lua.md",
     "프로그래밍/css.md",
-    "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
     "공부/공부 자료/Game Project/project/Levatein Default.gif",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225701_105.gif",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225746_122.png",
