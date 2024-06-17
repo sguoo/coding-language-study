@@ -1620,3 +1620,13 @@ tyoedef struct{
 - 대입연산자의 피연산자로 사용 가능
 - 구조체 변수를 이용한 사칙연산은 불가능
 	- 구조체 멤버에는 문자열의 저장이 가능한 char형 배열이 올 수 도 있으므로 사칙연산에 의미를 부여하기 어렵다.
+```c
+struct _point{
+	double xPos;
+	double yPos;
+};
+typedef struct _point point;
+point IncrePos(point pnt){
+
+}
+```
