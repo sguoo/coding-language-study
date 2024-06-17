@@ -1658,6 +1658,10 @@ int main(void){
 	person jongsoo;
 	person copyman;
 
-	strpy(jongsoo.name, "한")
+	strcpy(jongsoo.name, "한종수");
+	strcpy(jongsoo.ID, "900218-1012589");
+
+	copyman=jongsoo;
+	ShowPersonData()
 }
 ```
