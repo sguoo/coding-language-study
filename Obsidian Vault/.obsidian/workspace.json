@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "프로그래밍/pm.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "프로그래밍/pm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "프로그래밍/pm.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/C.md"
+                "file": "프로그래밍/pm.md"
               }
             }
           },
@@ -235,9 +235,12 @@
   },
   "active": "047657a4e8063e73",
   "lastOpenFiles": [
+    "프로그래밍/Python.md",
+    "프로그래밍/Lua.md",
+    "프로그래밍/C.md",
+    "프로그래밍/css.md",
     "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
     "Excalidraw/Drawing 2024-06-17 09.49.39.excalidraw.md",
-    "프로그래밍/C.md",
     "프로그래밍/프로그래밍 자료/c funtion 1.md",
     "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
     "프로그래밍/프로그래밍 자료/c funtion.md",
@@ -263,9 +266,6 @@
     "공부/태양 활동의 변화.md",
     "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
     "프로그래밍/프로그래밍 자료/c funtion 3.md",
-    "프로그래밍/프로그래밍 자료/Cascading style sheet 1.md",
-    "프로그래밍/프로그래밍 자료/css yungul selector.md",
-    "프로그래밍/Python.md",
     "공부/공부 자료/Game Project/project/Levatein Default.gif",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225701_105.gif",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225746_122.png",
