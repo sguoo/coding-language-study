@@ -1573,7 +1573,7 @@ int main(void){
 	struct point pnt; //구조체 변수 선언
 
 	num = 1.2;
-	pnt.xPos=2.2; //변수 수pnt는 두개의 변수 xPos와 yPos로 이루어
+	pnt.xPos=2.2; //변수 수pnt는 두개의 변수 xPos와 yPos로 이루어져 있기 때문에 xPos로                    접근할지 yPos로 접근할지 명시해야 함
 	pnt.yPod=3.4;
 
 	printf("num: %g \n", num);
