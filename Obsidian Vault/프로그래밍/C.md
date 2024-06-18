@@ -1813,3 +1813,12 @@ int main(void){
 	b2.boxRef=&b1;
 }
 ```
+
+```c
+typedef struct box{
+	int data;
+	struct box * boxRef;
+} box;
+
+int 
+```
