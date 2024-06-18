@@ -1927,7 +1927,12 @@ int main(void){
 int main(void){
 	int *pi;
 	int i, sum = 0;
-
-	pi = (int *)malloc(5 ( sizeof(ij)))
+	
+	pi = (int *)malloc(sizeof(int));
+	if(pi == NULL){
+		printf("메모리가 부족합니다");
+		exit(1);
+	}
+	printf("다섯명의 ")
 }
 ```
