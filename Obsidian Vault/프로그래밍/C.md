@@ -1916,6 +1916,9 @@ int main(void){
 	*pd = 3.4;
 	printf("%d %lf", *pi, *pd);
 
-	free()
+	free(pi);
+	free(pd);
+
+	return 0;
 }
 ```
