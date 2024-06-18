@@ -1949,3 +1949,8 @@ int main(void){
 	- 힙에 할당된 메모리 공간의 헤제를 위한 함수
 	- free 함수의 전달인자는 malloc 함수의 반환 값
 	- malloc 함수를 호출할 때 반환된 값을 인자로 전달하면, 호출 시 할당되었던 메모리 공간 전부가 헤제
+	- 인자로 NULL포인터가 전달되면 아무런 일도 발생하지 않는다
+```c
+#include <stdlib.h>
+void free(void * ptr);
+```
