@@ -1938,6 +1938,8 @@ int main(void){
 		scanf("%d", &pi[i]);
 		sum += pi[i];
 	}
-	printf("다섯명읲 평균나이 : %.1f\n", sum)
+	printf("다섯명읲 평균나이 : %.1f\n", sum/5.0);
+	free(pi);
+	return 0;
 }
 ```
