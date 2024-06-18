@@ -1779,6 +1779,12 @@ typedef struct _circle{
 void ShowCircleInfo(const circle * ptr){
 	printf("원의 중심: [%g, %g] \n", 
 				(ptr->center, xPos, (ptr->center), yPos));
-	printf("원의넓이:)
+	printf("원의넓이: %g \n",
+				(ptr->rad)*(ptr->rad)*PI);
+}
+int main(void){
+	circle cl={
+		[]
+	}
 }
 ```
