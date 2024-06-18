@@ -1885,4 +1885,9 @@ void * malloc(size_t size);
 -  형 변환을 활용
 	- malloc으로 할당된 메모리 공간은 사용자가 직접 포인터 형을 결정하여 사용
 ```c
+int main(void){
+	void * ptr=malloc(sizeof(int));
+	int * iPtr=(int *)ptr;
+		*iPtr=10;
+}
 ```
