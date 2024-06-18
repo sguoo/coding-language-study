@@ -1784,7 +1784,10 @@ void ShowCircleInfo(const circle * ptr){
 }
 int main(void){
 	circle cl={
-		[]
-	}
+		[1, 1, 2, 2],
+		2, 5
+	};
+	ShowCircleInfo(&cl);
+	return 0;
 }
 ```
