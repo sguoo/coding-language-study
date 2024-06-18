@@ -1830,7 +1830,11 @@ int main(void){
 	bxPtr=&b1;
 
 	for(i=1; i<=10; i++){
-		prit
+		printf("%3d", bxPtr->data);
+		(bxPtr->data)++;
+		bxPtr=bxPtr->boxRef;
+		if(!(i%2))
+			printf(:)
 	}
 }
 ```
