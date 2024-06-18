@@ -1767,6 +1767,16 @@ void ShowPersonData(person * ptr){
 ```c
 #define PI 3.14
 typedef struct _point{
-	
+	double xPos;
+	double yPos;
+} point;
+
+typedef struct _circle{
+	point center;
+	double rad;
+} circle;
+
+void ShowCircleInfo(const circle * ptr){
+	printf("d")
 }
 ```
