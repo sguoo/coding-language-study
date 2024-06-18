@@ -1795,4 +1795,17 @@ int main(void){
 <span style="color:red">구조체는 다른 구조체의 변수가 될 수 있다</span>
 
 ## 자기 참조 구초체
-- 자기자신과 동일한 자료형의 구조체 변수를 참조할 수 있도록 저
+- 자기자신과 동일한 자료형의 구조체 변수를 참조할 수 있도록 정의된 구조체
+```c
+typedef struct box{
+	int data;
+	struct box * boxRef
+} box;
+int main(void){
+	int i;
+	box * bxPir;
+
+	box b1={1, NULL};
+	box b2={2, }
+}
+```
