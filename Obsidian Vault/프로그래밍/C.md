@@ -1758,7 +1758,7 @@ void ShowPersonData(person * ptr){
 
 <h3>배열 표현</h3> `lp[i].name`
 
-<h2></h2>
+<h3>포인터 표현</h3>
 `(*(lp+1)).name`
 
 
@@ -1844,4 +1844,4 @@ int main(void){
 }
 ```
 
-- 
+# 메모리 동적 할당
