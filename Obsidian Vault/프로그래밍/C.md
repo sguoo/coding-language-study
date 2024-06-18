@@ -1922,3 +1922,12 @@ int main(void){
 	return 0;
 }
 ```
+
+```c
+int main(void){
+	int *pi;
+	int i, sum = 0;
+
+	pi = (int *)malloc(5 ( sizeof(ij)))
+}
+```
