@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/Python.md",
+                "file": "프로그래밍/C.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/Python.md",
+                "file": "프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/Python.md",
+                "file": "프로그래밍/C.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/Python.md"
+                "file": "프로그래밍/C.md"
               }
             }
           },
@@ -235,10 +235,10 @@
   },
   "active": "7eb777b1879f2f42",
   "lastOpenFiles": [
-    "프로그래밍/pm.md",
     "프로그래밍/css.md",
-    "프로그래밍/Lua.md",
     "프로그래밍/Python.md",
+    "프로그래밍/pm.md",
+    "프로그래밍/Lua.md",
     "프로그래밍/C.md",
     "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
     "Excalidraw/Drawing 2024-06-17 09.49.39.excalidraw.md",

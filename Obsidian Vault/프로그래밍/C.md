@@ -1764,3 +1764,9 @@ void ShowPersonData(person * ptr){
 - 구조체 포인터 사용하기
 	1. call by Value 로 값 넘기는 방법
 	2. call by Reference 로 값 넘기는 방
+```c
+#define PI 3.14
+typedef struct _point{
+	
+}
+```
