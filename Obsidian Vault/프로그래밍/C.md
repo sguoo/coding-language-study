@@ -1820,5 +1820,17 @@ typedef struct box{
 	struct box * boxRef;
 } box;
 
-int 
+int main(void){
+	int i;
+	box * bxPtr;
+
+	box b1={1, NULL};
+	box b2={11, NULL};
+
+	bxPtr=&b1;
+
+	for(i=1; i<=10; i++){
+		prit
+	}
+}
 ```
