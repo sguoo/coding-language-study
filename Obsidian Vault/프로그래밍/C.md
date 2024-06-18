@@ -1806,6 +1806,10 @@ int main(void){
 	box * bxPir;
 
 	box b1={1, NULL};
-	box b2={2, }
+	box b2={11, NULL};
+
+	b1.boxRef=&b2;
+	
+	b2.boxRef=&b1;
 }
 ```
