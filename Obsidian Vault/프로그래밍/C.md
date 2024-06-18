@@ -1834,7 +1834,8 @@ int main(void){
 		(bxPtr->data)++;
 		bxPtr=bxPtr->boxRef;
 		if(!(i%2))
-			printf(:)
+			printf("\t");
 	}
+	return 0;
 }
 ```
