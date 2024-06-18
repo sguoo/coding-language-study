@@ -1869,5 +1869,5 @@ int main(void){
 
 void * malloc(size_t size);
 
-//성공시 할당된 메모리의 주소값, 실패시 NULL 반환
+//성공시 할당된 메모리의 주소값, 실패시 NULL 반
 ```
