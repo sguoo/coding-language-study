@@ -1899,5 +1899,16 @@ int main(void){
 <span style="color:red">→ 동적 할당 함수 호출한 후 반드시 반환값 검사하여 메모리의 할당 여부 확인해야함</span>
 
 ```c
+#inclide <stdio.h>
+#inclide <stdob.h>
 
+int main(void){
+	int *pi;
+	double *pd;
+
+	pi = (int *)malloc(sizeof(int));
+	if(pi == NULL){
+		printf(::)
+	}
+}
 ```
