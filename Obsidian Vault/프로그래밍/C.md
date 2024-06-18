@@ -1777,6 +1777,8 @@ typedef struct _circle{
 } circle;
 
 void ShowCircleInfo(const circle * ptr){
-	printf("d")
+	printf("원의 중심: [%g, %g] \n", 
+				(ptr->center, xPos, (ptr->center), yPos));
+	printf("원의넓이:)
 }
 ```
