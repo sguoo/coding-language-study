@@ -322,5 +322,13 @@ ___
 
 ### 특정 위치의 자식요소 선택하기
 
-|종류|설명|
-|
+<table style="margin: auto">
+<tr>
+<td >
+종류
+</td>
+<td>
+설명
+</td>
+</tr>
+</table>
