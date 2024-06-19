@@ -6,17 +6,20 @@
 자료형
 </th>
 <th>
-적어야 할거
+적는 형식
 </th>
 </tr>
 <tr>
-<td>
+<td style="text-align: center">
 숫자
 </td>
 <td>
-</td
+2
+</td>
 </tr>
 <tr>
-<
+<td>
+
+</td>
 </tr>
 </table>
