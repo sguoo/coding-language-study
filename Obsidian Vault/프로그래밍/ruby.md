@@ -34,8 +34,12 @@ true, false, nil
 </td>
 </tr>
 <tr>
-<td>
-
+<td style="text-align: center; padding: auto">
+배열
+</td>
+<td style="text-align: center; padding: auto">
+people=['ewq', 12312. 123, nil, false]
+people[0] 
 </td>
 </tr>
 </table>
