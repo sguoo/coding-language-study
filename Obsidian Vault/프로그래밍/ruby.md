@@ -39,7 +39,15 @@ true, false, nil
 </td>
 <td style="text-align: center; padding: auto">
 people=['ewq', 12312. 123, nil, false]
-people[0] 
+people[0] #=> ewq
+</td>
+</tr>
+<tr>
+<td>
+해시
+</td>
+<td>
+
 </td>
 </tr>
 </table>
