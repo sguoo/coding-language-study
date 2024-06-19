@@ -322,9 +322,11 @@ ___
 
 ### 특정 위치의 자식요소 선택하기
 
-<table style="margin: auto">
+<table style="
+	margin: auto; 
+	 whgh">
 <tr>
-<td >
+<td>
 종류
 </td>
 <td>
