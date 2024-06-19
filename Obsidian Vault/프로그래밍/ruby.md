@@ -1,6 +1,6 @@
 # 자료형
 
-<table>
+<table style="margin:auto; weight: 10px">
 <tr>
 <th>
 자료형
