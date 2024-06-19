@@ -334,7 +334,15 @@ ___
 </th>
 </tr>
 <tr>
-<th>
-<th>
+<td>
+:only-child
+</td>
+<td>
+부모안에 자식요소가 하나 뿐일 때 자식 요소를 선택
+</td>
+</tr>
+<tr>
+<td>
+</td>
 </tr>
 </table>
