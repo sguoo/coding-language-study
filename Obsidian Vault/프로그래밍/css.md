@@ -324,9 +324,9 @@ ___
 
 <table style="
 	margin: auto; 
-	 whgh">
-<tr>
-<td>
+	 width:500px">
+<tr style="margin:auto">
+<td >
 종류
 </td>
 <td>
