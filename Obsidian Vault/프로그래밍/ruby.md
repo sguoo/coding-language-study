@@ -1,11 +1,11 @@
 # 자료형
 
-<table style="margin:auto; width: 100%">
+<table style="margin:auto; width: 100%; font-siz">
 <tr>
-<th>
+<th style="text-align: center; padding: auto">
 자료형
 </th>
-<th>
+<th style="text-align: center; padding: auto">
 적는 형식
 </th>
 </tr>
@@ -25,11 +25,11 @@
 'Hello World'
 </td>
 </tr>
-<tr>
-<td>
+<tr >
+<td style="text-align: center; padding: auto">
 불린, nil
 </td>
-<td>
+<td style="text-align: center; padding: auto">
 true, false, nil
 </td>
 </tr>
