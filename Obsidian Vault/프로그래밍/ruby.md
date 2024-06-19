@@ -1,6 +1,6 @@
 # 자료형
 
-<table style="margin:auto; width: 100%; font-siz">
+<table style="margin:auto; width: 100%; text-size: 50px">
 <tr>
 <th style="text-align: center; padding: auto">
 자료형
@@ -31,6 +31,11 @@
 </td>
 <td style="text-align: center; padding: auto">
 true, false, nil
+</td>
+</tr>
+<tr>
+<td>
+
 </td>
 </tr>
 </table>
