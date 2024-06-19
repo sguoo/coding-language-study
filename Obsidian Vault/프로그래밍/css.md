@@ -325,12 +325,16 @@ ___
 <table style="
 	margin: auto; 
 	 width:500px">
-<tr style="margin:auto">
-<td >
+<tr >
+<th style="text-align:center" >
 종류
-</td>
-<td>
+</th>
+<th  style="text-align:center">
 설명
-</td>
+</th>
+</tr>
+<tr>
+<th>
+<th>
 </tr>
 </table>
