@@ -25,4 +25,12 @@
 'Hello World'
 </td>
 </tr>
+<tr>
+<td>
+불린, nil
+</td>
+<td>
+true, false, nil
+</td>
+</tr>
 </table>
