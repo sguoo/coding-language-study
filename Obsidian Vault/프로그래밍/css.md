@@ -324,7 +324,7 @@ ___
 
 <table style="
 	margin: auto; 
-	 width:500px">
+	 width:500px;">
 <tr >
 <th style="text-align:center" >
 종류
