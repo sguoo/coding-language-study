@@ -324,7 +324,7 @@ ___
 
 <table style="
 	margin: auto; 
-	 width:500px;">
+	 width:auto;">
 <tr >
 <th style="text-align:center" >
 종류
@@ -343,6 +343,10 @@ ___
 </tr>
 <tr>
 <td>
+A:only-type-of
+</td>
+<td>
+부모 안에 A요소가 하나 뿐일 때 선택
 </td>
 </tr>
 </table>
