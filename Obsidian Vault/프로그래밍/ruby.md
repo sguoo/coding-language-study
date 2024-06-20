@@ -97,7 +97,6 @@ colors = {red: 'ff0000', green: '00ff00'} #symbol 데이터 타
 ## 비교연산자
 
 <details>
-
 <summary>접기/펼치기</summary>
 <table>
   <thead>
@@ -345,5 +344,4 @@ colors = {red: 'ff0000', green: '00ff00'} #symbol 데이터 타
     </tr>
   </tbody>
 </table>
-
 </details>
