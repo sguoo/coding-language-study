@@ -344,3 +344,6 @@ colors = {red: 'ff0000', green: '00ff00'} #symbol 데이터 타
 </table>
 </details>
 
+# require
+
+- 파이썬의 import
