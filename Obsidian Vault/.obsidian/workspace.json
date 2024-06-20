@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/ruby.md",
+                "file": "프로그래밍/C.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/ruby.md",
+                "file": "프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/ruby.md",
+                "file": "프로그래밍/C.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/ruby.md"
+                "file": "프로그래밍/C.md"
               }
             }
           },
@@ -247,8 +247,8 @@
   },
   "active": "0b4b9d397d3b06f5",
   "lastOpenFiles": [
-    "프로그래밍/Python.md",
     "프로그래밍/ruby.md",
+    "프로그래밍/Python.md",
     "프로그래밍/pm.md",
     "Vault.md",
     "프로그래밍/css.md",

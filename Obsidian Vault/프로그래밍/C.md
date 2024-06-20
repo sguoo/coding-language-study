@@ -1954,3 +1954,11 @@ int main(void){
 #include <stdlib.h>
 void free(void * ptr);
 ```
+
+## 데이터 영역
+
+### 스택 영역
+
+- 지역변수
+	- 함수 호출이 완료되면 사라짐
+	- 
