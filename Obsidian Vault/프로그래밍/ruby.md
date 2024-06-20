@@ -68,5 +68,13 @@ colors[red] #=> ff0000
 - 다른 언어에서의 bool과 null과 같다
 ```ruby
 true
+false
+nil
+```
 
+## 배열
+- 번호와 번호에 데이터로 이루어진 자료구조
+
+```ruby
+people = ['ewq', 213131, ]
 ```
