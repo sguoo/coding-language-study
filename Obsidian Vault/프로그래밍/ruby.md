@@ -123,7 +123,24 @@ a와 b가 다를 때 true, 같으면 false
 </tr>
 <tr>
 <td>
-
+a < b
+</td>
+<td>
+a 가 b보다 작을 떄 true 아니라면 false
+</td>
+</tr>
+<tr>
+<td>
+a <= b
+</td>
+<td>
+a가 b보다 작거나 같을 때 true 아니라면 false
+</td>
+</tr>
+a > b
+<tr>
+<td>
+a가 ㅠ
 </td>
 <td>
 </td>
