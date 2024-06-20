@@ -98,7 +98,7 @@ colors = {red: 'ff0000', green: '00ff00'} #symbol 데이터 타
 
 <table>
 <tr>
-<th>
+<th style="text-align:center">
 형식
 </th>
 <th style="text-align:center">
@@ -155,9 +155,18 @@ a가 b보다 크거나 같을 때 true 아니라면 false
 </tr>
 <tr>
 <td>
-a && b
+and, &&
 </td>
 <td>
+"그리고" 의미 양쪽 다 true 여야 true
+</td>
+</tr>
+<tr>
+<td>
+or, ||
+</td>
+<td>
+"ㅎㄱ"
 </td>
 </tr>
 </table>
