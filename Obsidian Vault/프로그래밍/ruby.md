@@ -98,11 +98,16 @@ colors = {red: 'ff0000', green: '00ff00'} #symbol 데이터 타
 
 <table>
 <tr>
-<td>
-a==b
-</td>
-<td>
+<th>
+형식
+</th>
+<th>
 같으면 true 다르면 false
+</th>
+</tr>
+<tr>
+<td>
+
 </td>
 </tr>
 </table>
