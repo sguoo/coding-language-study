@@ -76,5 +76,8 @@ nil
 - 번호와 번호에 데이터로 이루어진 자료구조
 
 ```ruby
-people = ['ewq', 213131, ]
+people = ['ewq', 213131, 3.12, nil, false]
+people[0] # => 'ewq'
+people[10] # => nil
 ```
+ - 대응되는 숫자에 아무 값이 없다면 nil이 된다
