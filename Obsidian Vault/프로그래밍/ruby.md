@@ -158,7 +158,7 @@ a가 b보다 크거나 같을 때 true 아니라면 false
 and, &&
 </td>
 <td>
-"그리고" 의미 양쪽 다 true 여야 true
+"그리고"의 의미 양쪽 다 true 여야 true
 </td>
 </tr>
 <tr>
@@ -166,7 +166,14 @@ and, &&
 or, ||
 </td>
 <td>
-"ㅎㄱ"
+"또는"의 의미 양쪽 중 아무나 true면 true
+</td>
+</tr>
+<tr>
+<td>
+not, !
+</td>
+<td>
 </td>
 </tr>
 </table>
