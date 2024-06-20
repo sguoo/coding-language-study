@@ -102,7 +102,7 @@ colors = {red: 'ff0000', green: '00ff00'} #symbol 데이터 타
 a==b
 </td>
 <td>
-
+같으면 true 다르면 false
 </td>
 </tr>
 </table>
