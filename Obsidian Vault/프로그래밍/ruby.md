@@ -61,4 +61,12 @@ colors[red] #=> ff0000
 
 ## 문자열
 - 따옴표를 이용하여 감싸주면 문자열이 된다
-``
+`exemple = 'exemple'`
+
+## 불린 nil
+
+- 다른 언어에서의 bool과 null과 같다
+```ruby
+true
+
+```
