@@ -48,6 +48,7 @@ people[0] #=> ewq
 </td>
 <td style="text-align: center; padding: auto">
 colors={'red' => 'ff0000'}
+= {red: `ff0000`}
 colors[red] #=> ff0000
 </td>
 </tr>
