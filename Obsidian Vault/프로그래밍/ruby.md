@@ -90,5 +90,5 @@ people[10] # => nil
 
 ```ruby
 colors = {'red'=>'ff0000', 'green'=>'00ff00'}
-
+= {red: 'ff0000', green: '00ff00'}
 ```
