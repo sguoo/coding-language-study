@@ -92,4 +92,17 @@ people[10] # => nil
 colors = {'red'=>'ff0000', 'green'=>'00ff00'} #일반 데이터 타입
 colors = {red: 'ff0000', green: '00ff00'} #symbol 데이터 타
 ```
-### 해시
+# 연산자
+
+## 비교연산자
+
+<table>
+<tr>
+<td>
+a==b
+</td>
+<td>
+
+</td>
+</tr>
+</table>
