@@ -174,6 +174,7 @@ or, ||
 not, !
 </td>
 <td>
+true -> false, false -> true
 </td>
 </tr>
 </table>
