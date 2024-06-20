@@ -1957,6 +1957,47 @@ void free(void * ptr);
 
 ## 데이터 영역
 
+<table border="1">
+  <tr>
+    <th></th>
+    <th>지역변수 (local variable)</th>
+    <th>전역변수 (global variable)</th>
+    <th>정적변수 (static variable)</th>
+  </tr>
+  <tr>
+    <td>메모리 생성 시점</td>
+    <td>중괄호 내부</td>
+    <td>프로그램 시작</td>
+    <td>프로그램 시작</td>
+  </tr>
+  <tr>
+    <td>메모리 소멸 시점</td>
+    <td>중괄호 탈출</td>
+    <td>프로그램 종료</td>
+    <td>프로그램 종료</td>
+  </tr>
+  <tr>
+    <td>디폴트 초기값<br>(초기화하지 않을 시)</td>
+    <td>쓰레기값 저장</td>
+    <td>자동 0초기화</td>
+    <td>자동 0초기화<br>(초기화는 한번만 진행)</td>
+  </tr>
+  <tr>
+    <td>사용범위</td>
+    <td>중괄호 내부</td>
+    <td>프로그램 전체</td>
+    <td>
+      - 정적 지역변수 (static local variable): 중괄호 내부<br><br>
+      - 정적 전역변수 (static global variable): 선언된 소스 파일
+    </td>
+  </tr>
+  <tr>
+    <td>메모리 할당공간</td>
+    <td>Stack 영역</td>
+    <td>Data 영역 (초기화)<br>BSS 영역 (비초기화)</td>
+    <td>Data 영역 (초기화)<br>BSS 영역 (비초기화)</td>
+  </tr>
+</table>
 
 
 ## 스택 영역
@@ -1972,3 +2013,4 @@ void free(void * ptr);
 - 프로그래머가 할당/소멸 시키는 메모리
 - malloc()으로 메모리 할당
 - free()로 할당메모리 회수
+
