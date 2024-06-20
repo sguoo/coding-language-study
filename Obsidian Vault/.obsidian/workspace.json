@@ -80,6 +80,16 @@
             }
           },
           {
+            "id": "b56ae0ca07bac961",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-21 08.49.32.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "f7062810f45bff2e",
             "type": "leaf",
             "state": {
@@ -90,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -164,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "Excalidraw/Drawing 2024-06-21 08.49.32.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "Excalidraw/Drawing 2024-06-21 08.49.32.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/C.md"
+                "file": "Excalidraw/Drawing 2024-06-21 08.49.32.excalidraw.md"
               }
             }
           },
@@ -245,15 +255,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b4b9d397d3b06f5",
+  "active": "b56ae0ca07bac961",
   "lastOpenFiles": [
+    "프로그래밍/C.md",
+    "Excalidraw/Drawing 2024-06-21 08.49.32.excalidraw.md",
     "프로그래밍/ruby.md",
     "프로그래밍/Python.md",
     "프로그래밍/pm.md",
     "Vault.md",
     "프로그래밍/css.md",
     "프로그래밍/Lua.md",
-    "프로그래밍/C.md",
     "프로그래밍/프로그래밍 자료/css Style.md",
     "Excalidraw/Drawing 2024-06-18 15.17.07.excalidraw.md",
     "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
@@ -276,7 +287,6 @@
     "프로그래밍/프로그래밍 자료/Python Funtion.md",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509230146_252.png",
     "공부/공부 자료/Pasted image 20240509083122.png",
-    "책 정리, 독후감/모비딕.md",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "공부/공부 자료/Game Project/project/Levatein Default.gif",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225701_105.gif",
