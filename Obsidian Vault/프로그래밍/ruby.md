@@ -48,7 +48,6 @@ people[0] #=> ewq
 </td>
 <td style="text-align: center; padding: auto">
 colors={'red' => 'ff0000'}
-= {red: `ff0000`}
 colors[red] #=> ff0000
 </td>
 </tr>
@@ -90,6 +89,6 @@ people[10] # => nil
 - 해시는 키를 값에 매핑할 수 있는 자료구조 
 
 ```ruby
-colors = {'red'=>'ff0000', 'green'=>'00ff00'}
-= {red: 'ff0000', green: '00ff00'}
+colors = {'red'=>'ff0000', 'green'=>'00ff00'} #일반 데이터 타입
+colors = {red: 'ff0000', green: '00ff00'} #symbol 데이터 타
 ```
