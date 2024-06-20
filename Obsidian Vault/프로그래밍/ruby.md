@@ -43,11 +43,14 @@ people[0] #=> ewq
 </td>
 </tr>
 <tr>
-<td>
+<td style="text-align: center; padding: auto">
 해시
 </td>
-<td>
-
+<td style="text-align: center; padding: auto">
+colors={'red' => 'ff0000'}
+colors[red] #=> ff0000
 </td>
 </tr>
 </table>
+
+## 숫자
