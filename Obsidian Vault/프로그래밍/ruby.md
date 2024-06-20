@@ -118,6 +118,14 @@ a와 b가 같을 때 true, 다르면 false
 a!=b
 </td>
 <td>
+a와 b가 다를 때 true, 같으면 false
+</td>
+</tr>
+<tr>
+<td>
+
+</td>
+<td>
 </td>
 </tr>
 </table>
