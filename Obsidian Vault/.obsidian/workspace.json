@@ -80,16 +80,6 @@
             }
           },
           {
-            "id": "b56ae0ca07bac961",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-06-21 08.49.32.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "f7062810f45bff2e",
             "type": "leaf",
             "state": {
@@ -100,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -174,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-21 08.49.32.excalidraw.md",
+                "file": "프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-21 08.49.32.excalidraw.md",
+                "file": "프로그래밍/C.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-21 08.49.32.excalidraw.md"
+                "file": "프로그래밍/C.md"
               }
             }
           },
@@ -255,10 +245,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b56ae0ca07bac961",
+  "active": "0b4b9d397d3b06f5",
   "lastOpenFiles": [
-    "프로그래밍/C.md",
+    "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
     "Excalidraw/Drawing 2024-06-21 08.49.32.excalidraw.md",
+    "프로그래밍/C.md",
     "프로그래밍/ruby.md",
     "프로그래밍/Python.md",
     "프로그래밍/pm.md",
@@ -267,7 +258,6 @@
     "프로그래밍/Lua.md",
     "프로그래밍/프로그래밍 자료/css Style.md",
     "Excalidraw/Drawing 2024-06-18 15.17.07.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
     "Excalidraw/Drawing 2024-06-17 09.49.39.excalidraw.md",
     "프로그래밍/프로그래밍 자료/c funtion 1.md",
     "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
