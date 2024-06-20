@@ -94,8 +94,6 @@ colors = {red: 'ff0000', green: '00ff00'} #symbol 데이터 타
 ```
 # 연산자
 
-## 비교연산자
-
 <details>
 <summary>접기/펼치기</summary>
 <table>
@@ -242,9 +240,9 @@ colors = {red: 'ff0000', green: '00ff00'} #symbol 데이터 타
     </tr>
     <tr>
       <td>논리 연산자</td>
-      <td>|</td>
+      <td>||</td>
       <td>논리 OR</td>
-      <td>a | b</td>
+      <td>a || b</td>
     </tr>
     <tr>
       <td>논리 연산자</td>
