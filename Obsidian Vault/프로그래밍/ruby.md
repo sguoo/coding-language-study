@@ -102,12 +102,22 @@ colors = {red: 'ff0000', green: '00ff00'} #symbol 데이터 타
 형식
 </th>
 <th>
-같으면 true 다르면 false
+조건
 </th>
 </tr>
 <tr>
 <td>
-
+a==b
+</td>
+<td>
+a와 b가 같을 때 true, 다르면 false
+</td>
+</tr>
+<tr>
+<td>
+a!=b
+</td>
+<td>
 </td>
 </tr>
 </table>
