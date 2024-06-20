@@ -74,7 +74,7 @@
               "type": "markdown",
               "state": {
                 "file": "프로그래밍/ruby.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -248,8 +248,8 @@
   "active": "0b4b9d397d3b06f5",
   "lastOpenFiles": [
     "프로그래밍/Python.md",
-    "프로그래밍/pm.md",
     "프로그래밍/ruby.md",
+    "프로그래밍/pm.md",
     "Vault.md",
     "프로그래밍/css.md",
     "프로그래밍/Lua.md",
