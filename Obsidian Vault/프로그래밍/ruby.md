@@ -137,12 +137,20 @@ a <= b
 a가 b보다 작거나 같을 때 true 아니라면 false
 </td>
 </tr>
-a > b
 <tr>
 <td>
-a가 ㅠ
+a > b
 </td>
 <td>
+a가 b보다 클 때 true 아니라면 false
+</td>
+</tr>
+<tr>
+<td>
+a >= b
+</td>
+<td>
+a가 b보다 크거나 
 </td>
 </tr>
 </table>
