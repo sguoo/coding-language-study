@@ -101,8 +101,8 @@ colors = {red: 'ff0000', green: '00ff00'} #symbol 데이터 타
 <th>
 형식
 </th>
-<th>
-조건
+<th style="text-align:center">
+뜻
 </th>
 </tr>
 <tr>
@@ -150,7 +150,14 @@ a가 b보다 클 때 true 아니라면 false
 a >= b
 </td>
 <td>
-a가 b보다 크거나 
+a가 b보다 크거나 같을 때 true 아니라면 false
+</td>
+</tr>
+<tr>
+<td>
+a && b
+</td>
+<td>
 </td>
 </tr>
 </table>
