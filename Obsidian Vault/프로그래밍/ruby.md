@@ -53,4 +53,5 @@ colors[red] #=> ff0000
 </tr>
 </table>
 
-## 숫자
+- ruby는 따로 앞에 int나 char같은걸 붙일 필요가 없다
+- Lua와 마찬가지로 null이 아닌, nil을 쓴다 
