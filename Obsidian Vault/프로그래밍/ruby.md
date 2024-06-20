@@ -92,5 +92,4 @@ people[10] # => nil
 colors = {'red'=>'ff0000', 'green'=>'00ff00'} #일반 데이터 타입
 colors = {red: 'ff0000', green: '00ff00'} #symbol 데이터 타
 ```
-### 해시 값 추가
-`colors['key'] = value`
+### 해시
