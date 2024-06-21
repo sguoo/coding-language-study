@@ -2014,3 +2014,11 @@ void free(void * ptr);
 - malloc()으로 메모리 할당
 - free()로 할당메모리 회수
 
+- 두 실수의 평균을 구하는 함수 예제
+```c
+#include <stdio.h>
+
+int qwe(double a, double b){
+	a + b
+}
+```
