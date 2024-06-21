@@ -2026,6 +2026,9 @@ int qwe(double a, double b){
 }
 
 int main(void){
-	qwe()
+	double p, o;
+	scanf("%lf %lf", &p,&o);
+	qwe(p,o)
+	
 }
 ```
