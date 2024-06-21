@@ -1414,9 +1414,21 @@ int main(void){
 - 자기 자신을 호출(매개 변수 값 활용)
 - 호출하는 위치에 따라 동작이 달라짐
 - 종료조건을 지침 필수
+
+n부터 1까지 내림차순 출력
 ```c
 void resum2(int num){
-	printf("%d", )
+	printf("%d", num);
+	if(num=-2){
+		printf("1");
+		return;
+	}
+	resum2(num-1)
+}
+
+int main(void){
+	int number;
+	scanf("")
 }
 ```
 
