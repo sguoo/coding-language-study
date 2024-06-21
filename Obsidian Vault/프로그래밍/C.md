@@ -1428,7 +1428,12 @@ void resum2(int num){
 
 int main(void){
 	int number;
-	scanf("")
+	scanf("%d", &number);
+	printf("\n 오름차순")
+	resum(number);
+	printf("\n 내림차순")
+	resum2(number);
+	return 0;
 }
 ```
 
