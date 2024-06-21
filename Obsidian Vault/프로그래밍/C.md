@@ -2019,6 +2019,13 @@ void free(void * ptr);
 #include <stdio.h>
 
 int qwe(double a, double b){
-	a + b
+	double qwer = 0;
+	qwer = a + b;
+	qwer /= 2;
+	return qwer;
+}
+
+int main(void){
+	qwe()
 }
 ```
