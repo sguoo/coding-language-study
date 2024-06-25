@@ -1248,7 +1248,7 @@ int main(void){
 int main(void){
 	char arr[3][4]={"abc", "efg", "ihj"};
 	char (*p)[4]=arr;
-	printf("%d", sizeof(*p))
+	printf("%d", sizeof(*p[1]));
 }
 ```
 # 함수
