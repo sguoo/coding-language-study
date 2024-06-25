@@ -1232,6 +1232,14 @@ int arr\[4]\[2];
 
 ![[Pointer 2chawon kgi|400]]
 
+
+## 답을 예상 해보자
+```c
+#include <stdio.h>
+int main(void){
+	int num;
+}
+```
 # 함수
 ## 함수의 작성과 사용
 - 1~2까지의 합, 1~5까지의 합, 1~100까지의 합을 출력하는 예제
