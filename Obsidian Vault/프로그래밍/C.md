@@ -1234,12 +1234,21 @@ int arr\[4]\[2];
 
 
 ## 답을 예상 해보자
+
 ```c
 #include <stdio.h>
 int main(void){
 	char arr[3][4]={"abc", "efg", "ihj"};
 	char (*p)[4]=arr;
 	printf("%d", sizeof(*p));
+}
+```
+```c
+#include <stdio.h>
+int main(void){
+	char arr[3][4]={"abc", "efg", "ihj"};
+	char (*p)[4]=arr;
+	printf("%d", sizeof(*p))
 }
 ```
 # 함수
