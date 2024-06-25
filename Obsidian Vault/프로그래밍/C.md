@@ -1237,7 +1237,9 @@ int arr\[4]\[2];
 ```c
 #include <stdio.h>
 int main(void){
-	int num;
+	char arr[3][4]={"abc", "efg", "ihj"};
+	char (*p)[4]=arr;
+	printf("%d", sizeof(*p));
 }
 ```
 # 함수
