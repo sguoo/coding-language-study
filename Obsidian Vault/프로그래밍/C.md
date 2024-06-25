@@ -1251,6 +1251,16 @@ int main(void){
 	printf("%d", sizeof(*p[1]));
 }
 ```
+```c
+int main(){
+	int num=5;
+	int *p1=&num;
+	int *p1=p1;
+	(*p1)++;
+	(*p2)--;
+	printf("")
+}
+```
 # 함수
 ## 함수의 작성과 사용
 - 1~2까지의 합, 1~5까지의 합, 1~100까지의 합을 출력하는 예제
