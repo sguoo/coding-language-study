@@ -1258,7 +1258,7 @@ int main(){
 	int *p1=p1;
 	(*p1)++;
 	(*p2)--;
-	printf("")
+	printf("%d", num);
 }
 ```
 # 함수
