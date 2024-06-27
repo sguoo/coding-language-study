@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/css.md",
+                "file": "프로그래밍/Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/css.md",
+                "file": "프로그래밍/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/css.md",
+                "file": "프로그래밍/Python.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/css.md"
+                "file": "프로그래밍/Python.md"
               }
             }
           },
@@ -259,6 +259,13 @@
   },
   "active": "4b72442004745403",
   "lastOpenFiles": [
+    "프로그래밍/ruby.md",
+    "프로그래밍/Python.md",
+    "프로그래밍/pm.md",
+    "프로그래밍/Lua.md",
+    "프로그래밍/css.md",
+    "프로그래밍/유니티.md",
+    "프로그래밍/옵시디언.md",
     "공부/과학.md",
     "Pasted image 20240626103013.png",
     "프로그래밍/C.md",
@@ -267,12 +274,7 @@
     "기업 질문",
     "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
     "Excalidraw/Drawing 2024-06-21 08.49.32.excalidraw.md",
-    "프로그래밍/ruby.md",
-    "프로그래밍/Python.md",
-    "프로그래밍/pm.md",
     "Vault.md",
-    "프로그래밍/css.md",
-    "프로그래밍/Lua.md",
     "프로그래밍/프로그래밍 자료/css Style.md",
     "Excalidraw/Drawing 2024-06-18 15.17.07.excalidraw.md",
     "Excalidraw/Drawing 2024-06-17 09.49.39.excalidraw.md",
@@ -281,14 +283,12 @@
     "프로그래밍/프로그래밍 자료/c funtion.md",
     "프로그래밍/프로그래밍 자료/c structure 2.md",
     "프로그래밍/프로그래밍.md",
-    "프로그래밍/유니티.md",
     "프로그래밍/프로그래밍 자료/lambda def bigyo.md",
     "프로그래밍/프로그래밍 자료/C pointer3.md",
     "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
     "공부/공부 자료/Game Project/Team Project/foundation",
     "공부/공부 자료/Game Project/Team Project/Game",
     "iip.kr.md",
-    "프로그래밍/프로그래밍 공부.md",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509230146_252.png",
     "공부/공부 자료/Pasted image 20240509083122.png",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
