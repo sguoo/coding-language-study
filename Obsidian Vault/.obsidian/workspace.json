@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부/과학.md",
+                "file": "프로그래밍/css.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부/과학.md",
+                "file": "프로그래밍/css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부/과학.md",
+                "file": "프로그래밍/css.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부/과학.md"
+                "file": "프로그래밍/css.md"
               }
             }
           },
@@ -259,6 +259,7 @@
   },
   "active": "4b72442004745403",
   "lastOpenFiles": [
+    "공부/과학.md",
     "Pasted image 20240626103013.png",
     "프로그래밍/C.md",
     "프로그래밍/프로그래밍 자료/c struture.md",
@@ -298,7 +299,6 @@
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224547_174.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224011_016.png",
     "Excalidraw",
-    "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519223941_176.png",
     "프로그래밍/프로그래밍 자료",
     "fonts/나눔손글씨 할아버지의나눔.ttf",
     "fonts",
