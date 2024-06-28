@@ -1485,7 +1485,15 @@ void resum3(int start, int end) {
 	resum3(start + 1, end);
 }
 ```
-
+```c
+void resum3(int start) { 
+	if (start > start+10) {
+		return; 
+	} 
+	printf("%d ", start); 
+	resum3(start + 1);
+}
+```
 - ### Call-By-Value vs. Call-By-Reference
 - 포인터를 이용하면 함수 내에서 외부에 있는 변수에 직접 접근이 가능
 - Call-By-Value
