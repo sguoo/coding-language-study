@@ -1478,15 +1478,7 @@ int main(void){
 
 ```c
 void resum3(int start, int end) { 
-	if (start > end) { 
-		int temp = start;
-		start = end;
-		end = temp; 
-	} 
-	for (int i = start; i <= end; i++) {
-		printf("%d ", i); 
-	} 
-	printf("\n");
+if (start > end) { return; } printf("%d ", start); printAscending(start + 1, end);;
 }
 ```
 
