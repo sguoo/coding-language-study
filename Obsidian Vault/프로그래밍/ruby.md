@@ -348,3 +348,9 @@ colors = {red: 'ff0000', green: '00ff00'} #symbol 데이터 타
 
 - 파이썬의 import에 해당된다
 - 대표적으로 `require sinatra`, `require ralisOnRuby` 가 있다
+# 메서드
+- 사람 이름과 함께 인사를 건네는 메서드
+```ruby
+def say_goodnight(name)
+	result = "Good night, " + name
+```
