@@ -1446,7 +1446,14 @@ int main(void){
 
 - n부터 1까지 내림차순 출력
 ```c
-void resum(o)
+void resum(int num) {
+	printf("%d", num);
+	if(num=-2){
+		printf("1")
+		return;
+	}
+	resum(num-1)
+}
 
 void resum2(int num){
 	printf("%d", num);
