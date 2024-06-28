@@ -1487,11 +1487,11 @@ void resum3(int start, int end) {
 ```
 ```c
 void resum3(int start) { 
-	if (start > start+10) {
-		return; 
+if (current > current + 10 - 1) {
+	return; 
 	} 
-	printf("%d ", start); 
-	resum3(start + 1);
+	printf("%d ", current); 
+	printAscending(current + 1);
 }
 ```
 - ### Call-By-Value vs. Call-By-Reference
