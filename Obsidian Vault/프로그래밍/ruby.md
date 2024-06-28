@@ -347,4 +347,4 @@ colors = {red: 'ff0000', green: '00ff00'} #symbol 데이터 타
 # require
 
 - 파이썬의 import에 해당된다
-- 대표적으로 `require sinatra`, `require ralisOnRuby`
+- 대표적으로 `require sinatra`, `require ralisOnRuby` 가 있다
