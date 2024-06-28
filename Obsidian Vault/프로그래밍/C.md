@@ -1478,7 +1478,11 @@ int main(void){
 
 ```c
 void resum3(int start, int end) { 
-if (start > end) { return; } printf("%d ", start); printAscending(start + 1, end);;
+	if (start > end) {
+		return; 
+	} 
+	printf("%d ", start); 
+	resum3(start + 1, end);
 }
 ```
 
