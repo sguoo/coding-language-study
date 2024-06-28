@@ -1477,7 +1477,7 @@ int main(void){
 ```
 
 ```c
-void printAscending(int start, int end) { 
+void resum3(int start, int end) { 
 	if (start > end) { 
 		int temp = start;
 		start = end;
