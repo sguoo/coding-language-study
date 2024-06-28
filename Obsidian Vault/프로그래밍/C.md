@@ -1444,8 +1444,10 @@ int main(void){
 - 호출하는 위치에 따라 동작이 달라짐
 - 종료조건을 지침 필수
 
-n부터 1까지 내림차순 출력
+- n부터 1까지 내림차순 출력
 ```c
+void resum(o)
+
 void resum2(int num){
 	printf("%d", num);
 	if(num=-2){
