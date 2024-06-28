@@ -1447,17 +1447,17 @@ int main(void){
 - n부터 1까지 내림차순 출력
 ```c
 void resum(int num) {
-	printf("%d", num);
-	if(num=-2){
+	if(num==num){
 		printf("1")
 		return;
 	}
+	printf("%d", num);
 	resum(num-1)
 }
 
 void resum2(int num){
 	printf("%d", num);
-	if(num=-2){
+	if(num==2){
 		printf("1");
 		return;
 	}
