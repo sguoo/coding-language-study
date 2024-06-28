@@ -55,43 +55,22 @@ colors[red] #=> ff0000
 
 - ruby는 따로 앞에 int나 char같은걸 붙일 필요가 없다
 - Lua와 마찬가지로 null이 아닌, nil을 쓴다 
-## 숫자
- - 단순히 숫자를 쓰면, 컴퓨터는 숫자로 인식한다
- `exemple = 1`
 
-## 문자열
-- 따옴표를 이용하여 감싸주면 문자열이 된다
-`exemple = 'exemple'`
-
-## 불린 nil
-
-- 다른 언어에서의 bool과 null과 같다
+# 객체지향
+루비는 진정한
+# 메서드
+- 사람 이름과 함께 인사를 건네는 메서드
 ```ruby
-true
-false
-nil
+def say_goodnight(name)
+	result = "Good night, " + name
+	return result;
+
+#잠잘 시간
+puts say_goodnight("John-Boy") #Good night, Johon-Boy
+puts say_goodnight("Mary-Ellen") #Good night, Mary-Ellen
 ```
 
-## 배열
-
-- 번호와 번호에 데이터로 이루어진 자료구조
-
-```ruby
-people = ['ewq', 213131, 3.12, nil, false]
-people[0] # => 'ewq'
-people[10] # => nil
-```
-- 대응되는 숫자에 아무 값이 없다면 nil이 된다
-- 자료형은 상관 없다
-
-## 해시
-
-- 해시는 키를 값에 매핑할 수 있는 자료구조 
-
-```ruby
-colors = {'red'=>'ff0000', 'green'=>'00ff00'} #일반 데이터 타입
-colors = {red: 'ff0000', green: '00ff00'} #symbol 데이터 타
-```
+루비 문법은 쉽다. 세미콜론을 뒤에 꼬박꼬박 넣지 않아도 된다
 # 연산자
 
 <details>
