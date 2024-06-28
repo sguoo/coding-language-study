@@ -1448,7 +1448,7 @@ int main(void){
 - 1부터 n까지 오름차순 출력
 ```c
 void resum(int num) {
-	printf("%d", num);
+	printf("%d", num-(num-1));
 	resum(num+1)
 }
 
