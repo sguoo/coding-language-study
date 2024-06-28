@@ -1487,8 +1487,8 @@ void resum3(int start, int end) {
 ```
 ```c
 void resum3(int start) { 
-if (current > current + 10 - 1) {
-	return; 
+	if (current > current + 10 - 1) {
+		return; 
 	} 
 	printf("%d ", current); 
 	printAscending(current + 1);
