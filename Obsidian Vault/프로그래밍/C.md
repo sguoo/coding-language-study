@@ -1476,6 +1476,20 @@ int main(void){
 }
 ```
 
+```c
+void printAscending(int start, int end) { 
+	if (start > end) { 
+		int temp = start;
+		start = end;
+		end = temp; 
+	} 
+	for (int i = start; i <= end; i++) {
+		printf("%d ", i); 
+	} 
+	printf("\n");
+}
+```
+
 - ### Call-By-Value vs. Call-By-Reference
 - 포인터를 이용하면 함수 내에서 외부에 있는 변수에 직접 접근이 가능
 - Call-By-Value
