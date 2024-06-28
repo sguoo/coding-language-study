@@ -1445,14 +1445,11 @@ int main(void){
 - 종료조건을 지침 필수
 
 - n부터 1까지 내림차순 출력
+- 1부터 n까지 오름차순 출력
 ```c
 void resum(int num) {
-	if(num==num){
-		printf("1")
-		return;
-	}
 	printf("%d", num);
-	resum(num-1)
+	resum(num+1)
 }
 
 void resum2(int num){
