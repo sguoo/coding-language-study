@@ -1448,9 +1448,11 @@ int main(void){
 - 1부터 n까지 오름차순 출력
 ```c
 void resum(int num) {
-	printf("%d", num-(num-1));
-	resum(num+1)
-}
+	if (num == 1) 
+		{ printf("%d ", num); return; }
+	resum(num - 1);
+	printf("%d ", num);
+	 }
 
 void resum2(int num){
 	printf("%d", num);
