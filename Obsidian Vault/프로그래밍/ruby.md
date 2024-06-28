@@ -353,4 +353,9 @@ colors = {red: 'ff0000', green: '00ff00'} #symbol 데이터 타
 ```ruby
 def say_goodnight(name)
 	result = "Good night, " + name
+	return result;
+
+#잠잘 시간
+puts say_goodnight("John-Boy") #Good night, Johon-Boy
+puts say_goodnight("Mary-Ellen") #Good night, Mary-Ellen
 ```
