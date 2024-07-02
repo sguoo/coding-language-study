@@ -1352,6 +1352,24 @@ int main(void){
 
 ![[c funtion 1]]
 
+- 두 실수의 평균을 구하는 함수 예제
+```c
+#include <stdio.h>
+
+int qwe(double a, double b){
+	double qwer = 0;
+	qwer = a + b;
+	qwer /= 2;
+	return qwer;
+}
+
+int main(void){
+	double p, o, wq;
+	scanf("%lf %lf", &p,&o);
+	wq = qwe(p,o);
+	printf(wq)
+}
+```
 ## 함수를 구성하는 요소들
 - 함수는 변수와 같이 사용하기 전에 먼저 선언되어야 한다.
 ```c
@@ -2089,7 +2107,6 @@ void free(void * ptr);
 - malloc()으로 메모리 할당
 - free()로 할당메모리 회수
 
-- 두 실수의 평균을 구하는 함수 예제
 
 
 
