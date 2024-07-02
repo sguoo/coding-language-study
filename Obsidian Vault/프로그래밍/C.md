@@ -2090,22 +2090,6 @@ void free(void * ptr);
 - free()로 할당메모리 회수
 
 - 두 실수의 평균을 구하는 함수 예제
-```c
-#include <stdio.h>
 
-int qwe(double a, double b){
-	double qwer = 0;
-	qwer = a + b;
-	qwer /= 2;
-	return qwer;
-}
-
-int main(void){
-	double p, o, wq;
-	scanf("%lf %lf", &p,&o);
-	wq = qwe(p,o);
-	printf(wq)
-}
-```
 
 
