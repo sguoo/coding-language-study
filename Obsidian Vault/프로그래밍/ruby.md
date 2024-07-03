@@ -74,8 +74,11 @@ puts say_goodnight("Mary-Ellen") #Good night, Mary-Ellen
 
 - `puts`에 결과를 넘겨주었는데, `puts`라는 메서드는 매개변수를 출력 할 때 위치를 다음 줄로 옮겨주는 줄 바꿈을 붙여서 출력한다
 - 다음 코드를 보자
-
-
+```ruby
+puts say_goodnight("John-Boy")
+puts(say_goodnight("John-Boy"))
+```
+- 루비에선 위의 코드 두개가 같은 뜻을 가진다
 
 # 연산자
 
