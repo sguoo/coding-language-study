@@ -83,11 +83,9 @@
             "id": "4b72442004745403",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "책 정리, 독후감/그리고 아무도 없었다.md",
-                "mode": "source",
-                "source": false
+                "file": "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md"
               }
             }
           },
@@ -176,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "책 정리, 독후감/그리고 아무도 없었다.md",
+                "file": "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "책 정리, 독후감/그리고 아무도 없었다.md",
+                "file": "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "책 정리, 독후감/그리고 아무도 없었다.md"
+                "file": "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md"
               }
             }
           },
@@ -257,10 +255,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4b72442004745403",
+  "active": "24d136a6414d5bbf",
   "lastOpenFiles": [
-    "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
+    "공부/공부 자료/Game Project/Team Project/실낙원 프로젝트-1",
+    "공부/공부 자료/Game Project/project/레바테인.md",
+    "공부/공부 자료/Game Project/project/무기.md",
     "책 정리, 독후감/그리고 아무도 없었다.md",
+    "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "기업 질문/미니멈 스튜디오.md",
     "프로그래밍/C.md",
     "프로그래밍/ruby.md",
@@ -285,8 +286,6 @@
     "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
     "프로그래밍/프로그래밍 자료/c structure 2.md",
     "프로그래밍/프로그래밍.md",
-    "프로그래밍/프로그래밍 자료/lambda def bigyo.md",
-    "프로그래밍/프로그래밍 자료/C pointer3.md",
     "공부/공부 자료/Game Project/Team Project/foundation",
     "공부/공부 자료/Game Project/Team Project/Game",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509230146_252.png",
