@@ -71,6 +71,10 @@ puts say_goodnight("Mary-Ellen") #Good night, Mary-Ellen
 ```
 
 루비 문법은 쉽다. 세미콜론을 뒤에 꼬박꼬박 넣지 않아도 된다
+
+
+
+
 # 연산자
 
 <details>
