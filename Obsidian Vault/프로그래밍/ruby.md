@@ -70,6 +70,8 @@ puts say_goodnight("John-Boy") #Good night, Johon-Boy
 puts say_goodnight("Mary-Ellen") #Good night, Mary-Ellen
 ```
 
+^5e3afe
+
 루비 문법은 쉽다. 세미콜론을 뒤에 꼬박꼬박 넣지 않아도 된다
 
 - `puts`에 결과를 넘겨주었는데, `puts`라는 메서드는 매개변수를 출력 할 때 위치를 다음 줄로 옮겨주는 줄 바꿈을 붙여서 출력한다
@@ -82,7 +84,8 @@ puts(say_goodnight("John-Boy"))
 - 다만, 우선순위 문제 때문에 단순한 것이 아니라면, 괄호를 쓰는것이 권장된다
 
 ## 문자열
-- 앞에 있는 [[]]
+- 앞에 있는 [[ruby#^5e3afe|코드]]에는 문자열도 잇는데, 문자열 객체를 만드는 방법은 여러가지가 있는데, 그중 가장 일반적인 것이 문자열 리터럴을 사용하는 것이다.
+
 
 # 연산자
 
