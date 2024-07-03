@@ -90,6 +90,18 @@
             }
           },
           {
+            "id": "9fa6a8d6a717b7ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "공부/공부 자료/Game Project/Team Project/실낙원 프로젝트-1/무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f7062810f45bff2e",
             "type": "leaf",
             "state": {
@@ -100,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -174,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
+                "file": "공부/공부 자료/Game Project/Team Project/실낙원 프로젝트-1/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
+                "file": "공부/공부 자료/Game Project/Team Project/실낙원 프로젝트-1/무제 파일.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md"
+                "file": "공부/공부 자료/Game Project/Team Project/실낙원 프로젝트-1/무제 파일.md"
               }
             }
           },
@@ -255,8 +267,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24d136a6414d5bbf",
+  "active": "9fa6a8d6a717b7ed",
   "lastOpenFiles": [
+    "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
+    "공부/공부 자료/Game Project/Team Project/실낙원 프로젝트-1/무제 파일.md",
     "공부/공부 자료/Game Project/Team Project/실낙원 프로젝트-1",
     "공부/공부 자료/Game Project/project/레바테인.md",
     "공부/공부 자료/Game Project/project/무기.md",
@@ -285,7 +299,6 @@
     "프로그래밍/프로그래밍 자료/c funtion 1.md",
     "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
     "프로그래밍/프로그래밍 자료/c structure 2.md",
-    "프로그래밍/프로그래밍.md",
     "공부/공부 자료/Game Project/Team Project/foundation",
     "공부/공부 자료/Game Project/Team Project/Game",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509230146_252.png",
@@ -302,7 +315,6 @@
     "fonts",
     "새 폴더",
     "공부/공부 자료/Game Project/Team Project",
-    "공부/공부 자료/Game Project",
     "공부/프로그래밍/css style.canvas",
     "공부/프로그래밍/css style 1.canvas"
   ]
