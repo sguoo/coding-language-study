@@ -72,6 +72,8 @@ puts say_goodnight("Mary-Ellen") #Good night, Mary-Ellen
 
 루비 문법은 쉽다. 세미콜론을 뒤에 꼬박꼬박 넣지 않아도 된다
 
+- `puts`에 결과를 넘겨주었는데, `puts`라는 메서드는 매개변수를 출력 할 때 위치를 다음 줄로 옮겨주는 줄 바꿈을 붙여서 출력한다
+- 다음 코드를 보자
 
 
 
