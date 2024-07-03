@@ -85,8 +85,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/C.md",
-                "mode": "preview",
+                "file": "책 정리, 독후감/그리고 아무도 없었다.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "책 정리, 독후감/그리고 아무도 없었다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "책 정리, 독후감/그리고 아무도 없었다.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/C.md"
+                "file": "책 정리, 독후감/그리고 아무도 없었다.md"
               }
             }
           },
@@ -259,8 +259,11 @@
   },
   "active": "4b72442004745403",
   "lastOpenFiles": [
-    "프로그래밍/ruby.md",
+    "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
+    "책 정리, 독후감/그리고 아무도 없었다.md",
+    "기업 질문/미니멈 스튜디오.md",
     "프로그래밍/C.md",
+    "프로그래밍/ruby.md",
     "프로그래밍/프로그래밍 자료/c funtion.md",
     "프로그래밍/Python.md",
     "프로그래밍/pm.md",
@@ -271,7 +274,6 @@
     "공부/과학.md",
     "Pasted image 20240626103013.png",
     "프로그래밍/프로그래밍 자료/c struture.md",
-    "기업 질문/미니멈 스튜디오.md",
     "기업 질문",
     "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
     "Excalidraw/Drawing 2024-06-21 08.49.32.excalidraw.md",
@@ -285,13 +287,10 @@
     "프로그래밍/프로그래밍.md",
     "프로그래밍/프로그래밍 자료/lambda def bigyo.md",
     "프로그래밍/프로그래밍 자료/C pointer3.md",
-    "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
     "공부/공부 자료/Game Project/Team Project/foundation",
     "공부/공부 자료/Game Project/Team Project/Game",
-    "iip.kr.md",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509230146_252.png",
     "공부/공부 자료/Pasted image 20240509083122.png",
-    "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "공부/공부 자료/Game Project/project/Levatein Default.gif",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225701_105.gif",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225746_122.png",
