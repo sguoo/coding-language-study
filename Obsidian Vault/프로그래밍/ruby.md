@@ -70,6 +70,7 @@ puts say_goodnight("John-Boy") #Good night, Johon-Boy
 puts say_goodnight("Mary-Ellen") #Good night, Mary-Ellen
 ```
 
+
 ^5e3afe
 
 루비 문법은 쉽다. 세미콜론을 뒤에 꼬박꼬박 넣지 않아도 된다
