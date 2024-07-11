@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/ruby.md",
+                "file": "프로그래밍/C.md",
                 "mode": "preview",
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/ruby.md",
+                "file": "프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/ruby.md",
+                "file": "프로그래밍/C.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/ruby.md"
+                "file": "프로그래밍/C.md"
               }
             }
           },
@@ -269,6 +269,7 @@
   },
   "active": "9fa6a8d6a717b7ed",
   "lastOpenFiles": [
+    "프로그래밍/ruby.md",
     "프로그래밍/pm.md",
     "공부/사회.md",
     "공부/공부 자료/Game Project/Team Project/실낙원 프로젝트-1/무제 파일.md",
@@ -280,7 +281,6 @@
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "기업 질문/미니멈 스튜디오.md",
     "프로그래밍/C.md",
-    "프로그래밍/ruby.md",
     "프로그래밍/프로그래밍 자료/c funtion.md",
     "프로그래밍/Python.md",
     "프로그래밍/Lua.md",
