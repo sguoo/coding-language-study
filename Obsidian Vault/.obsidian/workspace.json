@@ -114,6 +114,18 @@
             }
           },
           {
+            "id": "2bfc7463ffdf65af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "공부/재학생 컴퍼런스/코틀린.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f7062810f45bff2e",
             "type": "leaf",
             "state": {
@@ -124,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -198,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부/재학생 컴퍼런스/웹 취약성.md",
+                "file": "공부/재학생 컴퍼런스/코틀린.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부/재학생 컴퍼런스/웹 취약성.md",
+                "file": "공부/재학생 컴퍼런스/코틀린.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부/재학생 컴퍼런스/웹 취약성.md"
+                "file": "공부/재학생 컴퍼런스/코틀린.md"
               }
             }
           },
@@ -278,10 +290,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "9b9b051c596fc9f3",
+  "active": "2bfc7463ffdf65af",
   "lastOpenFiles": [
-    "공부/공부.md",
     "공부/재학생 컴퍼런스/웹 취약성.md",
+    "공부/재학생 컴퍼런스/코틀린.md",
+    "공부/공부.md",
     "공부/재학생 컴퍼런스",
     "프로그래밍/C.md",
     "프로그래밍/ruby.md",
@@ -310,7 +323,6 @@
     "Vault.md",
     "프로그래밍/프로그래밍 자료/css Style.md",
     "Excalidraw/Drawing 2024-06-18 15.17.07.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-17 09.49.39.excalidraw.md",
     "공부/공부 자료/Game Project/Team Project/foundation",
     "공부/공부 자료/Game Project/Team Project/Game",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509230146_252.png",
