@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "공부/공부.md",
                 "mode": "preview",
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "공부/공부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "공부/공부.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/C.md"
+                "file": "공부/공부.md"
               }
             }
           },
@@ -266,8 +266,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "9fa6a8d6a717b7ed",
+  "active": "24d136a6414d5bbf",
   "lastOpenFiles": [
+    "무제 폴더",
+    "프로그래밍/C.md",
     "프로그래밍/ruby.md",
     "프로그래밍/pm.md",
     "공부/사회.md",
@@ -279,7 +281,6 @@
     "책 정리, 독후감/그리고 아무도 없었다.md",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "기업 질문/미니멈 스튜디오.md",
-    "프로그래밍/C.md",
     "프로그래밍/프로그래밍 자료/c funtion.md",
     "프로그래밍/Python.md",
     "프로그래밍/Lua.md",
@@ -297,7 +298,6 @@
     "Excalidraw/Drawing 2024-06-18 15.17.07.excalidraw.md",
     "Excalidraw/Drawing 2024-06-17 09.49.39.excalidraw.md",
     "프로그래밍/프로그래밍 자료/c funtion 1.md",
-    "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
     "공부/공부 자료/Game Project/Team Project/foundation",
     "공부/공부 자료/Game Project/Team Project/Game",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509230146_252.png",
