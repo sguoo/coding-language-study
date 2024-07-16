@@ -114,18 +114,6 @@
             }
           },
           {
-            "id": "72c7f8ec0d0a355e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "공부/재학생 컴퍼런스/사업가.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2bfc7463ffdf65af",
             "type": "leaf",
             "state": {
@@ -148,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -222,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부/재학생 컴퍼런스/사업가.md",
+                "file": "공부/재학생 컴퍼런스/웹 취약성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부/재학생 컴퍼런스/사업가.md",
+                "file": "공부/재학생 컴퍼런스/웹 취약성.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부/재학생 컴퍼런스/사업가.md"
+                "file": "공부/재학생 컴퍼런스/웹 취약성.md"
               }
             }
           },
@@ -302,10 +290,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "72c7f8ec0d0a355e",
+  "active": "24d136a6414d5bbf",
   "lastOpenFiles": [
-    "공부/재학생 컴퍼런스/웹 취약성.md",
     "공부/재학생 컴퍼런스/사업가.md",
+    "공부/재학생 컴퍼런스/웹 취약성.md",
     "프로그래밍/ruby.md",
     "공부/재학생 컴퍼런스/코틀린.md",
     "공부/공부.md",
