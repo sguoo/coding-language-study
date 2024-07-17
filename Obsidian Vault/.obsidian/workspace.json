@@ -105,11 +105,9 @@
             "id": "9b9b051c596fc9f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "공부/재학생 컴퍼런스/웹 취약성.md",
-                "mode": "source",
-                "source": false
+                "file": "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md"
               }
             }
           },
@@ -210,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부/재학생 컴퍼런스/웹 취약성.md",
+                "file": "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부/재학생 컴퍼런스/웹 취약성.md",
+                "file": "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부/재학생 컴퍼런스/웹 취약성.md"
+                "file": "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md"
               }
             }
           },
@@ -287,13 +285,24 @@
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24d136a6414d5bbf",
+  "active": "9b9b051c596fc9f3",
   "lastOpenFiles": [
-    "공부/재학생 컴퍼런스/사업가.md",
+    "공부/공부 자료/Game Project/project/동방요습격.md",
+    "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
+    "Excalidraw/Excalidraw.md",
+    "공부/태양 활동의 변화.md",
+    "공부/공부 자료/Pasted image 20240509082840.png",
+    "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224634_175.png",
+    "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225111_200.jpg",
+    "공부/공부 자료/Game Project/project/Levatein 4.gif",
+    "공부/공부 자료/Game Project/Team Project/실낙원 프로젝트-1/무제 파일.md",
+    "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
     "공부/재학생 컴퍼런스/웹 취약성.md",
+    "공부/재학생 컴퍼런스/사업가.md",
     "프로그래밍/ruby.md",
     "공부/재학생 컴퍼런스/코틀린.md",
     "공부/공부.md",
@@ -301,8 +310,6 @@
     "프로그래밍/C.md",
     "프로그래밍/pm.md",
     "공부/사회.md",
-    "공부/공부 자료/Game Project/Team Project/실낙원 프로젝트-1/무제 파일.md",
-    "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
     "공부/공부 자료/Game Project/Team Project/실낙원 프로젝트-1",
     "공부/공부 자료/Game Project/project/레바테인.md",
     "공부/공부 자료/Game Project/project/무기.md",
@@ -319,20 +326,12 @@
     "Pasted image 20240626103013.png",
     "프로그래밍/프로그래밍 자료/c struture.md",
     "기업 질문",
-    "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-21 08.49.32.excalidraw.md",
-    "Vault.md",
-    "프로그래밍/프로그래밍 자료/css Style.md",
     "공부/공부 자료/Game Project/Team Project/foundation",
     "공부/공부 자료/Game Project/Team Project/Game",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509230146_252.png",
     "공부/공부 자료/Pasted image 20240509083122.png",
     "공부/공부 자료/Game Project/project/Levatein Default.gif",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225701_105.gif",
-    "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225746_122.png",
-    "공부/공부 자료/Pasted image 20240509082840.png",
-    "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224547_174.png",
-    "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224011_016.png",
     "Excalidraw",
     "프로그래밍/프로그래밍 자료",
     "fonts/나눔손글씨 할아버지의나눔.ttf",
