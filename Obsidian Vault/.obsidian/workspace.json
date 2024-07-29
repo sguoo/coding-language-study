@@ -105,11 +105,19 @@
             "id": "9b9b051c596fc9f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/Trick or picture/Load Map 1.md",
-                "mode": "source",
-                "source": false
+                "file": "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md"
+              }
+            }
+          },
+          {
+            "id": "d8b006f623bcf067",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md"
               }
             }
           },
@@ -136,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -210,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/Trick or picture/Load Map 1.md",
+                "file": "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/Trick or picture/Load Map 1.md",
+                "file": "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/Trick or picture/Load Map 1.md"
+                "file": "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md"
               }
             }
           },
@@ -294,6 +302,7 @@
   "active": "24d136a6414d5bbf",
   "lastOpenFiles": [
     "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
+    "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/Load Map 1.md",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509224536_097.png",
     "공부/공부 자료/Game Project/Team Project/실낙원 프로젝트-1/무제 파일.md",
@@ -327,7 +336,6 @@
     "프로그래밍/프로그래밍 자료/c funtion.md",
     "프로그래밍/Python.md",
     "프로그래밍/Lua.md",
-    "프로그래밍/css.md",
     "Pasted image 20240626103013.png",
     "기업 질문",
     "공부/공부 자료/Game Project/Team Project/foundation",
