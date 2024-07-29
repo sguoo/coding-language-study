@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부/공부 자료/Game Project/project/캐릭터.md",
+                "file": "공부/공부 자료/Game Project/Team Project/Trick or picture/Load Map 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부/공부 자료/Game Project/project/캐릭터.md",
+                "file": "공부/공부 자료/Game Project/Team Project/Trick or picture/Load Map 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부/공부 자료/Game Project/project/캐릭터.md",
+                "file": "공부/공부 자료/Game Project/Team Project/Trick or picture/Load Map 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부/공부 자료/Game Project/project/캐릭터.md"
+                "file": "공부/공부 자료/Game Project/Team Project/Trick or picture/Load Map 1.md"
               }
             }
           },
@@ -291,12 +291,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9b9b051c596fc9f3",
+  "active": "24d136a6414d5bbf",
   "lastOpenFiles": [
+    "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
+    "공부/공부 자료/Game Project/Team Project/Trick or picture/Load Map 1.md",
+    "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509224536_097.png",
+    "공부/공부 자료/Game Project/Team Project/실낙원 프로젝트-1/무제 파일.md",
+    "공부/공부 자료/Game Project/Team Project/Trick or picture",
+    "공부/공부 자료/Game Project/project/캐릭터.md",
     "프로그래밍/옵시디언.md",
     "공부/곱셈공식.md",
     "프로그래밍/C.md",
-    "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
     "공부/공부 자료/Game Project/project/동방요습격.md",
     "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
     "Excalidraw/Excalidraw.md",
@@ -305,7 +310,6 @@
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224634_175.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225111_200.jpg",
     "공부/공부 자료/Game Project/project/Levatein 4.gif",
-    "공부/공부 자료/Game Project/Team Project/실낙원 프로젝트-1/무제 파일.md",
     "공부/재학생 컴퍼런스/웹 취약성.md",
     "공부/재학생 컴퍼런스/사업가.md",
     "프로그래밍/ruby.md",
@@ -324,8 +328,6 @@
     "프로그래밍/Python.md",
     "프로그래밍/Lua.md",
     "프로그래밍/css.md",
-    "프로그래밍/유니티.md",
-    "공부/과학.md",
     "Pasted image 20240626103013.png",
     "기업 질문",
     "공부/공부 자료/Game Project/Team Project/foundation",
@@ -333,12 +335,10 @@
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509230146_252.png",
     "공부/공부 자료/Pasted image 20240509083122.png",
     "공부/공부 자료/Game Project/project/Levatein Default.gif",
-    "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225701_105.gif",
     "Excalidraw",
     "프로그래밍/프로그래밍 자료",
     "fonts/나눔손글씨 할아버지의나눔.ttf",
     "fonts",
-    "새 폴더",
     "공부/프로그래밍/css style.canvas",
     "공부/프로그래밍/css style 1.canvas"
   ]
