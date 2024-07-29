@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/옵시디언.md",
+                "file": "공부/공부 자료/Game Project/project/캐릭터.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/옵시디언.md",
+                "file": "공부/공부 자료/Game Project/project/캐릭터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/옵시디언.md",
+                "file": "공부/공부 자료/Game Project/project/캐릭터.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/옵시디언.md"
+                "file": "공부/공부 자료/Game Project/project/캐릭터.md"
               }
             }
           },
@@ -293,6 +293,7 @@
   },
   "active": "9b9b051c596fc9f3",
   "lastOpenFiles": [
+    "프로그래밍/옵시디언.md",
     "공부/곱셈공식.md",
     "프로그래밍/C.md",
     "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
@@ -324,7 +325,6 @@
     "프로그래밍/Lua.md",
     "프로그래밍/css.md",
     "프로그래밍/유니티.md",
-    "프로그래밍/옵시디언.md",
     "공부/과학.md",
     "Pasted image 20240626103013.png",
     "기업 질문",
