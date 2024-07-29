@@ -10,6 +10,7 @@
           {
             "id": "9a34ac78eff0ea4b",
             "type": "tabs",
+            "dimension": 66.54411764705883,
             "children": [
               {
                 "id": "bc28851aa39f566c",
@@ -153,6 +154,7 @@
           {
             "id": "9700f333d7681788",
             "type": "tabs",
+            "dimension": 33.455882352941174,
             "children": [
               {
                 "id": "079a868e5971f5de",
@@ -160,7 +162,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "공부/공부 자료/Game Project/Team Project/Trick or picture/무제 파일.md",
+                    "file": "공부/공부 자료/Game Project/Team Project/Trick or picture/Trick or picture.md",
                     "mode": "source",
                     "source": false
                   }
@@ -326,7 +328,7 @@
   },
   "active": "d8b006f623bcf067",
   "lastOpenFiles": [
-    "공부/공부 자료/Game Project/Team Project/Trick or picture/무제 파일.md",
+    "공부/공부 자료/Game Project/Team Project/Trick or picture/Trick or picture.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/A팀 계획서.txt",
     "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
