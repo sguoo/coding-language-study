@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "프로그래밍/옵시디언.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "프로그래밍/옵시디언.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "프로그래밍/옵시디언.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/C.md"
+                "file": "프로그래밍/옵시디언.md"
               }
             }
           },
@@ -293,6 +293,8 @@
   },
   "active": "9b9b051c596fc9f3",
   "lastOpenFiles": [
+    "공부/곱셈공식.md",
+    "프로그래밍/C.md",
     "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
     "공부/공부 자료/Game Project/project/동방요습격.md",
     "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
@@ -309,7 +311,6 @@
     "공부/재학생 컴퍼런스/코틀린.md",
     "공부/공부.md",
     "공부/재학생 컴퍼런스",
-    "프로그래밍/C.md",
     "프로그래밍/pm.md",
     "공부/사회.md",
     "공부/공부 자료/Game Project/Team Project/실낙원 프로젝트-1",
@@ -326,7 +327,6 @@
     "프로그래밍/옵시디언.md",
     "공부/과학.md",
     "Pasted image 20240626103013.png",
-    "프로그래밍/프로그래밍 자료/c struture.md",
     "기업 질문",
     "공부/공부 자료/Game Project/Team Project/foundation",
     "공부/공부 자료/Game Project/Team Project/Game",
