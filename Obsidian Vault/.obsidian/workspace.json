@@ -105,9 +105,11 @@
             "id": "9b9b051c596fc9f3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md"
+                "file": "프로그래밍/C.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -208,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
+                "file": "프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
+                "file": "프로그래밍/C.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md"
+                "file": "프로그래밍/C.md"
               }
             }
           },
@@ -291,6 +293,7 @@
   },
   "active": "9b9b051c596fc9f3",
   "lastOpenFiles": [
+    "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
     "공부/공부 자료/Game Project/project/동방요습격.md",
     "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
     "Excalidraw/Excalidraw.md",
@@ -300,7 +303,6 @@
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225111_200.jpg",
     "공부/공부 자료/Game Project/project/Levatein 4.gif",
     "공부/공부 자료/Game Project/Team Project/실낙원 프로젝트-1/무제 파일.md",
-    "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
     "공부/재학생 컴퍼런스/웹 취약성.md",
     "공부/재학생 컴퍼런스/사업가.md",
     "프로그래밍/ruby.md",
