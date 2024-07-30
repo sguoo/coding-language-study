@@ -37,6 +37,12 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device=width, Initial-scale=1.8">
 	<title>글자색 바꾸기</title>
-	<st	
+	<style>
+		body {text-allign: center}
+	</style>	
 </head>
+<body>
+	<h1 id="textlog>"
+</body>
+</html>
 ```
