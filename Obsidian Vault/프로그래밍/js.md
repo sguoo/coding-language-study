@@ -28,21 +28,3 @@
 
 - 자바스크립트 소스를 별도의 파일(\*.js)로 저장한 후 웹 문서에 연결
 
-## 웹브라우저에서 스크립트를 해석하는 과정
-
-```html
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device=width, Initial-scale=1.8">
-	<title>글자색 바꾸기</title>
-	<style>
-		body {text-allign: center}
-	</style>	
-</head>
-<body>
-	<h1 id="textlog>"
-</body>
-</html>
-```
