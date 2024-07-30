@@ -23,7 +23,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "책 정리, 독후감/모비딕.md",
+                "file": "프로그래밍/css.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92206d06db81fb3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로그래밍/js.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md",
+                "file": "프로그래밍/js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md",
+                "file": "프로그래밍/js.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md"
+                "file": "프로그래밍/js.md"
               }
             }
           },
@@ -207,16 +219,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7062810f45bff2e",
+  "active": "92206d06db81fb3d",
   "lastOpenFiles": [
+    "프로그래밍/css.md",
+    "프로그래밍/js.md",
+    "책 정리, 독후감/모비딕.md",
+    "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md",
     "프로그래밍/프로그래밍 자료/c funtion.md",
     "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
-    "책 정리, 독후감/모비딕.md",
     "책 정리, 독후감/그리고 아무도 없었다.md",
     "프로그래밍/유니티.md",
     "프로그래밍/프로그래밍.md",
     "프로그래밍/pm.md",
-    "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/Trick or picture.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/A팀 계획서.txt",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/Load Map 1.md",
@@ -241,9 +255,7 @@
     "공부/재학생 컴퍼런스/코틀린.md",
     "공부/공부.md",
     "공부/재학생 컴퍼런스",
-    "공부/사회.md",
     "공부/공부 자료/Game Project/Team Project/실낙원 프로젝트-1",
-    "공부/공부 자료/Game Project/project/레바테인.md",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "Pasted image 20240626103013.png",
     "기업 질문",
