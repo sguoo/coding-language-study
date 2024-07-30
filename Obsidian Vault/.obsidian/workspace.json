@@ -69,14 +69,16 @@
             "id": "f7062810f45bff2e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md"
+                "file": "프로그래밍/Scala.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -231,17 +233,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe0e32345f761d92",
+  "active": "f7062810f45bff2e",
   "lastOpenFiles": [
+    "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md",
+    "프로그래밍/Scala.md",
     "프로그래밍/옵시디언.md",
     "프로그래밍/ruby.md",
-    "프로그래밍/Scala.md",
     "프로그래밍/프로그래밍 공부.md",
     "프로그래밍/js.md",
     "프로그래밍/Lua.md",
     "프로그래밍/css.md",
     "책 정리, 독후감/모비딕.md",
-    "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md",
     "프로그래밍/프로그래밍 자료/c funtion.md",
     "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
     "책 정리, 독후감/그리고 아무도 없었다.md",
