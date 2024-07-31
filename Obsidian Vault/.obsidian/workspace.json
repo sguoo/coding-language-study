@@ -76,9 +76,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ad2d656c7d37daa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로그래밍/자료구조.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -152,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/Scala.md",
+                "file": "프로그래밍/자료구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/Scala.md",
+                "file": "프로그래밍/자료구조.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/Scala.md"
+                "file": "프로그래밍/자료구조.md"
               }
             }
           },
@@ -233,10 +245,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7062810f45bff2e",
+  "active": "9ad2d656c7d37daa",
   "lastOpenFiles": [
-    "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md",
     "프로그래밍/Scala.md",
+    "프로그래밍/자료구조.md",
+    "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md",
     "프로그래밍/옵시디언.md",
     "프로그래밍/ruby.md",
     "프로그래밍/프로그래밍 공부.md",
@@ -267,7 +280,6 @@
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224634_175.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225111_200.jpg",
     "공부/공부 자료/Game Project/project/Levatein 4.gif",
-    "공부/재학생 컴퍼런스/웹 취약성.md",
     "공부/재학생 컴퍼런스",
     "공부/공부 자료/Game Project/Team Project/실낙원 프로젝트-1",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
