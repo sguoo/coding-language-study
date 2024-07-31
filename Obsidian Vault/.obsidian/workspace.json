@@ -88,9 +88,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "597a7adbea6afc12",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-31 11.50.21.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -164,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/자료구조.md",
+                "file": "Excalidraw/Drawing 2024-07-31 11.50.21.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/자료구조.md",
+                "file": "Excalidraw/Drawing 2024-07-31 11.50.21.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/자료구조.md"
+                "file": "Excalidraw/Drawing 2024-07-31 11.50.21.excalidraw.md"
               }
             }
           },
@@ -245,10 +255,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ad2d656c7d37daa",
+  "active": "597a7adbea6afc12",
   "lastOpenFiles": [
-    "프로그래밍/Scala.md",
     "프로그래밍/자료구조.md",
+    "Excalidraw/Drawing 2024-07-31 11.50.21.excalidraw.md",
+    "프로그래밍/Scala.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md",
     "프로그래밍/옵시디언.md",
     "프로그래밍/ruby.md",
@@ -275,7 +286,6 @@
     "공부/공부 자료/Game Project/project/동방요습격.md",
     "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
     "Excalidraw/Excalidraw.md",
-    "공부/태양 활동의 변화.md",
     "공부/공부 자료/Pasted image 20240509082840.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224634_175.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225111_200.jpg",
