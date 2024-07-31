@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "da039b2ee865a069",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-31 13.34.54.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/자료구조.md",
+                "file": "Excalidraw/Drawing 2024-07-31 13.34.54.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/자료구조.md",
+                "file": "Excalidraw/Drawing 2024-07-31 13.34.54.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/자료구조.md"
+                "file": "Excalidraw/Drawing 2024-07-31 13.34.54.excalidraw.md"
               }
             }
           },
@@ -174,14 +185,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f175057c8fe0deb1",
+  "active": "da039b2ee865a069",
   "lastOpenFiles": [
+    "프로그래밍/자료구조.md",
+    "Excalidraw/Drawing 2024-07-31 13.34.54.excalidraw.md",
     "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
     "프로그래밍/css.md",
     "프로그래밍/js.md",
     "프로그래밍/Scala.md",
     "프로그래밍/ruby.md",
-    "프로그래밍/자료구조.md",
     "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
     "Excalidraw/Drawing 2024-07-31 13.33.20.excalidraw.md",
     "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
@@ -204,7 +216,6 @@
     "공부/공부 자료/Game Project/Team Project/Trick or picture",
     "공부/공부 자료/Game Project/project/캐릭터.md",
     "공부/곱셈공식.md",
-    "프로그래밍/C.md",
     "공부/공부 자료/Pasted image 20240509082840.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224634_175.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225111_200.jpg",
