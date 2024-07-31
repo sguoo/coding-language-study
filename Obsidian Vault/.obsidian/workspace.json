@@ -93,9 +93,11 @@
             "id": "597a7adbea6afc12",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-31 11.50.21.excalidraw.md"
+                "file": "프로그래밍/자료구조.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -174,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-31 11.50.21.excalidraw.md",
+                "file": "프로그래밍/자료구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-31 11.50.21.excalidraw.md",
+                "file": "프로그래밍/자료구조.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-31 11.50.21.excalidraw.md"
+                "file": "프로그래밍/자료구조.md"
               }
             }
           },
@@ -257,12 +259,13 @@
   },
   "active": "597a7adbea6afc12",
   "lastOpenFiles": [
-    "프로그래밍/자료구조.md",
-    "Excalidraw/Drawing 2024-07-31 11.50.21.excalidraw.md",
     "프로그래밍/Scala.md",
+    "프로그래밍/ruby.md",
+    "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
+    "프로그래밍/프로그래밍 자료/jaryogujo one.md",
+    "프로그래밍/자료구조.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md",
     "프로그래밍/옵시디언.md",
-    "프로그래밍/ruby.md",
     "프로그래밍/프로그래밍 공부.md",
     "프로그래밍/js.md",
     "프로그래밍/Lua.md",
@@ -285,7 +288,6 @@
     "프로그래밍/C.md",
     "공부/공부 자료/Game Project/project/동방요습격.md",
     "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
-    "Excalidraw/Excalidraw.md",
     "공부/공부 자료/Pasted image 20240509082840.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224634_175.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225111_200.jpg",
