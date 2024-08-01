@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/C.md",
-                "mode": "source",
+                "file": "프로그래밍/자료구조.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "프로그래밍/자료구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "프로그래밍/자료구조.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/C.md"
+                "file": "프로그래밍/자료구조.md"
               }
             }
           },
@@ -189,11 +189,11 @@
   },
   "active": "da039b2ee865a069",
   "lastOpenFiles": [
+    "프로그래밍/C.md",
     "프로그래밍/ruby.md",
     "프로그래밍/Python.md",
     "프로그래밍/Lua.md",
     "프로그래밍/js.md",
-    "프로그래밍/C.md",
     "프로그래밍/css.md",
     "Excalidraw/Drawing 2024-07-31 13.34.54.excalidraw.md",
     "프로그래밍/자료구조.md",
