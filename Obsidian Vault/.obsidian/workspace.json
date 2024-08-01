@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/js.md",
-                "mode": "preview",
+                "file": "프로그래밍/C.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/js.md",
+                "file": "프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/js.md",
+                "file": "프로그래밍/C.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/js.md"
+                "file": "프로그래밍/C.md"
               }
             }
           },
@@ -189,6 +189,15 @@
   },
   "active": "da039b2ee865a069",
   "lastOpenFiles": [
+    "프로그래밍/프로그래밍 자료/Cascading style sheet 1.md",
+    "프로그래밍/프로그래밍 자료/C pointer3.md",
+    "프로그래밍/프로그래밍 자료/C pointer vaeyul.md",
+    "프로그래밍/프로그래밍 자료/c funtion 3.md",
+    "프로그래밍/프로그래밍 자료/c funtion 1.md",
+    "프로그래밍/프로그래밍 자료/c funtion.md",
+    "프로그래밍/Lua.md",
+    "프로그래밍/js.md",
+    "프로그래밍/pm.md",
     "프로그래밍/프로그래밍.md",
     "프로그래밍/프로그래밍 공부.md",
     "프로그래밍/Scala.md",
@@ -196,8 +205,6 @@
     "프로그래밍/Python.md",
     "프로그래밍/자료구조.md",
     "프로그래밍/C.md",
-    "프로그래밍/Lua.md",
-    "프로그래밍/js.md",
     "프로그래밍/css.md",
     "Excalidraw/Drawing 2024-07-31 13.34.54.excalidraw.md",
     "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
@@ -208,15 +215,8 @@
     "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md",
     "프로그래밍/옵시디언.md",
     "책 정리, 독후감/모비딕.md",
-    "프로그래밍/프로그래밍 자료/c funtion.md",
-    "책 정리, 독후감/그리고 아무도 없었다.md",
-    "프로그래밍/유니티.md",
-    "프로그래밍/pm.md",
-    "공부/공부 자료/Game Project/Team Project/Trick or picture/Trick or picture.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/A팀 계획서.txt",
-    "공부/공부 자료/Game Project/Team Project/Trick or picture/Load Map 1.md",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509224536_097.png",
-    "공부/공부 자료/Game Project/Team Project/실낙원 프로젝트-1/무제 파일.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture",
     "공부/공부 자료/Pasted image 20240509082840.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224634_175.png",
