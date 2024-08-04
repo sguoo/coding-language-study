@@ -4,33 +4,60 @@
     "type": "split",
     "children": [
       {
-        "id": "1bc210babb5a0ac3",
-        "type": "tabs",
+        "id": "b1b191f5a2285b72",
+        "type": "split",
         "children": [
           {
-            "id": "f175057c8fe0deb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프로그래밍/자료구조.md",
-                "mode": "source",
-                "source": false
+            "id": "1bc210babb5a0ac3",
+            "type": "tabs",
+            "dimension": 60.90686274509803,
+            "children": [
+              {
+                "id": "f175057c8fe0deb1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "프로그래밍/자료구조.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "da039b2ee865a069",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md"
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "da039b2ee865a069",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md"
+            "id": "2ceaa2ce7a11d1e2",
+            "type": "tabs",
+            "dimension": 39.09313725490196,
+            "children": [
+              {
+                "id": "41bd32e77ad88b03",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "공부/공부 자료/Game Project/Team Project/Trick or picture/Trick or picture.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -187,6 +214,8 @@
   },
   "active": "da039b2ee865a069",
   "lastOpenFiles": [
+    "공부/공부 자료/Game Project/Team Project/Trick or picture/Trick or picture.md",
+    "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md",
     "프로그래밍/자료구조.md",
     "프로그래밍/유니티.md",
     "프로그래밍/js.md",
@@ -211,8 +240,6 @@
     "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
     "Excalidraw/Drawing 2024-06-13 19.00.10.excalidraw.md",
     "Excalidraw/Drawing 2024-07-31 13.33.20.excalidraw.md",
-    "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
-    "프로그래밍/프로그래밍 자료/jaryogujo one.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/A팀 계획서.txt",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509224536_097.png",
     "공부/공부 자료/Game Project/Team Project/Trick or picture",
