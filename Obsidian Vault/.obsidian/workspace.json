@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/자료구조.md",
+                "file": "프로그래밍/C.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/자료구조.md",
+                "file": "프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/자료구조.md",
+                "file": "프로그래밍/C.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/자료구조.md"
+                "file": "프로그래밍/C.md"
               }
             }
           },
@@ -189,9 +189,9 @@
   },
   "active": "da039b2ee865a069",
   "lastOpenFiles": [
+    "프로그래밍/자료구조.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/Trick or picture.md",
-    "프로그래밍/자료구조.md",
     "프로그래밍/유니티.md",
     "프로그래밍/js.md",
     "프로그래밍/Python.md",
