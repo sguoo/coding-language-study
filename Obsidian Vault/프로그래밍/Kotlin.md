@@ -21,5 +21,11 @@
 ## 패키지
 
 ```kotlin
-package com
+package com.acaroom //패키지 이름의 예
 ```
+```kotlin
+package com.acroom.net.upload // 네트워크 업로드 기능을 가진 코틀린 파일에 적은 패키지 이름
+```
+
+
+
