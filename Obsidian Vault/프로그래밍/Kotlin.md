@@ -6,4 +6,5 @@
 - Koltlin/Native: LLVM 컴파일러를 이용하여 여러플랫폼을 타깃으로하는 애플리케이션을 만들수 있다
 - LLVM컴파일러[^2]를 통해 안드로이드와 iOS에서 작동하는 애플리케이션 작동 가능
 - 임베디드, IoT<sup>Internet of Things</sup>등을 타겟으로 한 애플리케이션 개발 가능
-[^1]: JVM<sup>Java Virtual Ma</sup>
+[^1]: JVM<sup>Java Virtual Machine, 자바 가상 머신</sup>  OS에 종속받지 않고 CPU가 JAVA를 인식, 실행할 수 있게 하는 가상 컴퓨터
+[^2]: LLVM은 ㅁ
