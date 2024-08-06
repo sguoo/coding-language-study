@@ -29,10 +29,15 @@ package com.acroom.net.upload // 네트워크 업로드 기능을 가진 코틀�
 
 ### 클래스 추가하기
 
+`com.example.edu`패키지에 Person class 추가하기
 ```kotlin
 package com.example.edu
 
 class Person(val name: String, val age: Int)
 ```
 
+`default`패키지에 Person class 추가하기
+```kotlin
+class Person(val name: String, val age: Int)
+```
 
