@@ -27,5 +27,12 @@ package com.acaroom //패키지 이름의 예
 package com.acroom.net.upload // 네트워크 업로드 기능을 가진 코틀린 파일에 적은 패키지 이름
 ```
 
+### 클래스 추가하기
+
+```kotlin
+package com.example.edu
+
+class Person(val name: String, val age: Int)
+```
 
 
