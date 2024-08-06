@@ -60,4 +60,8 @@ import com.example.edu.Person
 
 - 변수는 val, var라는 키워드를 사용하여 선언 할 수 있다
 - val키워드는 최초로 지정한 변수의 값으로 초기화되고 Read-Only 변수가 된다
-- var로 변수를 선언함
+- var로 변수를 선언하면 초깃값이 있더라도 값을 바꿀 수 있다
+
+#### 변수를 선언 하는 방법
+`val username: String = "Kildong`
+
