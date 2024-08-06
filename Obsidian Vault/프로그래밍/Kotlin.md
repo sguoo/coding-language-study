@@ -41,3 +41,10 @@ class Person(val name: String, val age: Int)
 class Person(val name: String, val age: Int)
 ```
 
+### 클래스 가져오기
+
+`math 클래스` 사용법
+```kotlin
+import kotlin.math.PI
+import kitl
+```
