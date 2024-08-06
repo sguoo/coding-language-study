@@ -46,5 +46,13 @@ class Person(val name: String, val age: Int)
 `math 클래스` 사용법
 ```kotlin
 import kotlin.math.PI
-import kitl
+import kotlin.math.abs //전부 가져오려면 import kotlin.math.* 사용
 ```
+
+사용자 클래스 가져오기
+```kotlin
+import com.example.edu.Person
+```
+
+## 변수와 자료형
+
