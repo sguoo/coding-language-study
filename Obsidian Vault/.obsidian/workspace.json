@@ -66,9 +66,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3f7d90b0f1617f4d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-07 13.41.55.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/자료구조.md",
+                "file": "Excalidraw/Drawing 2024-08-07 13.41.55.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/자료구조.md",
+                "file": "Excalidraw/Drawing 2024-08-07 13.41.55.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/자료구조.md"
+                "file": "Excalidraw/Drawing 2024-08-07 13.41.55.excalidraw.md"
               }
             }
           },
@@ -223,8 +233,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "833a25ea79e4a555",
+  "active": "3f7d90b0f1617f4d",
   "lastOpenFiles": [
+    "프로그래밍/자료구조.md",
+    "Excalidraw/Drawing 2024-08-07 13.41.55.excalidraw.md",
     "프로그래밍/Kotlin.md",
     "프로그래밍/css.md",
     "프로그래밍/js.md",
@@ -232,7 +244,6 @@
     "프로그래밍/Lua.md",
     "프로그래밍/프로그래밍 자료/Kotlin 1.md",
     "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
-    "프로그래밍/자료구조.md",
     "프로그래밍/프로그래밍 공부.md",
     "프로그래밍/옵시디언.md",
     "프로그래밍/C.md",
@@ -250,7 +261,6 @@
     "프로그래밍/프로그래밍 자료/c funtion.md",
     "프로그래밍/pm.md",
     "프로그래밍/프로그래밍.md",
-    "프로그래밍/ruby.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/A팀 계획서.txt",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509224536_097.png",
     "공부/공부 자료/Game Project/Team Project/Trick or picture",
