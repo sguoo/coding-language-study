@@ -67,9 +67,14 @@ import com.example.edu.Person
 
 ### 자료형 변환
 - 코틀린에서는 자료형이 다르면 변환 함수를 사용해야한다
-
 ```kotlin
 val a: Int = 1 //Int형 변수 a를 선언하고 1을 할당
 val b: Double = a //자료형 불일치 오류 발생
-val c: Int = 1.1 //자료형 불이
+val c: Int = 1.1 //자료형 불일치 오류 발생
 ```
+
+- int형 변수 a에 double형 으로 변환하는 메서드 사용
+```kotlin
+val b: Double = a.toDouble() //변환 메서드 사용
+```
+- 자료형이 
