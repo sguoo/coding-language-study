@@ -86,4 +86,6 @@ document.write(birthYear + "년에 태어난 사람의 나이는" + age + "세�
 ### 문자열
 - 문자열<sup>string</sup>은 작은 따옴표(' ')나 큰 따옴표 (" ")로 묶은 데이터를 의미한다
 - 숫자도 감싸면 문자열로 인식된다
-- 
+### 논리형
+- 논리형은 불린<sup>boolean</sup>유형이라고도 한다
+- 참<sup>true</sup>과 거짓<sup>false</sup>으로 나뉜다
