@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/자료구조.md",
+                "file": "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
                 "mode": "preview",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/자료구조.md",
+                "file": "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/자료구조.md",
+                "file": "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/자료구조.md"
+                "file": "프로그래밍/프로그래밍 자료/프로그래밍 자료.md"
               }
             }
           },
@@ -213,12 +213,12 @@
   },
   "active": "221253d915fda174",
   "lastOpenFiles": [
+    "프로그래밍/자료구조.md",
     "프로그래밍/프로그래밍 공부.md",
     "프로그래밍/프로그래밍 자료/Drawing 2024-08-06 14.17.41.excalidraw.md",
     "프로그래밍/Kotlin.md",
     "프로그래밍/옵시디언.md",
     "프로그래밍/Python.md",
-    "프로그래밍/자료구조.md",
     "프로그래밍/C.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/Trick or picture.md",
