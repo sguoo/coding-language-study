@@ -63,5 +63,4 @@ import com.example.edu.Person
 - var로 변수를 선언하면 초깃값이 있더라도 값을 바꿀 수 있다
 
 #### 변수를 선언 하는 방법
-`val username: String = "Kildong`
-
+![[Kotlin 1]]

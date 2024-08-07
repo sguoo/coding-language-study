@@ -47,9 +47,11 @@
             "id": "221253d915fda174",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "프로그래밍/프로그래밍 자료/Kotlin 1.md"
+                "file": "프로그래밍/Kotlin.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -128,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/프로그래밍 자료/Kotlin 1.md",
+                "file": "프로그래밍/Kotlin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/프로그래밍 자료/Kotlin 1.md",
+                "file": "프로그래밍/Kotlin.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/프로그래밍 자료/Kotlin 1.md"
+                "file": "프로그래밍/Kotlin.md"
               }
             }
           },
@@ -211,18 +213,20 @@
   },
   "active": "221253d915fda174",
   "lastOpenFiles": [
+    "프로그래밍/css.md",
+    "프로그래밍/js.md",
+    "프로그래밍/Python.md",
+    "프로그래밍/Lua.md",
+    "프로그래밍/프로그래밍 자료/Kotlin 1.md",
     "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
     "프로그래밍/자료구조.md",
     "프로그래밍/프로그래밍 공부.md",
-    "프로그래밍/프로그래밍 자료/Kotlin 1.md",
     "프로그래밍/Kotlin.md",
     "프로그래밍/옵시디언.md",
-    "프로그래밍/Python.md",
     "프로그래밍/C.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/Trick or picture.md",
     "프로그래밍/유니티.md",
-    "프로그래밍/js.md",
     "프로그래밍/Scala.md",
     "Excalidraw/Drawing 2024-07-31 13.34.54.excalidraw.md",
     "Excalidraw/Excalidraw.md",
@@ -232,11 +236,9 @@
     "프로그래밍/프로그래밍 자료/c funtion 3.md",
     "프로그래밍/프로그래밍 자료/c funtion 1.md",
     "프로그래밍/프로그래밍 자료/c funtion.md",
-    "프로그래밍/Lua.md",
     "프로그래밍/pm.md",
     "프로그래밍/프로그래밍.md",
     "프로그래밍/ruby.md",
-    "프로그래밍/css.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/A팀 계획서.txt",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509224536_097.png",
     "공부/공부 자료/Game Project/Team Project/Trick or picture",
