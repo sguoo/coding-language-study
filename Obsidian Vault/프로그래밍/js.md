@@ -135,4 +135,6 @@ document.write (birthYear + "년에 태어난 사람의 나이는 " + age + "세
 - 비교 연산자는 숫자 뿐만이 안니 문자열도 비교 할 수 있다
 ### 논리 연산자
 - 논리연산자는 불리언<sup>boolean</sup> 연산자로고도 하며 true, false를 처리하는 연산자다
-- true, false 
+- true, false 자체가 피연산자인 연산자다
+- `||`, `&&`. `!`등이 있다
+## 조건문
