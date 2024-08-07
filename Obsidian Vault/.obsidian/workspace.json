@@ -85,8 +85,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/ruby.md",
-                "mode": "preview",
+                "file": "프로그래밍/js.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/ruby.md",
+                "file": "프로그래밍/js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/ruby.md",
+                "file": "프로그래밍/js.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/ruby.md"
+                "file": "프로그래밍/js.md"
               }
             }
           },
@@ -249,6 +249,7 @@
   },
   "active": "135e070458f8b4c3",
   "lastOpenFiles": [
+    "프로그래밍/ruby.md",
     "프로그래밍/Scala.md",
     "프로그래밍/css.md",
     "프로그래밍/pm.md",
@@ -274,7 +275,6 @@
     "프로그래밍/프로그래밍 자료/Cascading style sheet 1.md",
     "프로그래밍/프로그래밍 자료/C pointer3.md",
     "프로그래밍/프로그래밍 자료/C pointer vaeyul.md",
-    "프로그래밍/프로그래밍 자료/c funtion 3.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/A팀 계획서.txt",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509224536_097.png",
     "공부/공부 자료/Game Project/Team Project/Trick or picture",
