@@ -68,5 +68,11 @@
 `기본형 var 변수명`
 - 나이 계산 예제
 ```js
-var current 
+var currentYear = 2021;
+var birthYear;
+var age;
+
+birthYear = prompt ("태어난 연도를 입력하세요. (YYYY)", "");
+age = currentYear - birthYear + 1;
+document.write(current)
 ```
