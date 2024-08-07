@@ -64,3 +64,6 @@ import com.example.edu.Person
 
 #### 변수를 선언 하는 방법
 ![[Kotlin 1]]
+
+### 자료형 변환
+- 코틀린에서는 자료형이 다르면
