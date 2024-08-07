@@ -78,3 +78,8 @@ document.write(currentYear + "년 현재<br>")
 document.write(birthYear + "년에 태어난 사람의 나이는" + age + "세입니다.")
 ```
 
+## 자료형
+
+### 숫자형
+- 자바스크립트는 숫자형<sup>number</sup>라는 Int가 아닌 자료형을 사용한다
+- 정수와 실수로 구분된다
