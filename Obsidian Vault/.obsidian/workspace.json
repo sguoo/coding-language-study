@@ -47,11 +47,9 @@
             "id": "221253d915fda174",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
-                "mode": "preview",
-                "source": false
+                "file": "프로그래밍/프로그래밍 자료/Kotlin 1.md"
               }
             }
           }
@@ -130,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
+                "file": "프로그래밍/프로그래밍 자료/Kotlin 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
+                "file": "프로그래밍/프로그래밍 자료/Kotlin 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/프로그래밍 자료/프로그래밍 자료.md"
+                "file": "프로그래밍/프로그래밍 자료/Kotlin 1.md"
               }
             }
           },
@@ -213,9 +211,10 @@
   },
   "active": "221253d915fda174",
   "lastOpenFiles": [
+    "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
     "프로그래밍/자료구조.md",
     "프로그래밍/프로그래밍 공부.md",
-    "프로그래밍/프로그래밍 자료/Drawing 2024-08-06 14.17.41.excalidraw.md",
+    "프로그래밍/프로그래밍 자료/Kotlin 1.md",
     "프로그래밍/Kotlin.md",
     "프로그래밍/옵시디언.md",
     "프로그래밍/Python.md",
@@ -238,7 +237,6 @@
     "프로그래밍/프로그래밍.md",
     "프로그래밍/ruby.md",
     "프로그래밍/css.md",
-    "공부/공부 자료/Game Project/Team Project/foundation/Load Map.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/A팀 계획서.txt",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509224536_097.png",
     "공부/공부 자료/Game Project/Team Project/Trick or picture",
