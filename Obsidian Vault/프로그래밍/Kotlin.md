@@ -79,5 +79,5 @@ val b: Double = a.toDouble() //변환 메서드 사용
 ```
 - 자료형이 다른 값을 연산하면 아래와 같이 된다
 ```kotlin
-val result = 1L + 3 //Long형 + Int형 → result는 Long형
+val result = 1L + 3 //Long형 + Int형 → result는 Long
 ```
