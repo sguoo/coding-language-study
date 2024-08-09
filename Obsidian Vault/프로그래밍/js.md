@@ -172,6 +172,12 @@ else {
 ```js
 switch(변수){
 	case 조건:
-	brea
+		break;
+}
+```
+### for문
+```js
+for(조건문, 조건, 증감식) {
+	실행할 명령
 }
 ```
