@@ -163,10 +163,14 @@ else {
 
 #### And 연산자
 - 피연산자 2개 중에서 false가 하나라도 있으면 결괏값은 false
-<table>
-<tr>
-<td>
-weq
-</td>
-</tr>
-</table>
+#### or 연산자
+- 피연산자 2개 중에서 true가 하나라도 있으면 결괏값은 true
+#### Not 연산자
+- 결괏값을 반대로
+### switch문
+- 처리할 명령이 많을 경우 switch문이 편리
+```js
+switch(변수){
+	case  
+}
+```
