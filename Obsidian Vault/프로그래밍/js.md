@@ -138,3 +138,5 @@ document.write (birthYear + "년에 태어난 사람의 나이는 " + age + "세
 - true, false 자체가 피연산자인 연산자다
 - `||`, `&&`. `!`등이 있다
 ## 조건문
+### if문과 if~else문
+- 피연산자 2개의 값을 비교해서 ㅅ겯sk ㄹ민ㄷ
