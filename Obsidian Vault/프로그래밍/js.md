@@ -171,6 +171,7 @@ else {
 - 처리할 명령이 많을 경우 switch문이 편리
 ```js
 switch(변수){
-	case  
+	case 조건:
+	brea
 }
 ```
