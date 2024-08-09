@@ -139,4 +139,9 @@ document.write (birthYear + "년에 태어난 사람의 나이는 " + age + "세
 - `||`, `&&`. `!`등이 있다
 ## 조건문
 ### if문과 if~else문
-- 피연산자 2개의 값을 비교해서 ㅅ겯sk ㄹ민ㄷ
+- 피연산자 2개의 값을 비교해서 true나 false로 결괏값 반환
+- 하나의 if~else문 안에 다른 if~else문을 넣을 수 있다
+```js
+if (조건) {
+	true일때 
+}
