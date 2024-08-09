@@ -143,5 +143,14 @@ document.write (birthYear + "년에 태어난 사람의 나이는 " + age + "세
 - 하나의 if~else문 안에 다른 if~else문을 넣을 수 있다
 ```js
 if (조건) {
-	true일때 
+	결괏값이 true일때 실행할 명령
 }
+```
+```js
+if (조건) {
+	결괏값이 true일때 실행할 명령
+}
+else {
+	결괏값이 false일때 실행할 명령
+}
+```
