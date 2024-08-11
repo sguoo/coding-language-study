@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/프로그래밍 공부.md",
+                "file": "프로그래밍/css.md",
                 "mode": "preview",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/프로그래밍 공부.md",
+                "file": "프로그래밍/css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/프로그래밍 공부.md",
+                "file": "프로그래밍/css.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/프로그래밍 공부.md"
+                "file": "프로그래밍/css.md"
               }
             }
           },
@@ -247,6 +247,7 @@
   },
   "active": "3f7d90b0f1617f4d",
   "lastOpenFiles": [
+    "프로그래밍/프로그래밍 공부.md",
     "프로그래밍/자료구조.md",
     "프로그래밍/프로그래밍 자료/jaryogujo one.md",
     "프로그래밍/js.md",
@@ -265,7 +266,6 @@
     "프로그래밍/프로그래밍 자료/gujoche.md",
     "프로그래밍/프로그래밍 자료/Kotlin 1.md",
     "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
-    "프로그래밍/프로그래밍 공부.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/Trick or picture.md",
     "프로그래밍/유니티.md",
