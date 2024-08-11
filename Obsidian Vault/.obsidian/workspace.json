@@ -73,8 +73,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/자료구조.md",
-                "mode": "source",
+                "file": "프로그래밍/프로그래밍 공부.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -83,16 +83,14 @@
             "id": "135e070458f8b4c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "프로그래밍/자료구조.md",
-                "mode": "preview",
-                "source": false
+                "file": "프로그래밍/프로그래밍 자료/jaryogujo one.md"
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -166,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/자료구조.md",
+                "file": "프로그래밍/프로그래밍 공부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/자료구조.md",
+                "file": "프로그래밍/프로그래밍 공부.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/자료구조.md"
+                "file": "프로그래밍/프로그래밍 공부.md"
               }
             }
           },
@@ -247,8 +245,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "135e070458f8b4c3",
+  "active": "3f7d90b0f1617f4d",
   "lastOpenFiles": [
+    "프로그래밍/자료구조.md",
+    "프로그래밍/프로그래밍 자료/jaryogujo one.md",
     "프로그래밍/js.md",
     "프로그래밍/Lua.md",
     "프로그래밍/css.md",
@@ -260,7 +260,6 @@
     "프로그래밍/프로그래밍.md",
     "프로그래밍/옵시디언.md",
     "프로그래밍/정리해둔거.md",
-    "프로그래밍/자료구조.md",
     "프로그래밍/Kotlin.md",
     "프로그래밍/프로그래밍 자료/jaryogujo.md",
     "프로그래밍/프로그래밍 자료/gujoche.md",
@@ -274,7 +273,6 @@
     "Excalidraw/Excalidraw.md",
     "프로그래밍/프로그래밍 자료/Cascading style sheet 1.md",
     "프로그래밍/프로그래밍 자료/C pointer3.md",
-    "프로그래밍/프로그래밍 자료/C pointer vaeyul.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/A팀 계획서.txt",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509224536_097.png",
     "공부/공부 자료/Game Project/Team Project/Trick or picture",
