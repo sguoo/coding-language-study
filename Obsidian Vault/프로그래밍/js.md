@@ -203,3 +203,28 @@ do{
 }while(조건)
 ```
 - 실행을 무조건 한 번 한다
+
+- 4의 배수인지 판단하는 예제
+```html
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1 id="heading">자바스크립트</h1>
+    <p id="text">위 텍스트를 클릭해 보세요</p>
+    <script>
+      var userNumber = parseInt("숫자를 입력하시오.");
+  
+      if (userNumber != null) {
+        if (userNumber % 4 === 0)
+          document.write(userNumber + "는 4의 배수입니다");
+        else document.write(userNumber + "는 4의 배수가 아닙니다");
+      }
+    </script>
+  </body>
+</html>
+```
