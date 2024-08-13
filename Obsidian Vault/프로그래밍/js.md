@@ -246,4 +246,11 @@ function addNumber(a, b) {
 - 스크립트 소스 전체에서 쓸 수 있는걸 전역 변수 또는 글로벌 변수<sup>global variable</sup>라고 한다
 - 함수 안에 변수를 선언하면 지역변수가 된다
 ### var와 호이스팅
-- 
+- 선언과 할당을 분리해서 선언 부분을 위쪽으로 끌어 올리는것
+```js
+var x = 10;
+function displayNumber() {
+	console.log("x is " + x);
+	c
+}}
+```
