@@ -250,7 +250,10 @@ function addNumber(a, b) {
 ```js
 var x = 10;
 function displayNumber() {
-	console.log("x is " + x);
-	c
-}}
+	console.log("x is " + x); //x is 10
+	console.log("y is " + y); //y is undefined
+	var y = 20;
+}
+displayNumber()
 ```
+- undefined가 뜨는 이유는 
