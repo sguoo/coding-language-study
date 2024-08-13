@@ -256,4 +256,6 @@ function displayNumber() {
 }
 displayNumber()
 ```
-- undefined가 뜨는 이유는 
+- undefined가 뜨는 이유는 할당이 아닌, 선언만 가져오기 때문에
+- var를 사용하지 않는 이유
+### 변수의 재선언과 재할당
