@@ -71,11 +71,9 @@
             "id": "3f7d90b0f1617f4d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "프로그래밍/C.md",
-                "mode": "preview",
-                "source": false
+                "file": "프로그래밍/프로그래밍 자료/gujoche.md"
               }
             }
           },
@@ -164,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "프로그래밍/프로그래밍 자료/gujoche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "프로그래밍/프로그래밍 자료/gujoche.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/C.md"
+                "file": "프로그래밍/프로그래밍 자료/gujoche.md"
               }
             }
           },
@@ -247,49 +245,49 @@
   },
   "active": "3f7d90b0f1617f4d",
   "lastOpenFiles": [
+    "프로그래밍/프로그래밍 자료/jaryogujo.md",
+    "프로그래밍/프로그래밍 자료/jaryogujo one.md",
+    "프로그래밍/프로그래밍 자료/Kotlin 1.md",
+    "프로그래밍/프로그래밍 자료/lambda def bigyo.md",
+    "프로그래밍/프로그래밍 자료/Pointer 2chawon kgi.md",
+    "프로그래밍/프로그래밍 자료/Python Funtion.md",
+    "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
+    "프로그래밍/프로그래밍 자료/c funtion 3.md",
+    "프로그래밍/프로그래밍 자료/c funtion.md",
+    "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
+    "책 정리, 독후감/그리고 아무도 없었다.md",
+    "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
+    "공부/공부 자료/Game Project/Team Project/Game/Game project load map.md",
+    "공부/공부 자료/Game Project/Team Project/Trick or picture/Trick or picture.md",
+    "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md",
+    "공부/공부 자료/Game Project/project/캐릭터.md",
+    "공부/공부 자료/Game Project/project/Levatein Default.gif",
+    "공부/공부 자료/Game Project/project/Levatein 4.gif",
+    "공부/공부 자료/Game Project/project/프로젝트.md",
+    "프로그래밍/프로그래밍 자료/c funtion 4.md",
+    "프로그래밍/프로그래밍 자료/C funtion 5.md",
+    "프로그래밍/프로그래밍 자료/gujoche.md",
+    "프로그래밍/프로그래밍 자료/css yungul selector.md",
+    "프로그래밍/프로그래밍 자료/Cascading style sheet 1.md",
+    "프로그래밍/C.md",
     "프로그래밍/정리해둔거.md",
     "프로그래밍/js.md",
     "프로그래밍/Python.md",
     "프로그래밍/자료구조.md",
-    "프로그래밍/pm.md",
-    "프로그래밍/css.md",
-    "프로그래밍/프로그래밍 공부.md",
-    "프로그래밍/프로그래밍 자료/jaryogujo one.md",
-    "프로그래밍/Lua.md",
-    "프로그래밍/ruby.md",
-    "프로그래밍/Scala.md",
-    "프로그래밍/C.md",
-    "프로그래밍/프로그래밍.md",
-    "프로그래밍/옵시디언.md",
-    "프로그래밍/Kotlin.md",
-    "프로그래밍/프로그래밍 자료/jaryogujo.md",
-    "프로그래밍/프로그래밍 자료/gujoche.md",
-    "프로그래밍/프로그래밍 자료/Kotlin 1.md",
-    "프로그래밍/프로그래밍 자료/프로그래밍 자료.md",
-    "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md",
-    "공부/공부 자료/Game Project/Team Project/Trick or picture/Trick or picture.md",
-    "프로그래밍/유니티.md",
-    "Excalidraw/Drawing 2024-07-31 13.34.54.excalidraw.md",
-    "Excalidraw/Excalidraw.md",
-    "프로그래밍/프로그래밍 자료/Cascading style sheet 1.md",
-    "프로그래밍/프로그래밍 자료/C pointer3.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/A팀 계획서.txt",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509224536_097.png",
     "공부/공부 자료/Game Project/Team Project/Trick or picture",
     "공부/공부 자료/Pasted image 20240509082840.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224634_175.png",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509225111_200.jpg",
-    "공부/공부 자료/Game Project/project/Levatein 4.gif",
     "공부/재학생 컴퍼런스",
     "공부/공부 자료/Game Project/Team Project/실낙원 프로젝트-1",
-    "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "Pasted image 20240626103013.png",
     "기업 질문",
     "공부/공부 자료/Game Project/Team Project/foundation",
     "공부/공부 자료/Game Project/Team Project/Game",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509230146_252.png",
     "공부/공부 자료/Pasted image 20240509083122.png",
-    "공부/공부 자료/Game Project/project/Levatein Default.gif",
     "Excalidraw",
     "프로그래밍/프로그래밍 자료",
     "fonts/나눔손글씨 할아버지의나눔.ttf",
