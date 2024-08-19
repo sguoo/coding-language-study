@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/Python.md",
+                "file": "프로그래밍/정리해둔거.md",
                 "mode": "preview",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/Python.md",
+                "file": "프로그래밍/정리해둔거.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/Python.md",
+                "file": "프로그래밍/정리해둔거.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/Python.md"
+                "file": "프로그래밍/정리해둔거.md"
               }
             }
           },
@@ -247,8 +247,9 @@
   },
   "active": "3f7d90b0f1617f4d",
   "lastOpenFiles": [
-    "프로그래밍/자료구조.md",
     "프로그래밍/js.md",
+    "프로그래밍/Python.md",
+    "프로그래밍/자료구조.md",
     "프로그래밍/pm.md",
     "프로그래밍/css.md",
     "프로그래밍/프로그래밍 공부.md",
@@ -256,7 +257,6 @@
     "프로그래밍/Lua.md",
     "프로그래밍/ruby.md",
     "프로그래밍/Scala.md",
-    "프로그래밍/Python.md",
     "프로그래밍/C.md",
     "프로그래밍/프로그래밍.md",
     "프로그래밍/옵시디언.md",
