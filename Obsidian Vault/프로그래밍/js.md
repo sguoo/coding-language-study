@@ -303,5 +303,11 @@ calcSum(10);
 - 호이스팅이 되지 않아 선언하기 전엔 사용 할 수 없다
 ```js
 var x = 10;
-
+function displayNumber() {
+	console.log("x is " + x);
+	console.log("y is " + y); //선언되지 않은 y를 사용
+	let y = 20;
+}
 ```
+
+### const를 사용한 변수의 ㅌ
