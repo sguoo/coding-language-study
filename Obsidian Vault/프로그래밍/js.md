@@ -337,5 +337,10 @@ console.log(currentYear)
 #### 함수 선언할 때 매개변수 지정 하기
 - `num1`과 `num2`를 매개변수로 두는 함수 예제
 ```js
-function addNumber()
+function addNumber(num1, num2) {
+	var sum = num1 + num2
+	return sum;
+}
 ```
+- 위 예제에서 `return`을 사용하여 결괏값을 함수를 사용한 위치로 되돌려 준다
+- 이러한ㄷ 
