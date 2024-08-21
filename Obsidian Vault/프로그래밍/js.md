@@ -349,5 +349,10 @@ function addNumber(num1, num2) {
 - 매개변수가 있는 함수를 호출 할 때 실제 값 부분을 인수라고 한다
 - `addNumber()`함수를 선언할 때 괄호 안에 표시한 `num1`,`num2`를 매개 변수라 하고, `addNumber(2, 3)`처럼 괄호 안에 넣어준 숫자 2와 3을 인수라고 한다
 ```js
-function add
+function addNumber(num1, num2) {
+	var sum = num1 + num2;
+	return sum;
+}
+var return = addNumber(2, 3) //2와 3이 인수
+document.wrute("두 수를 더한 값: " + result)
 ```
