@@ -321,3 +321,10 @@ const currentYear = 2020;
 console.log(currentYear);
 const currentYear; //오류 발생
 ```
+- 재할당도 할 수 없다
+```js
+const currentYear = 2020;
+console.log(currentYear);
+currentYear = 2100; //currentYear 변수 재할당
+console.log(currentYear)
+```
