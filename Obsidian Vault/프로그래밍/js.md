@@ -331,4 +331,5 @@ console.log(currentYear)
 
 ## 재사용 할 수 있는 함수 만들기
 ### 매개변수, 인수, return 알아보기
-- 앞에서 만든 `addNumber()`함수 처럼 입력
+- 앞에서 만든 `addNumber()`함수 처럼 입력값을 바꿀 수 있는 함수의 변수를 만드는 것을 
+  매개변수<sup>parameter</sup>라고 하고, 함수를 호출할 때 매개변수의 이름을 넣는다
