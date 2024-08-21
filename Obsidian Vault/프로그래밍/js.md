@@ -325,6 +325,6 @@ const currentYear; //오류 발생
 ```js
 const currentYear = 2020;
 console.log(currentYear);
-currentYear = 2100; //currentYear 변수 재할당
+currentYear = 2100; //currentYear 변수 재할당, TyoeError가 뜬다
 console.log(currentYear)
 ```
