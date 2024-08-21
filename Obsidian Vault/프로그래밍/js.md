@@ -286,4 +286,13 @@ calcSum(10);
 console.log(sum); //전역 변수 사용
 ```
 ### 재할당은 되지만 재선언은 되지 않는 변수
-- let은 재할당은 되지만 재 선언은
+- let은 재할당은 되지만 재선언은 된다
+- var처럼 같은 변수의 이름을 사용할 걱정은 없다
+- 블록 변수의 재할당
+```js
+function calcSum(n) {
+	let sum = 0;
+	for(let i = 1; i < n + 1; i++) { sum += i }
+	
+}
+```
