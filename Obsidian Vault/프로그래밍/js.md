@@ -261,3 +261,9 @@ displayNumber()
 ### 변수의 재선언과 재할당
 - var는 재선언, 재할당을 할 수 있다
 - 헷갈리고 실수를 할 수 있기 때문에 사용하지 않는다
+## let와 const의 등장
+- var 대신 let과 const 사용 권장
+- 블록 변수 선언
+```js
+function 
+```
