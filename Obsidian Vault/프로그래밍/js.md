@@ -315,5 +315,9 @@ function displayNumber() {
 
 [^2]: 변하지 않는 값
 - 변하지 않는 값을 사용 할 때는 const를 쓰는 것이 좋다
+- 이름이 같다면 재선언 할 수 없다
 ```js
+const currentYear = 2020;
+console.log(currentYear);
+const currentYear; //오류 발생
 ```
