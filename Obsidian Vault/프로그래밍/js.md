@@ -312,3 +312,8 @@ function displayNumber() {
 
 ### const를 사용한 변수의 특징
 - const로 선언한 변수는 상수[^2] 변수<sup>constant variable</sup>이다
+
+[^2]: 변하지 않는 값
+- 변하지 않는 값을 사용 할 때는 const를 쓰는 것이 좋다
+```js
+```
