@@ -310,4 +310,5 @@ function displayNumber() {
 }
 ```
 
-### const를 사용한 변수의 ㅌ
+### const를 사용한 변수의 특징
+- const로 선언한 변수는 상수[^2] 변수<sup>constant variable</sup>이다
