@@ -293,6 +293,9 @@ console.log(sum); //전역 변수 사용
 function calcSum(n) {
 	let sum = 0;
 	for(let i = 1; i < n + 1; i++) { sum += i }
-	
+	sum = 100;
+	console.log(sum);
 }
+calcSum(10);
 ```
+### 호이스팅이 없는 변수
