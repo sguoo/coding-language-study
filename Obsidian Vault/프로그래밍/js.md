@@ -331,3 +331,4 @@ console.log(currentYear)
 
 ## 재사용 할 수 있는 함수 만들기
 ### 매개변수, 인수, return 알아보기
+- 앞에서 만든 `addNumber()`함수 처럼 입력
