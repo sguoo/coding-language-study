@@ -277,11 +277,13 @@ calcSum(10);
 - 전역 변수 선언
 ```js
 function calcSum(n) {
-	sum(0);
+	sum(0); //전역변수 선언
 	for(let i = 1; i < n + 1; i++) {
 		sum += i;
 	}
 }
 calcSum(10);
-console.log(sum);
+console.log(sum); //전역 변수 사용
 ```
+### 재할당은 되지만 재선언은 되지 않는 변수
+- let은 재할당은 되지만 재 선언은
