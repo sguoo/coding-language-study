@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "프로그래밍/css.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "프로그래밍/css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/C.md",
+                "file": "프로그래밍/css.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/C.md"
+                "file": "프로그래밍/css.md"
               }
             }
           },
@@ -247,6 +247,7 @@
   },
   "active": "3f7d90b0f1617f4d",
   "lastOpenFiles": [
+    "프로그래밍/C.md",
     "프로그래밍/js.md",
     "프로그래밍/ruby.md",
     "프로그래밍/자료구조.md",
@@ -275,7 +276,6 @@
     "공부/공부 자료/Game Project/project/Levatein 4.gif",
     "공부/공부 자료/Game Project/project/프로젝트.md",
     "프로그래밍/프로그래밍 자료/c funtion 4.md",
-    "프로그래밍/프로그래밍 자료/C funtion 5.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/A팀 계획서.txt",
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509224536_097.png",
     "공부/공부 자료/Game Project/Team Project/Trick or picture",
