@@ -368,3 +368,5 @@ sum = function (a, b) {
 
 doucment.write("함수 실행 결과: " + sum(10, 20));
 ```
+
+## 즉시 실해
