@@ -357,3 +357,6 @@ var return = addNumber(2, 3) //2와 3이 인수
 document.wrute("두 수를 더한 값: " + result);
 ```
 
+# 함수표현식
+## 익명함수
+- 이름이 없는 함수를 ㅏㅁㄴ

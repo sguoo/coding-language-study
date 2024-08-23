@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/Kotlin.md",
+                "file": "프로그래밍/js.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -257,13 +257,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c651a1b7005b7b8a",
+  "active": "8d8e5a26a34b1b88",
   "lastOpenFiles": [
     "프로그래밍/Kotlin.md",
+    "프로그래밍/js.md",
     "무제 파일.md",
     "프로그래밍/css.md",
     "프로그래밍/C.md",
-    "프로그래밍/js.md",
     "프로그래밍/ruby.md",
     "프로그래밍/자료구조.md",
     "프로그래밍/정리해둔거.md",
