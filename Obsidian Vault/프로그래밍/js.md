@@ -398,5 +398,9 @@ const hi = function() {
 }
 ```
 
-<p style="text-align:>↓</p>
-``
+<p style="text-align: center">↓</p>
+```js
+const hi = () => { return "안녕하세요?" };
+```
+
+- 함수 내용이 한 줄 뿐이라면 중괄호를 생략할 수 있다. (retur)
