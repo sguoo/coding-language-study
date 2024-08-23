@@ -369,4 +369,5 @@ sum = function (a, b) {
 doucment.write("함수 실행 결과: " + sum(10, 20));
 ```
 
-## 즉시 실해
+## 즉시 실행 함수
+- js가 실행될때 실행
