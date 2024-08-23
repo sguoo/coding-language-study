@@ -372,7 +372,13 @@ doucment.write("함수 실행 결과: " + sum(10, 20));
 ## 즉시 실행 함수
 - js가 실행될때 실행
 ```js
-(function()) {
+(function() {
 	명렬
-}(인수)
+}(인수));
+```
+
+or
+
+```js
+(function(매개변수))
 ```
