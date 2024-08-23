@@ -362,5 +362,9 @@ document.wrute("두 수를 더한 값: " + result);
 - 이름이 없는 함수를 만든다
 - 익명 함수를 선언할 때는 이름을 붙이지 않는다
 ```js
-sum = funa
+sum = function (a, b) {
+	return a + b;
+}
+
+doucment.write("함수 실행 결과: " + sum(10, 20));
 ```
