@@ -380,5 +380,7 @@ doucment.write("함수 실행 결과: " + sum(10, 20));
 or
 
 ```js
-(function(매개변수))
+(function(매개변수) {
+	명령
+}(인수));
 ```
