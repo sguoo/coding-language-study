@@ -356,3 +356,4 @@ function addNumber(num1, num2) {
 var return = addNumber(2, 3) //2와 3이 인수
 document.wrute("두 수를 더한 값: " + result);
 ```
+

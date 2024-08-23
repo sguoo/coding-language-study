@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "프로그래밍/js.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "프로그래밍/js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "프로그래밍/js.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "프로그래밍/js.md"
               }
             }
           },
@@ -259,8 +259,9 @@
   },
   "active": "c651a1b7005b7b8a",
   "lastOpenFiles": [
-    "프로그래밍/css.md",
+    "프로그래밍/Kotlin.md",
     "무제 파일.md",
+    "프로그래밍/css.md",
     "프로그래밍/C.md",
     "프로그래밍/js.md",
     "프로그래밍/ruby.md",
@@ -285,7 +286,6 @@
     "공부/공부 자료/Game Project/Team Project/Game/Game project load map.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/Trick or picture.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/Drawing 2024-07-29 22.55.36.excalidraw.md",
-    "공부/공부 자료/Game Project/project/캐릭터.md",
     "공부/공부 자료/Game Project/project/Levatein Default.gif",
     "공부/공부 자료/Game Project/project/Levatein 4.gif",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/A팀 계획서.txt",
