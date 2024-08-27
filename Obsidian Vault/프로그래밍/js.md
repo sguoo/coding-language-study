@@ -421,6 +421,10 @@ const hi = () => "안녕하세요?";
 </th>
 <th>
 설명
+</th>
+</tr>
+<tr>
+<td>
 </td>
 </tr>
 </table>
