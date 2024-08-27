@@ -535,23 +535,23 @@ abort
 </tr>
 <tr>
 <td>
-keypress
+error
 </td>
 <td>
-사용자가 키를 눌렀을 때 이벤트 발생
-</td>
-</tr>
-<tr>
-<td>
-keyup
-</td>
-<td>
-사용자가 키에서 손을 땔 때 이벤트가 발생
+문서가 정확히 로딩되지 않았을 때 이벤트가 발생
 </td>
 </tr>
 <tr>
 <td>
-keyup
+load
+</td>
+<td>
+문서 로딩이 끝나면 이벤트가 발생
+</td>
+</tr>
+<tr>
+<td>
+resize
 </td>
 <td>
 사용자가 키에서 손을 땔 때 이벤트가 발생
