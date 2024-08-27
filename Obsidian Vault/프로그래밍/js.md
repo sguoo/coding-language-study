@@ -515,6 +515,7 @@ keyup
 </td>
 </tr>
 </table>
+
 #### 문서 로딩 이벤트
 <table style="text-align:center">
 <tr>
@@ -570,7 +571,7 @@ scroll
 unload
 </td>
 <td>
-사용자가 키에서 손을 땔 때 이벤트가 발생
+문서에서 벗어날 때 이벤트가 발생
 </td>
 </tr>
 
