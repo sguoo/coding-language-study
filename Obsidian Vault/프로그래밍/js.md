@@ -425,6 +425,17 @@ const hi = () => "안녕하세요?";
 </tr>
 <tr>
 <td>
+click
+</td>
+<td>
+사용자가 HTML 요소를 클릭할 때 이벤트가 발생합니다
+</td>
+</tr>
+<tr>
+<td>
+
+</td>
+<td>
 </td>
 </tr>
 </table>
