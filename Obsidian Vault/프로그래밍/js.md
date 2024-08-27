@@ -495,23 +495,24 @@ mouseup
 keydown
 </td>
 <td>
-ㅅ
+사용자가 키를 누르는 동안 이벤트 발생
 </td>
 </tr>
 <tr>
 <td>
-dblclick
+keypress
 </td>
 <td>
-사용자가 HTML 요소위에서 더블 클릭할 때 이벤트가 발생
+사용자가 키를 눌렀을 때 이벤트 발생
 </td>
 </tr>
 <tr>
 <td>
-mousedown
+keyup
 </td>
 <td>
-사용자가 요소 위에서 마우스 버튼을 눌렀을 때 이벤트 발생
+사용자가 키에서 손을 땔 때 이벤트가 발생
 </td>
 </tr>
 </table>
+#### 문서 로딩 이벤트
