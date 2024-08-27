@@ -414,12 +414,12 @@ const hi = () => "안녕하세요?";
 - 자바스크립트의 이벤트는 주로 마우스나 키보드를 사용 할 때, 폼<sup>form</sup>에 내용을 입력할 때 발생한다
 #### 마우스 이벤트
 - 마우스 이벤트는 마우스를 이용해서 버튼이나 휠 버튼을 조작할 때 발생한다
-<table>
+<table style="text-align:center">
 <tr>
 <th>
 종류
 </th>
-<th>
+<th style="text-align:center">
 설명
 </th>
 </tr>
@@ -476,7 +476,7 @@ mouseout
 mouseup
 </td>
 <td>
-사용자가 요소 위에 놓인 
+사용자가 요소 위에 놓인 마우스 버튼에서 손을 땔 때 이벤트가 발생
 </td>
 </tr>
 </table>
