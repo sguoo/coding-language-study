@@ -439,4 +439,12 @@ dblclick
 사용자가 HTML 요소위에서 더블 클릭할 때 이벤트가 발생
 </td>
 </tr>
+<tr>
+<td>
+mousedown
+</td>
+<td>
+사용자가 요소 위에서 마우스 버튼을 눌
+</td>
+</tr>
 </table>
