@@ -444,7 +444,23 @@ dblclick
 mousedown
 </td>
 <td>
-사용자가 요소 위에서 마우스 버튼을 눌
+사용자가 요소 위에서 마우스 버튼을 눌렀을 때 이벤트 발생
+</td>
+</tr>
+<tr>
+<td>
+mousemove
+</td>
+<td>
+사용자가 요소 위에서 마우스를 움직일 때 이벤트 발생
+</td>
+</tr>
+<tr>
+<td>
+mouseover
+</td>
+<td>
+마우스포인
 </td>
 </tr>
 </table>
