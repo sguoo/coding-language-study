@@ -460,7 +460,23 @@ mousemove
 mouseover
 </td>
 <td>
-마우스포인
+마우스포인터가 요소 위로 옮겨질 때 이벤트가 발생
+</td>
+</tr>
+<tr>
+<td>
+mouseout
+</td>
+<td>
+마우스포인터가 요소에서 벗어날 때 이벤트가 발생
+</td>
+</tr>
+<tr>
+<td>
+mouseup
+</td>
+<td>
+사용자가 요소 위에 놓인 
 </td>
 </tr>
 </table>
