@@ -480,3 +480,38 @@ mouseup
 </td>
 </tr>
 </table>
+#### 키보드 이벤트
+<table style="text-align:center">
+<tr>
+<th>
+종류
+</th>
+<th style="text-align:center">
+설명
+</th>
+</tr>
+<tr>
+<td>
+keydown
+</td>
+<td>
+ㅅ
+</td>
+</tr>
+<tr>
+<td>
+dblclick
+</td>
+<td>
+사용자가 HTML 요소위에서 더블 클릭할 때 이벤트가 발생
+</td>
+</tr>
+<tr>
+<td>
+mousedown
+</td>
+<td>
+사용자가 요소 위에서 마우스 버튼을 눌렀을 때 이벤트 발생
+</td>
+</tr>
+</table>
