@@ -428,14 +428,15 @@ const hi = () => "안녕하세요?";
 click
 </td>
 <td>
-사용자가 HTML 요소를 클릭할 때 이벤트가 발생합니다
+사용자가 HTML 요소를 클릭할 때 이벤트가 발생
 </td>
 </tr>
 <tr>
 <td>
-
+dblclick
 </td>
 <td>
+사용자가 HTML 요소위에서 더블 클릭할 때 이벤트가 발생
 </td>
 </tr>
 </table>
