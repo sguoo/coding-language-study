@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/js.md",
-                "mode": "source",
+                "file": "프로그래밍/C.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/js.md",
+                "file": "프로그래밍/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/js.md",
+                "file": "프로그래밍/C.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/js.md"
+                "file": "프로그래밍/C.md"
               }
             }
           },
@@ -271,8 +271,8 @@
   },
   "active": "95f58667343c13c8",
   "lastOpenFiles": [
-    "프로그래밍/css.md",
     "프로그래밍/js.md",
+    "프로그래밍/css.md",
     "공부/영어.md",
     "공부/곱셈공식.md",
     "공부/공부 자료/Game Project/project/Levatein 4.gif",
