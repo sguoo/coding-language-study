@@ -608,4 +608,4 @@ document.write("현재 시각은 " + now);
 - Array객체는 자바스크립트의 내장 객체중 **배열**을 다룬다
 #### Array 객체로 배열 만들기
 - `var numbers = new Array`
-- `vafr numbers = ["one", "two"`
+- `var numbers = ["one", "two", "three", "four"]`
