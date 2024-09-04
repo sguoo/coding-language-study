@@ -605,4 +605,7 @@ document.write("현재 시각은 " + now);
 - 메서드는 함수와 같은 역할을 하므로 `getHours()`처럼 이름 옆에 괄호를 넣어야 한다
 ## 자바스크립트의 내장 객체
 ### Array 객체
-- Array객체는 자바
+- Array객체는 자바스크립트의 내장 객체중 **배열**을 다룬다
+#### Array 객체로 배열 만들기
+- `var numbers = new Array`
+- `vafr numbers = ["one", "two"`
