@@ -595,5 +595,8 @@ unload
 ##### 날짜와 시간을 표시하는 객체 만들기
 ```js
 var now = new Date();
-document.write()
+document.write("현재 시각은 " + now);
 ```
+#### 프로퍼티와 메서드 이해하기
+- 객체에는 프로퍼티<sup>property</sup>와 메서드<sup>method</sup>가 있다
+- 프로퍼티는 객체의 특징이나 ㅅ
