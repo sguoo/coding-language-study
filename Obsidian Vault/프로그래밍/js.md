@@ -622,7 +622,7 @@ document.write("현재 시각은 " + now);
 concat
 </td>
 <td>
-기존배열에
+기존 배열에 요소를 추가해 새로운 배열을 만듭니다
 </td>
 </tr>
 </table>
