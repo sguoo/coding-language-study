@@ -612,10 +612,10 @@ document.write("현재 시각은 " + now);
 
 <table>
 <tr>
-<th>
+<th style="text-align:center">
 종류
 </th>
-<th>
+<th style="text-align: center">
 설명
 </tr>
 <tr>
