@@ -630,7 +630,15 @@ concat
 every
 </td>
 <td>
-배열의 모든 요소가 주어진 함ㅅ
+배열의 모든 요소가 주어진 함수에 대해 참이면 true를 반환하고 그렇지 않으면 false를 반환한다
+</td>
+</tr>
+<tr>
+<td>
+filter
+</td>
+<td>
+배열의 모두
 </td>
 </tr>
 </table>
