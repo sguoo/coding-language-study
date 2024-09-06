@@ -723,9 +723,18 @@ reverse
 </tr>
 <tr>
 <td>
-
+sort
 </td>
 <td>
+배열 요소를 지정한 조건에 따라 정렬합니다.
+</td>
+</tr>
+<tr>
+<td>
+reString
+</td>
+<td>
+배열에서 지정한 부분을 문자열로 반환합니다. 이때 각 요소는 쉼표`(,`
 </td>
 </tr>
 </table>
