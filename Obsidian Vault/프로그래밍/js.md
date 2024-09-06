@@ -646,6 +646,15 @@ filter
  forEach
 </td>
 <td>
+배열의 모든 요소에 대해 주어진 함수를 실행한다
+</td>
+</tr>
+<tr>
+<td>
+indexOf
+</td>
+<td>
+주어진 값과 일치하는 값이 있는 배열 요소의
 </td>
 </tr>
 </table>
