@@ -699,6 +699,30 @@ shift
 </tr>
 <tr>
 <td>
+splice
+</td>
+<td>
+배열에 요소를 추가하거나 삭제합니다
+</td>
+</tr>
+<tr>
+<td>
+slice
+</td>
+<td>
+배열의 특정한 부분만 잘라냅니다
+</td>
+</tr>
+<tr>
+<td>
+reverse
+</td>
+<td>
+배열의 배치 순서를 역순으로 바꿉니다.
+</td>
+</tr>
+<tr>
+<td>
 
 </td>
 <td>
