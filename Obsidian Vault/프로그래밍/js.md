@@ -667,7 +667,23 @@ join
 </tr>
 <tr>
 <td>
-
+push
+</td>
+<td>
+배열의 맨 끝에 새로운 요소를 추가한 후 새로운 length를 반환합니다
+</td>
+</tr>
+<tr>
+<td>
+unshift
+</td>
+<td>
+배열의 시작 부분에 새로운 요소를 추가합니다
+</td>
+</tr>
+<tr>
+<td>
+p
 </td>
 <td>
 </td>
