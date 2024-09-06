@@ -609,6 +609,7 @@ document.write("현재 시각은 " + now);
 #### Array 객체로 배열 만들기
 - `var numbers = new Array`
 - `var numbers = ["one", "two", "three", "four"]`
+
 <table>
 <tr>
 <th>
