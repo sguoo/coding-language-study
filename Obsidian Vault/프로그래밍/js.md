@@ -618,5 +618,11 @@ document.write("현재 시각은 " + now);
 설명
 </tr>
 <tr>
-</t,
+<td>
+concat
+</td>
+<td>
+기존배열에
+</td>
+</tr>
 </table>
