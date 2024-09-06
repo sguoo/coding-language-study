@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "프로그래밍/js.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -269,7 +269,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24d136a6414d5bbf",
+  "active": "95f58667343c13c8",
   "lastOpenFiles": [
     "프로그래밍/C.md",
     "프로그래밍/js.md",
