@@ -739,3 +739,6 @@ reString
 </td>
 </tr>
 </table>
+
+>[!tip] `splice`는 배열을 삭제하고 반환하고, `slice`는 삭제하지 않고 반환한다
+

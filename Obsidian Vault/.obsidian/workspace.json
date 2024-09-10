@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부/좆 같은 정처기.md",
+                "file": "프로그래밍/js.md",
                 "mode": "source",
                 "source": false
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부/좆 같은 정처기.md",
+                "file": "프로그래밍/js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부/좆 같은 정처기.md",
+                "file": "프로그래밍/js.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부/좆 같은 정처기.md"
+                "file": "프로그래밍/js.md"
               }
             }
           },
@@ -293,15 +293,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df40644ed8f94707",
+  "active": "24d136a6414d5bbf",
   "lastOpenFiles": [
+    "공부/좆 같은 정처기.md",
     "프로그래밍/C.md",
     "프로그래밍/css.md",
     "프로그래밍/Kotlin.md",
     "프로그래밍/js.md",
     "프로그래밍/Scala.md",
     "프로그래밍/ruby.md",
-    "공부/좆 같은 정처기.md",
     "무제 파일 1.md",
     "공부/수행평가.md",
     "공부/컴퓨터 구조.md",
