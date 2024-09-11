@@ -9,7 +9,7 @@
 ## State 사용 비교
 ### 함수형 컴포넌트
 -  뭔데 ㅅㅂ
-# Props 사용 비교
+## Props 사용 비교
 ```js
 class App extends Compenent {
 	render() {
@@ -18,10 +18,14 @@ class App extends Compenent {
 }
 ```
 
-## LigeCycle 비교
-### 클래스형 컴포넌트
+### LigeCycle 비교
+#### 클래스형 컴포넌트
 - LifeCycle API 사용
 - 생성(mount) > 업데이트(update) > 제거 기능 구현
-#### 함수형 컴포넌트
+##### 함수형 컴포넌트
 - Hook을 사용하여 생명주기 관리
-- `useEffect`등의 Hook으로 LifeCycle
+- `useEffect`등의 Hook으로 LifeCycle 기능 구현
+## 이벤트 핸들링
+
+## 결론
+- 
