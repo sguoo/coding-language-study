@@ -63,15 +63,28 @@ import Number from "."
 ![[rEact1]]
 ```js
 function App() {
-	return{
+	return(
 		<div>
 			<PlusButton/>
 		</div>
-	}
+	)
 }
 ```
 ```js
 function Other() {
-	return()
+	return(
+		<div>
+			<PlusButton/>
+		</div>
+	)
+}
+```
+```js
+function PlusButton() {
+	return(
+		<div onClick = {plus}>
+		
+		</div>
+	)
 }
 ```
