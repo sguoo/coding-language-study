@@ -97,3 +97,4 @@ export default PlusButton;
 소프트웨어 디자인 과정에서 자주 발생하는 문제들에 대한 일반적인 해결책
 # MVC 패턴
 - 디렉토리를 Model, View, Controller로 분리하여 사용하는 디자인 패턴
+# Repostrisea
