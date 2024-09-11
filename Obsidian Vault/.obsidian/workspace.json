@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/자료구조.md",
+                "file": "프로그래밍/js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/자료구조.md",
+                "file": "프로그래밍/js.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/자료구조.md"
+                "file": "프로그래밍/js.md"
               }
             }
           },
@@ -293,8 +293,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24d136a6414d5bbf",
+  "active": "df40644ed8f94707",
   "lastOpenFiles": [
+    "프로그래밍/자료구조.md",
     "공부/좆 같은 정처기.md",
     "프로그래밍/C.md",
     "프로그래밍/css.md",
@@ -309,7 +310,6 @@
     "공부/영어.md",
     "공부/곱셈공식.md",
     "공부/공부 자료/Game Project/project/Levatein 4.gif",
-    "프로그래밍/자료구조.md",
     "무제 파일.md",
     "프로그래밍/정리해둔거.md",
     "프로그래밍/프로그래밍 자료/css pyogibub.md",
