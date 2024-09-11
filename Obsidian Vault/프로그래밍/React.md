@@ -31,3 +31,9 @@ class App extends Compenent {
 - 현재 React 공식 문서에서는 함수형 컴포넌트 사용을 권장
 - Hook의 도입으로 함수형 컴포넌트의 단점 보완
 - 클래
+# React의 UI 구성과 컴포넌트 아키텍처
+## UI 구성
+### UI란?
+User Interface
+- 사용자가 직접 보는 화면
+## 컴포넌트 아키텍쳐
