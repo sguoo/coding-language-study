@@ -28,4 +28,6 @@ class App extends Compenent {
 ## 이벤트 핸들링
 
 ## 결론
-- 
+- 현재 React 공식 문서에서는 함수형 컴포넌트 사용을 권장
+- Hook의 도입으로 함수형 컴포넌트의 단점 보완
+- 클래
