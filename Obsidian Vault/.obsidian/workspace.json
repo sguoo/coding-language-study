@@ -116,6 +116,18 @@
             }
           },
           {
+            "id": "e189595b78365811",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로그래밍/Nodejs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "221253d915fda174",
             "type": "leaf",
             "state": {
@@ -174,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -248,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/React.md",
+                "file": "프로그래밍/Nodejs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/React.md",
+                "file": "프로그래밍/Nodejs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/React.md"
+                "file": "프로그래밍/Nodejs.md"
               }
             }
           },
@@ -329,10 +341,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b5cda648a1364c80",
+  "active": "e189595b78365811",
   "lastOpenFiles": [
-    "프로그래밍/프로그래밍 자료/React2.md",
     "프로그래밍/React.md",
+    "프로그래밍/Nodejs.md",
+    "프로그래밍/프로그래밍 자료/React2.md",
     "프로그래밍/프로그래밍 자료/rEact1.md",
     "프로그래밍/자료구조.md",
     "프로그래밍/정리해둔거.md",
@@ -357,7 +370,6 @@
     "프로그래밍/프로그래밍 자료/css yungul selector.md",
     "프로그래밍/프로그래밍 자료/gujoche.md",
     "프로그래밍/프로그래밍 자료/jaryogujo.md",
-    "프로그래밍/프로그래밍 자료/jaryogujo one.md",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "공부/공부 자료/Game Project/project/Levatein Default.gif",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/A팀 계획서.txt",
