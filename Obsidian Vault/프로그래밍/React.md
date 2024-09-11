@@ -20,4 +20,8 @@ class App extends Compenent {
 
 ## LigeCycle 비교
 ### 클래스형 컴포넌트
-
+- LifeCycle API 사용
+- 생성(mount) > 업데이트(update) > 제거 기능 구현
+#### 함수형 컴포넌트
+- Hook을 사용하여 생명주기 관리
+- `useEffect`등의 Hook으로 LifeCycle
