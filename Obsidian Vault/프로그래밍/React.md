@@ -56,6 +56,7 @@ UI 컴포넌트 계층으로 분리하기
 ##### 역방향 데이터 흐름 추가하기
 ```JS
 import {useState} from "react";
-import Number from
+import Number from "."
 ```
+![[Rea]]
 ## 컴포넌트 아키텍쳐
