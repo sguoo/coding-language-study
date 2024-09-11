@@ -140,6 +140,18 @@
             }
           },
           {
+            "id": "f5bdc6e93491eeab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로그래밍/jwt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "221253d915fda174",
             "type": "leaf",
             "state": {
@@ -198,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -272,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/React.md",
+                "file": "프로그래밍/jwt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/React.md",
+                "file": "프로그래밍/jwt.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -312,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/React.md"
+                "file": "프로그래밍/jwt.md"
               }
             }
           },
@@ -353,11 +365,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c812743425e6045e",
+  "active": "24d136a6414d5bbf",
   "lastOpenFiles": [
+    "프로그래밍/React.md",
+    "프로그래밍/jwt.md",
     "프로그래밍/flutter.md",
     "프로그래밍/Nodejs.md",
-    "프로그래밍/React.md",
     "프로그래밍/프로그래밍 자료/React2.md",
     "프로그래밍/프로그래밍 자료/rEact1.md",
     "프로그래밍/자료구조.md",
@@ -381,7 +394,6 @@
     "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
     "프로그래밍/프로그래밍 자료/css Style.md",
     "프로그래밍/프로그래밍 자료/css yungul selector.md",
-    "프로그래밍/프로그래밍 자료/gujoche.md",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "공부/공부 자료/Game Project/project/Levatein Default.gif",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/A팀 계획서.txt",
