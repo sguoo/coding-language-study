@@ -69,6 +69,8 @@ function App() {
 		</div>
 	)
 }
+
+export default App;
 ```
 ```js
 function Other() {
@@ -78,6 +80,7 @@ function Other() {
 		</div>
 	)
 }
+export default Other;
 ```
 ```js
 function PlusButton() {
@@ -87,4 +90,5 @@ function PlusButton() {
 		</div>
 	)
 }
+export default PlusButton;
 ```
