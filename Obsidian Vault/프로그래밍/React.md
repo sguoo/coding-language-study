@@ -9,4 +9,15 @@
 ## State 사용 비교
 ### 함수형 컴포넌트
 -  뭔데 ㅅㅂ
-# Props 사용 
+# Props 사용 비교
+```js
+class App extends Compenent {
+	render() {
+		const { }
+	}
+}
+```
+
+## LigeCycle 비교
+### 클래스형 컴포넌트
+
