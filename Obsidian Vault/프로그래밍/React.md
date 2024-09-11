@@ -54,4 +54,8 @@ UI 컴포넌트 계층으로 분리하기
 ##### State 위치 결정하기
 #### 5단계
 ##### 역방향 데이터 흐름 추가하기
+```JS
+import {useState} from "react";
+import Number from
+```
 ## 컴포넌트 아키텍쳐

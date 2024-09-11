@@ -107,9 +107,11 @@
             "id": "b5cda648a1364c80",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-11 21.34.53.excalidraw.md"
+                "file": "프로그래밍/React.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -246,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-11 21.34.53.excalidraw.md",
+                "file": "프로그래밍/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-11 21.34.53.excalidraw.md",
+                "file": "프로그래밍/React.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-11 21.34.53.excalidraw.md"
+                "file": "프로그래밍/React.md"
               }
             }
           },
@@ -329,8 +331,8 @@
   },
   "active": "b5cda648a1364c80",
   "lastOpenFiles": [
-    "프로그래밍/React.md",
     "Excalidraw/Drawing 2024-09-11 21.34.53.excalidraw.md",
+    "프로그래밍/React.md",
     "프로그래밍/프로그래밍 자료/rEact1.md",
     "프로그래밍/자료구조.md",
     "프로그래밍/정리해둔거.md",
