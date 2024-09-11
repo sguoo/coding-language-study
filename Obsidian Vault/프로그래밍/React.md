@@ -36,4 +36,6 @@ class App extends Compenent {
 ### UI란?
 User Interface
 - 사용자가 직접 보는 화면
+### 1단계:
+UI 컴포넌트 계층으로 분리하기
 ## 컴포넌트 아키텍쳐

@@ -92,6 +92,16 @@
             }
           },
           {
+            "id": "82f41c2bf8accd08",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-11 21.29.49.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "221253d915fda174",
             "type": "leaf",
             "state": {
@@ -150,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -224,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/React.md",
+                "file": "Excalidraw/Drawing 2024-09-11 21.29.49.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/React.md",
+                "file": "Excalidraw/Drawing 2024-09-11 21.29.49.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/React.md"
+                "file": "Excalidraw/Drawing 2024-09-11 21.29.49.excalidraw.md"
               }
             }
           },
@@ -305,10 +315,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6296f6e6e6b5167",
+  "active": "82f41c2bf8accd08",
   "lastOpenFiles": [
-    "프로그래밍/자료구조.md",
     "프로그래밍/React.md",
+    "Excalidraw/Drawing 2024-09-11 21.29.49.excalidraw.md",
+    "프로그래밍/자료구조.md",
     "프로그래밍/정리해둔거.md",
     "프로그래밍/js.md",
     "공부/좆 같은 정처기.md",
@@ -333,7 +344,6 @@
     "프로그래밍/프로그래밍 자료/jaryogujo.md",
     "프로그래밍/프로그래밍 자료/jaryogujo one.md",
     "프로그래밍/프로그래밍 자료/Kotlin 1.md",
-    "프로그래밍/프로그래밍 자료/lambda def bigyo.md",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "공부/공부 자료/Game Project/project/Levatein Default.gif",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/A팀 계획서.txt",
