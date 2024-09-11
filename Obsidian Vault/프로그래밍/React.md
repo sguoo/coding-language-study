@@ -58,5 +58,20 @@ UI 컴포넌트 계층으로 분리하기
 import {useState} from "react";
 import Number from "."
 ```
-![[Rea]]
+![[React2]]
 ## 컴포넌트 아키텍쳐
+![[rEact1]]
+```js
+function App() {
+	return{
+		<div>
+			<PlusButton/>
+		</div>
+	}
+}
+```
+```js
+function Other() {
+	return()
+}
+```
