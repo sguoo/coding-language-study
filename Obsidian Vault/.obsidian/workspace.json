@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/자료구조.md",
+                "file": "프로그래밍/Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -284,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/자료구조.md",
+                "file": "프로그래밍/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/자료구조.md",
+                "file": "프로그래밍/Python.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -324,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/자료구조.md"
+                "file": "프로그래밍/Python.md"
               }
             }
           },
@@ -366,8 +366,8 @@
   },
   "active": "f5bdc6e93491eeab",
   "lastOpenFiles": [
-    "프로그래밍/js.md",
     "프로그래밍/자료구조.md",
+    "프로그래밍/js.md",
     "프로그래밍/React.md",
     "프로그래밍/jwt.md",
     "프로그래밍/flutter.md",
