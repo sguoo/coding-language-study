@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/Python.md",
+                "file": "프로그래밍/자료구조.md",
                 "mode": "source",
                 "source": false
               }
@@ -284,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/Python.md",
+                "file": "프로그래밍/자료구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/Python.md",
+                "file": "프로그래밍/자료구조.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -324,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/Python.md"
+                "file": "프로그래밍/자료구조.md"
               }
             }
           },
@@ -366,6 +366,7 @@
   },
   "active": "f5bdc6e93491eeab",
   "lastOpenFiles": [
+    "프로그래밍/Python.md",
     "프로그래밍/자료구조.md",
     "프로그래밍/js.md",
     "프로그래밍/React.md",
@@ -392,7 +393,6 @@
     "프로그래밍/프로그래밍 자료/css pyogibub.md",
     "프로그래밍/프로그래밍 자료/Cascading style sheet 2.md",
     "프로그래밍/프로그래밍 자료/css Style.md",
-    "프로그래밍/프로그래밍 자료/css yungul selector.md",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "공부/공부 자료/Game Project/project/Levatein Default.gif",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/A팀 계획서.txt",
