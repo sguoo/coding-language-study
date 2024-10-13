@@ -157,43 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부/공부.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "221253d915fda174",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프로그래밍/Kotlin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "833a25ea79e4a555",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프로그래밍/자료구조.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f7d90b0f1617f4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프로그래밍/css.md",
+                "file": "공부/태양 활동의 변화.md",
                 "mode": "source",
                 "source": false
               }
@@ -296,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부/공부.md",
+                "file": "공부/태양 활동의 변화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부/공부.md",
+                "file": "공부/태양 활동의 변화.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -336,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부/공부.md"
+                "file": "공부/태양 활동의 변화.md"
               }
             }
           },
@@ -378,13 +342,19 @@
   },
   "active": "23550b81a38e502d",
   "lastOpenFiles": [
-    "공부/대규모 화산분출.md",
+    "공부/곱셈공식.md",
     "공부/컴퓨터 구조.md",
+    "프로그래밍/정리해둔거.md",
+    "프로그래밍/Kotlin.md",
+    "프로그래밍/자료구조.md",
+    "프로그래밍/프로그래밍 공부.md",
+    "프로그래밍/프로그래밍.md",
+    "공부/공부.md",
+    "공부/대규모 화산분출.md",
     "공부/수행평가.md",
     "공부/영어.md",
     "공부/수학.md",
     "공부/메모.md",
-    "프로그래밍/자료구조.md",
     "프로그래밍/Python.md",
     "프로그래밍/js.md",
     "프로그래밍/React.md",
@@ -393,18 +363,12 @@
     "프로그래밍/Nodejs.md",
     "프로그래밍/프로그래밍 자료/React2.md",
     "프로그래밍/프로그래밍 자료/rEact1.md",
-    "프로그래밍/정리해둔거.md",
     "공부/좆 같은 정처기.md",
     "프로그래밍/C.md",
     "프로그래밍/css.md",
-    "프로그래밍/Kotlin.md",
     "프로그래밍/Scala.md",
     "프로그래밍/ruby.md",
-    "무제 파일 1.md",
-    "프로그래밍/옵시디언.md",
-    "공부/곱셈공식.md",
     "공부/공부 자료/Game Project/project/Levatein 4.gif",
-    "무제 파일.md",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "공부/공부 자료/Game Project/project/Levatein Default.gif",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/A팀 계획서.txt",
