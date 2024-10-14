@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부/사회.md",
+                "file": "공부/메모.md",
                 "mode": "source",
                 "source": false
               }
@@ -260,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부/사회.md",
+                "file": "공부/메모.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부/사회.md",
+                "file": "공부/메모.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부/사회.md"
+                "file": "공부/메모.md"
               }
             }
           },
@@ -342,6 +342,7 @@
   },
   "active": "23550b81a38e502d",
   "lastOpenFiles": [
+    "공부/사회.md",
     "공부/수학.md",
     "공부/수행평가.md",
     "공부/태양 활동의 변화.md",
@@ -367,7 +368,6 @@
     "프로그래밍/프로그래밍 자료/rEact1.md",
     "프로그래밍/C.md",
     "프로그래밍/css.md",
-    "프로그래밍/Scala.md",
     "공부/공부 자료/Game Project/project/Levatein 4.gif",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "공부/공부 자료/Game Project/project/Levatein Default.gif",
