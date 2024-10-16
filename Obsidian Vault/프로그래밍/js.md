@@ -758,3 +758,4 @@ reString
 #### 웹 브라우저와 렌더링 엔진
 - 웹 브라우저마다 HTML과 CSS 해석하는 **렌더링 엔진**<sup>rendering engine</sup>이 다르다
 - chrome\://version/에 접속하면 볼 수 있다
+#### userAgent 프로퍼티 알아보기
