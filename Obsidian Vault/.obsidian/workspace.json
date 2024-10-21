@@ -16,7 +16,9 @@
                 "file": "프로그래밍/자료구조.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "자료구조"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "프로그래밍/Python.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Python"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "공부/곱셈공식.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "곱셈공식"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "프로그래밍/옵시디언.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "옵시디언"
             }
           },
           {
@@ -64,7 +72,9 @@
                 "file": "공부/컴퓨터 구조.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "컴퓨터 구조"
             }
           },
           {
@@ -76,7 +86,9 @@
                 "file": "프로그래밍/자료구조.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "자료구조"
             }
           },
           {
@@ -88,7 +100,9 @@
                 "file": "프로그래밍/React.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "React"
             }
           },
           {
@@ -100,7 +114,9 @@
                 "file": "프로그래밍/React.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "React"
             }
           },
           {
@@ -112,7 +128,9 @@
                 "file": "프로그래밍/React.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "React"
             }
           },
           {
@@ -124,7 +142,9 @@
                 "file": "프로그래밍/Nodejs.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Nodejs"
             }
           },
           {
@@ -136,7 +156,9 @@
                 "file": "프로그래밍/React.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "React"
             }
           },
           {
@@ -148,7 +170,9 @@
                 "file": "프로그래밍/자료구조.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "자료구조"
             }
           },
           {
@@ -160,7 +184,21 @@
                 "file": "프로그래밍/js.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "js"
+            }
+          },
+          {
+            "id": "8bd2f6f8091b0668",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           },
           {
@@ -172,7 +210,9 @@
                 "file": "프로그래밍/js.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "js"
             }
           },
           {
@@ -182,11 +222,13 @@
               "type": "excalidraw",
               "state": {
                 "file": "프로그래밍/프로그래밍 자료/jaryogujo one.md"
-              }
+              },
+              "icon": "excalidraw-icon",
+              "title": "jaryogujo one"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -206,7 +248,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -221,7 +265,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -229,7 +275,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -237,7 +285,9 @@
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
             }
           }
         ]
@@ -260,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/js.md",
+                "file": "프로그래밍/자료구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +318,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "자료구조의 백링크"
             }
           },
           {
@@ -277,10 +329,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/js.md",
+                "file": "프로그래밍/자료구조.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "자료구조의 나가는 링크"
             }
           },
           {
@@ -291,7 +345,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -300,8 +356,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/js.md"
-              }
+                "file": "프로그래밍/자료구조.md"
+              },
+              "icon": "lucide-list",
+              "title": "자료구조 개요"
             }
           },
           {
@@ -309,7 +367,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -317,7 +377,9 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
@@ -340,7 +402,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23550b81a38e502d",
+  "active": "8bd2f6f8091b0668",
   "lastOpenFiles": [
     "프로그래밍/jwt.md",
     "프로그래밍/C.md",
