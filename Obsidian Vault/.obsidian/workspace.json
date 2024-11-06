@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2a0bbddef5b9a3a6",
+        "id": "3f3481d76f6e8de2",
         "type": "tabs",
         "children": [
           {
-            "id": "af50d26cecd0a71b",
+            "id": "91d6a378287dfd3f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "프로그래밍/게임 서버 공부.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "게임 서버 공부"
             }
           }
         ]
@@ -144,9 +148,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "프로그래밍/게임 서버 공부.md"
+              },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "게임 서버 공부 개요"
             }
           },
           {
@@ -189,7 +195,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af50d26cecd0a71b",
+  "active": "91d6a378287dfd3f",
   "lastOpenFiles": [
     "프로그래밍/자료구조.md",
     "프로그래밍/Python.md",
