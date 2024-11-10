@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "게임 서버 공부"
             }
+          },
+          {
+            "id": "f5ba8975475fcafa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +208,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "91d6a378287dfd3f",
+  "active": "f5ba8975475fcafa",
   "lastOpenFiles": [
     "프로그래밍/게임 서버 공부.md",
     "프로그래밍/자료구조.md",
