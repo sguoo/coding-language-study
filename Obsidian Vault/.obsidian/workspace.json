@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "프로그래밍/게임 서버 공부.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -33,8 +33,7 @@
               "title": "Release Notes 1.7.5"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,7 +207,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f5ba8975475fcafa",
+  "active": "91d6a378287dfd3f",
   "lastOpenFiles": [
     "프로그래밍/게임 서버 공부.md",
     "프로그래밍/자료구조.md",
