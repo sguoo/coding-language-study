@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "b7983780b622344d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
+          },
+          {
             "id": "f5ba8975475fcafa",
             "type": "leaf",
             "state": {
@@ -33,7 +45,8 @@
               "title": "Release Notes 1.7.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,7 +220,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "91d6a378287dfd3f",
+  "active": "b7983780b622344d",
   "lastOpenFiles": [
     "프로그래밍/옵시디언.md",
     "프로그래밍/프로그래밍 자료/rEact1.md",
