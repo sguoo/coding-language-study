@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/Excalidraw.md",
+                "file": "프로그래밍/js.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Excalidraw"
+              "title": "js"
             }
           },
           {
@@ -173,10 +173,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/Excalidraw.md"
+                "file": "프로그래밍/js.md"
               },
               "icon": "lucide-list",
-              "title": "Excalidraw 개요"
+              "title": "js 개요"
             }
           },
           {
@@ -221,6 +221,7 @@
   },
   "active": "91d6a378287dfd3f",
   "lastOpenFiles": [
+    "프로그래밍/Excalidraw.md",
     "프로그래밍/C.md",
     "공부/전공.md",
     "공부/재학생 컴퍼런스/웹 취약성.md",
@@ -246,7 +247,6 @@
     "공부/곱셈공식.md",
     "공부/컴퓨터 구조.md",
     "프로그래밍/React.md",
-    "프로그래밍/Nodejs.md",
     "프로그래밍/Pasted image 20240626103013.png",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "공부/공부 자료/Game Project/project/Levatein 4.gif",
