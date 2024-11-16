@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/게임 서버 공부.md",
+                "file": "프로그래밍/C.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "게임 서버 공부"
+              "title": "C"
             }
           },
           {
@@ -173,10 +173,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/게임 서버 공부.md"
+                "file": "프로그래밍/C.md"
               },
               "icon": "lucide-list",
-              "title": "게임 서버 공부 개요"
+              "title": "C 개요"
             }
           },
           {
@@ -204,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 306.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,10 +221,10 @@
   },
   "active": "91d6a378287dfd3f",
   "lastOpenFiles": [
+    "프로그래밍/게임 서버 공부.md",
     "프로그래밍/옵시디언.md",
     "프로그래밍/프로그래밍 자료/rEact1.md",
     "Excalidraw/Drawing 2024-07-31 13.34.54.excalidraw.md",
-    "프로그래밍/게임 서버 공부.md",
     "프로그래밍/자료구조.md",
     "프로그래밍/Python.md",
     "공부/곱셈공식.md",
