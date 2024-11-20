@@ -20,30 +20,6 @@
               "icon": "lucide-file",
               "title": "게임 서버 공부"
             }
-          },
-          {
-            "id": "b7983780b622344d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
-            }
-          },
-          {
-            "id": "f5ba8975475fcafa",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
           }
         ]
       }
@@ -221,12 +197,13 @@
   },
   "active": "91d6a378287dfd3f",
   "lastOpenFiles": [
+    "무제 파일 2.md",
+    "프로그래밍/게임 서버 공부.md",
     "프로그래밍/js.md",
     "프로그래밍/Excalidraw.md",
     "프로그래밍/C.md",
     "공부/전공.md",
     "공부/재학생 컴퍼런스/웹 취약성.md",
-    "프로그래밍/게임 서버 공부.md",
     "공부/좆 같은 정처기.md",
     "공부/과학.md",
     "공부/공부.md",
@@ -246,7 +223,6 @@
     "프로그래밍/Python.md",
     "공부/곱셈공식.md",
     "공부/컴퓨터 구조.md",
-    "프로그래밍/React.md",
     "프로그래밍/Pasted image 20240626103013.png",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "공부/공부 자료/Game Project/project/Levatein 4.gif",
