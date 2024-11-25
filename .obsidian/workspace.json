@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/프로그래밍/게임 서버 공부.md",
+                "file": "Obsidian Vault/프로그래밍/ㅈ게임 서버 공부.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "게임 서버 공부"
+              "title": "ㅈ게임 서버 공부"
             }
           }
         ],
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/프로그래밍/게임 서버 공부.md",
+                "file": "Obsidian Vault/프로그래밍/ㅈ게임 서버 공부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "게임 서버 공부의 백링크"
+              "title": "ㅈ게임 서버 공부의 백링크"
             }
           },
           {
@@ -137,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/프로그래밍/게임 서버 공부.md",
+                "file": "Obsidian Vault/프로그래밍/ㅈ게임 서버 공부.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "게임 서버 공부의 나가는 링크"
+              "title": "ㅈ게임 서버 공부의 나가는 링크"
             }
           },
           {
@@ -164,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/프로그래밍/게임 서버 공부.md"
+                "file": "Obsidian Vault/프로그래밍/ㅈ게임 서버 공부.md"
               },
               "icon": "lucide-list",
-              "title": "게임 서버 공부 개요"
+              "title": "ㅈ게임 서버 공부 개요"
             }
           }
         ],
