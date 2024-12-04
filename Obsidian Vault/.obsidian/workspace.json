@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "자료구조"
             }
+          },
+          {
+            "id": "3899df5b13270b77",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-12-04 13.52.59.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-04 13.52.59.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,10 +162,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/자료구조.md"
+                "file": "Excalidraw/Drawing 2024-12-04 13.52.59.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "자료구조 개요"
+              "title": "Drawing 2024-12-04 13.52.59.excalidraw 개요"
             }
           },
           {
@@ -195,8 +208,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "91d6a378287dfd3f",
+  "active": "3899df5b13270b77",
   "lastOpenFiles": [
+    "프로그래밍/자료구조.md",
+    "Excalidraw/Drawing 2024-12-04 13.52.59.excalidraw.md",
     "Pasted image 20241204134951.png",
     "Pasted image 20241204134925.png",
     "Pasted image 20241204134916.png",
@@ -221,7 +236,6 @@
     "프로그래밍/프로그래밍.md",
     "프로그래밍/프로그래밍 공부.md",
     "프로그래밍/css.md",
-    "프로그래밍/자료구조.md",
     "프로그래밍/프로그래밍 자료/rEact1.md",
     "Excalidraw/Drawing 2024-07-31 13.34.54.excalidraw.md",
     "프로그래밍/Python.md",
@@ -234,7 +248,6 @@
     "공부/공부 자료/Game Project/Team Project/Pasted Image 20240509224536_097.png",
     "공부/공부 자료/Game Project/Team Project/Trick or picture",
     "공부/공부 자료/Pasted image 20240509082840.png",
-    "공부/공부 자료/Game Project/Team Project/Pasted Image 20240519224634_175.png",
     "공부/재학생 컴퍼런스",
     "공부/공부 자료/Game Project/Team Project/실낙원 프로젝트-1",
     "기업 질문",
