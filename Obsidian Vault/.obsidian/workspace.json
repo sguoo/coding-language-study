@@ -25,12 +25,14 @@
             "id": "3899df5b13270b77",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-04 13.52.59.excalidraw.md"
+                "file": "프로그래밍/자료구조.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-04 13.52.59.excalidraw"
+              "icon": "lucide-file",
+              "title": "자료구조"
             }
           }
         ],
@@ -162,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-04 13.52.59.excalidraw.md"
+                "file": "프로그래밍/자료구조.md"
               },
               "icon": "lucide-list",
-              "title": "Drawing 2024-12-04 13.52.59.excalidraw 개요"
+              "title": "자료구조 개요"
             }
           },
           {
@@ -210,8 +212,10 @@
   },
   "active": "3899df5b13270b77",
   "lastOpenFiles": [
-    "프로그래밍/자료구조.md",
+    "Pasted image 20241204135428.png",
+    "프로그래밍/유니티.md",
     "Excalidraw/Drawing 2024-12-04 13.52.59.excalidraw.md",
+    "프로그래밍/자료구조.md",
     "Pasted image 20241204134951.png",
     "Pasted image 20241204134925.png",
     "Pasted image 20241204134916.png",
@@ -238,8 +242,6 @@
     "프로그래밍/css.md",
     "프로그래밍/프로그래밍 자료/rEact1.md",
     "Excalidraw/Drawing 2024-07-31 13.34.54.excalidraw.md",
-    "프로그래밍/Python.md",
-    "공부/곱셈공식.md",
     "프로그래밍/Pasted image 20240626103013.png",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "공부/공부 자료/Game Project/project/Levatein 4.gif",
