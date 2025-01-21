@@ -11,14 +11,12 @@
             "id": "91d6a378287dfd3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "프로그래밍/게임 서버 공부.md",
-                "mode": "source",
-                "source": false
+                "file": "프로그래밍/Pasted image 20240626103013.png"
               },
-              "icon": "lucide-file",
-              "title": "게임 서버 공부"
+              "icon": "lucide-image",
+              "title": "Pasted image 20240626103013"
             }
           },
           {
@@ -163,10 +161,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/게임 서버 공부.md"
+                "file": "프로그래밍/Pasted image 20240626103013.png"
               },
               "icon": "lucide-list",
-              "title": "게임 서버 공부 개요"
+              "title": "Pasted image 20240626103013 개요"
             }
           },
           {
@@ -209,8 +207,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "91d6a378287dfd3f",
+  "active": "24d136a6414d5bbf",
   "lastOpenFiles": [
+    "프로그래밍/Nodejs.md",
+    "프로그래밍/옵시디언.md",
+    "프로그래밍/자료구조.md",
+    "프로그래밍/게임 서버 공부.md",
     "프로그래밍/js.md",
     "프로그래밍/jwt.md",
     "프로그래밍/flutter.md",
@@ -226,10 +228,7 @@
     "공부/과학.md",
     "공부/공부.md",
     "공부/대규모 화산분출.md",
-    "프로그래밍/자료구조.md",
-    "프로그래밍/게임 서버 공부.md",
     "프로그래밍/유니티.md",
-    "프로그래밍/옵시디언.md",
     "Pasted image 20241204135512.png",
     "Pasted image 20241204135428.png",
     "Excalidraw/Drawing 2024-12-04 13.52.59.excalidraw.md",
@@ -242,7 +241,6 @@
     "공부/재학생 컴퍼런스/웹 취약성.md",
     "무제 파일 1.md",
     "프로그래밍/프로그래밍 자료/React2.md",
-    "프로그래밍/프로그래밍 자료/Pointer 2chawon kgi.md",
     "프로그래밍/Pasted image 20240626103013.png",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "공부/공부 자료/Game Project/project/Levatein 4.gif",
