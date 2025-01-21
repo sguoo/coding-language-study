@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/js.md",
+                "file": "프로그래밍/게임 서버 공부.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "js"
+              "title": "게임 서버 공부"
             }
           },
           {
@@ -163,10 +163,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/js.md"
+                "file": "프로그래밍/게임 서버 공부.md"
               },
               "icon": "lucide-list",
-              "title": "js 개요"
+              "title": "게임 서버 공부 개요"
             }
           },
           {
@@ -211,8 +211,8 @@
   },
   "active": "91d6a378287dfd3f",
   "lastOpenFiles": [
-    "프로그래밍/jwt.md",
     "프로그래밍/js.md",
+    "프로그래밍/jwt.md",
     "프로그래밍/flutter.md",
     "프로그래밍/Excalidraw.md",
     "프로그래밍/C.md",
