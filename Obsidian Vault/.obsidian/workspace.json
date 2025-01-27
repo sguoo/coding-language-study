@@ -11,12 +11,14 @@
             "id": "91d6a378287dfd3f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "프로그래밍/Pasted image 20240626103013.png"
+                "file": "프로그래밍/게임 서버 공부.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20240626103013"
+              "icon": "lucide-file",
+              "title": "게임 서버 공부"
             }
           },
           {
@@ -161,10 +163,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/Pasted image 20240626103013.png"
+                "file": "프로그래밍/게임 서버 공부.md"
               },
               "icon": "lucide-list",
-              "title": "Pasted image 20240626103013 개요"
+              "title": "게임 서버 공부 개요"
             }
           },
           {
@@ -207,8 +209,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24d136a6414d5bbf",
+  "active": "91d6a378287dfd3f",
   "lastOpenFiles": [
+    "공부/영어.md",
+    "프로그래밍/Pasted image 20240626103013.png",
     "프로그래밍/Nodejs.md",
     "프로그래밍/옵시디언.md",
     "프로그래밍/자료구조.md",
@@ -222,7 +226,6 @@
     "프로그래밍/프로그래밍 공부.md",
     "공부/컴퓨터 구조.md",
     "공부/좆 같은 정처기.md",
-    "공부/영어.md",
     "공부/수행평가.md",
     "공부/사회.md",
     "공부/과학.md",
@@ -240,8 +243,6 @@
     "공부/전공.md",
     "공부/재학생 컴퍼런스/웹 취약성.md",
     "무제 파일 1.md",
-    "프로그래밍/프로그래밍 자료/React2.md",
-    "프로그래밍/Pasted image 20240626103013.png",
     "책 정리, 독후감/책 자료/Pasted image 20240509152111.png",
     "공부/공부 자료/Game Project/project/Levatein 4.gif",
     "공부/공부 자료/Game Project/project/Levatein Default.gif",
