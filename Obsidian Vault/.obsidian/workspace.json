@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "2abd76608372d927",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
             "id": "3899df5b13270b77",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "게임 서버 공부"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +67,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -94,7 +108,7 @@
               "type": "mk-path-view",
               "state": {},
               "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화되지 않음"
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           }
         ]
@@ -163,10 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/게임 서버 공부.md"
+                "file": "프로그래밍/게임 서버 공부.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "게임 서버 공부 개요"
+              "title": "게임 서버 공부 의 개요"
             }
           },
           {
@@ -198,10 +215,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -209,7 +226,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "91d6a378287dfd3f",
+  "active": "2abd76608372d927",
   "lastOpenFiles": [
     "공부/영어.md",
     "프로그래밍/Pasted image 20240626103013.png",
